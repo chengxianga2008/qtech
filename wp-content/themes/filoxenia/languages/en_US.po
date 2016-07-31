@@ -1,0 +1,939 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Filoxenia Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-15 10:55+0700\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ filoxenia
+#: archive.php:24
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ filoxenia
+#: archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ filoxenia
+#: archive.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ filoxenia
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ filoxenia
+#: archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ filoxenia
+#: archive.php:33
+msgid "Archives"
+msgstr ""
+
+# @ filoxenia
+#: author.php:21
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+# @ filoxenia
+#: category.php:21
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+# @ filoxenia
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ filoxenia
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ filoxenia
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+# @ filoxenia
+#: comments.php:38
+msgid "Leave a reply"
+msgstr ""
+
+# @ filoxenia
+#: comments.php:40
+msgid "Name *"
+msgstr ""
+
+# @ filoxenia
+#: comments.php:41
+msgid "Email *"
+msgstr ""
+
+# @ filoxenia
+#: comments.php:43
+msgid "Comment *"
+msgstr ""
+
+# @ filoxenia
+#: comments.php:44
+msgid "Send Message"
+msgstr ""
+
+# @ filoxenia
+#: content-audio.php:20 content-gallery.php:42 content-image.php:49
+#: content-video.php:18 content.php:19 single.php:89
+msgid "Post By "
+msgstr ""
+
+# @ filoxenia
+#: content-audio.php:20 content-gallery.php:42 content-image.php:49
+#: content-video.php:18 content.php:19 single.php:89
+msgid "in "
+msgstr ""
+
+# @ filoxenia
+#: content-audio.php:20 content-gallery.php:42 content-image.php:49
+#: content-video.php:18 content.php:19 single.php:89
+msgid "on"
+msgstr ""
+
+# @ filoxenia
+#: framework/meta-boxes.php:25
+msgid "Format Details"
+msgstr ""
+
+# @ filoxenia
+#: framework/meta-boxes.php:39
+msgid "Image"
+msgstr ""
+
+# @ filoxenia
+#: framework/meta-boxes.php:53
+msgid "Gallery"
+msgstr ""
+
+# @ filoxenia
+#: framework/meta-boxes.php:65
+msgid "Quote"
+msgstr ""
+
+# @ filoxenia
+#: framework/meta-boxes.php:81
+msgid "Author"
+msgstr ""
+
+# @ filoxenia
+#: framework/meta-boxes.php:93
+msgid "Audio"
+msgstr ""
+
+# @ filoxenia
+#: framework/meta-boxes.php:111
+msgid "Video"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:21
+msgid "Displays your latest Flickr feed."
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:49
+msgid "Flickr"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:173
+msgid "Flickr Name"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:193
+msgid "Flickr Type:"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:201
+msgid "user"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:205
+msgid "group"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:229
+msgid "Flickr ID"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/flickr.php:253
+msgid "Number of photos:"
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:15
+msgid "Latest instagram widget "
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:23
+msgid "Instagram Widget"
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:179
+msgid "Instagram"
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:179
+msgid "305801553.467ede5.94e8f22591af44eea81bdbd1ca3bff04"
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:179
+msgid "e659391279a64365a13bfb26b4caf15d"
+msgstr ""
+
+# @ mint
+# @ filoxenia
+#: framework/widget/instagram.php:187 framework/widget/tabbed.php:183
+msgid "Title:"
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:195
+msgid " Access Token:"
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:203
+msgid "Client ID:"
+msgstr ""
+
+# @ mint
+#: framework/widget/instagram.php:211
+msgid "Number of feed:"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/tabbed.php:60
+msgid "Display popular posts, recent posts, recent commets, and tags in an animated tabs."
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/tabbed.php:62
+msgid "Filoxenia Tab Widget"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/tabbed.php:189
+msgid "Popular posts:"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/tabbed.php:191 framework/widget/tabbed.php:203
+msgid "Tab name: "
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/tabbed.php:192
+msgid "Show number:"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/tabbed.php:201
+msgid "Recent posts:"
+msgstr ""
+
+# @ filoxenia
+#: framework/widget/tabbed.php:204
+msgid "Show number: "
+msgstr ""
+
+# @ filoxenia
+#: functions.php:55
+msgid "Primary Menu"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:123
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:125 functions.php:134
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ filoxenia
+#: functions.php:132
+msgid "WHMCS Sidebar"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:141
+msgid "Footer One Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:143 functions.php:153 functions.php:163 functions.php:173
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+# @ filoxenia
+#: functions.php:151
+msgid "Footer Two Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:161
+msgid "Footer Three Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:171
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:181
+msgid "Sliding One Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:183 functions.php:193 functions.php:203 functions.php:213
+msgid "Sliding Widget that appears on the Top."
+msgstr ""
+
+# @ filoxenia
+#: functions.php:191
+msgid "Sliding Two Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:201
+msgid "Sliding Three Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:211
+msgid "Sliding Fourth Widget Area"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:224
+msgid "Home"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:383
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:463
+msgid "type to search and hit enter"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:478
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ filoxenia
+#: functions.php:486
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wpb
+#: functions.php:518
+msgid "Fullwidth"
+msgstr ""
+
+# @ wpb
+# @ filoxenia
+#: functions.php:521 vc_shortcode.php:626
+msgid "No"
+msgstr ""
+
+# @ wpb
+# @ filoxenia
+#: functions.php:522 vc_shortcode.php:628
+msgid "Yes"
+msgstr ""
+
+# @ wpb
+#: functions.php:524
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+# @ wpb
+#: functions.php:532 functions.php:535
+msgid "Container Class"
+msgstr ""
+
+# @ filoxenia
+#: header.php:96
+msgid "Menu"
+msgstr ""
+
+# @ filoxenia
+#: page-templates/template-blog-fullwidth.php:50
+#: page-templates/template-whmcs.php:33
+msgid "Nothing Found Here!"
+msgstr ""
+
+# @ filoxenia
+#: page-templates/template-canvas.php:15 page.php:43
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+# @ filoxenia
+#: search.php:21
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+# @ filoxenia
+#: single.php:102
+msgid "0 comment"
+msgstr ""
+
+# @ filoxenia
+#: single.php:102
+msgid "1 comment"
+msgstr ""
+
+# @ filoxenia
+#: single.php:102
+msgid "% comments"
+msgstr ""
+
+# @ theway
+#: tag.php:21
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:9
+msgid " Heading"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:29
+msgid "Text"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:42
+msgid "Element Tag"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:47
+msgid "h1"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:49
+msgid "h2"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:51
+msgid "h3"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:53
+msgid "h4"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:55
+msgid "h5"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:57
+msgid "h6"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:59
+msgid "p"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:61
+msgid "div"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:64
+msgid "Section Element Tag"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:71
+msgid "Text Align"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:77
+msgid "left"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:79
+msgid "right"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:81
+msgid "center"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:83
+msgid "justify"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:87
+msgid "Section Overlay"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:98
+msgid "Font Size"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:115
+msgid "Color"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:132
+msgid "Margin Bottom"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:149
+msgid "Class Extra"
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:168
+msgid "Call To Action"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:187
+msgid "Content"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:190
+msgid "Content Call"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:205 vc_shortcode.php:613
+msgid "Link Button"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:220
+msgid "Support Box"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:270
+msgid " Clients Logo"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:292
+msgid "Search Domain Form"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:302
+msgid "Tite"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:305
+msgid "Form Title"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:311
+msgid "Action Link"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:314
+msgid "Enter Action Link, Ex: http://demo.vegatheme.com/filoxenia/whmcs-bridge/?ccce=domainchecker"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:320 vc_shortcode.php:323
+msgid "Button Text"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:332
+msgid "Add your domain option for search, need register domain on whmcs-bridge before use."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:338
+msgid "Link View Domain Price List"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:341
+msgid "Link View Domain Price List, Leave a blank do not show."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:347
+msgid "Link Bulk Domain Search"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:350
+msgid "Link Bulk Domain Search, Leave a blank do not show."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:356
+msgid "Link Transfer Domain"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:359
+msgid "Link Transfer Domain, Leave a blank do not show."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:370
+msgid "Our Team"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:383
+msgid "Avarta of member, Recomended Size: 420 x 420"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:389
+msgid "Name"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:392
+msgid "Member's Name"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:398
+msgid "Job"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:401
+msgid "Member's job."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:416
+msgid "Icon 1"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:419 vc_shortcode.php:437 vc_shortcode.php:455
+#: vc_shortcode.php:473
+msgid "Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:428 vc_shortcode.php:446 vc_shortcode.php:464
+#: vc_shortcode.php:482
+msgid "Url."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:434
+msgid "Icon 2"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:452
+msgid "Icon 3"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:470
+msgid "Icon 4"
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:492
+msgid "Features Box"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:505
+msgid "Find here: <a target='_blank' href='https://icomoon.io/app/'>https://icomoon.io/app/</a>"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:511
+msgid "Title Box"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:514
+msgid "Title display in Services box."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:520
+msgid "Content Box"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:523
+msgid "About your Services."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:530
+msgid "Type Box"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:534
+msgid "Style 1: Big Icon"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:536
+msgid "Style 2: Small Icon"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:545
+msgid "Min Height Box"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:548
+msgid "Min Height Box. Ex: 100px"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:558
+msgid " Pricing Table"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:568
+msgid "Title Pricing"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:571
+msgid "Title display in Pricing Table."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:577
+msgid "Price Pricing"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:580
+msgid "Price display in Pricing Table."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:586
+msgid "Per Time"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:589
+msgid "Price per time in Pricing Table."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:595
+msgid "Detail Pricing"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:598
+msgid "Content Pricing Table."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:604
+msgid "Label Button"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:607
+msgid "Text display in button."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:616
+msgid "Link in button."
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:622
+msgid "Featured Pricing?"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:640
+msgid "Promotion Domain"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:650 vc_shortcode.php:653
+msgid "Title"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:662
+msgid "Image Domain name, Recomended Size: 70 x 30"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:668
+msgid "content"
+msgstr ""
+
+# @ filoxenia
+#: vc_shortcode.php:671
+msgid "Description for domain name."
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:680
+msgid "Google Map"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:690
+msgid "ID Map"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:693
+msgid "Please enter ID Map, map-canvas1, map-canvas2, map-canvas3, ..etc"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:699
+msgid "Height Map"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:702
+msgid "Please enter number height Map, 300, 350, 380, ..etc. Default: 420."
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:708
+msgid "Latitude"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:711
+msgid "Please enter <a href='http://www.latlong.net/'>Latitude</a> google map"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:717
+msgid "Longitude"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:720
+msgid "Please enter <a href='http://www.latlong.net/'>Longitude</a> google map"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:727
+msgid "Zoom Map"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:730
+msgid "Please enter Zoom Map, Default: 15"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:736
+msgid "Map color"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:739
+msgid "Choose Map color"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:745
+msgid "Company Name"
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:748
+msgid "Please enter Title."
+msgstr ""
+
+# @ dotted
+#: vc_shortcode.php:758
+msgid "Icon Map marker, 47 x 68"
+msgstr ""
