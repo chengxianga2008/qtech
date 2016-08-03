@@ -95,20 +95,48 @@ if (!class_exists('ihcAccountPage')){
 			 */
 			$available_tabs = array('overview'=>__('Overview', 'ihc'),
 									'profile'=>__('Profile', 'ihc'),
-									'subscription'=>__('Subscription', 'ihc'),
-									'social' => __('Social Plus', 'ihc'),
-									'transactions'=>__('Transactions', 'ihc'),									
+									'downloads'=>__('Downloads', 'ihc'),
+									'download_history' => __('Download History', 'ihc'),
+									'tickets'=>__('Tickets', 'ihc'),	
+									'create_ticket'=>__('Create Ticket', 'ihc'),
 			);
 			$this->show_tabs = explode(',', $this->settings['ihc_ap_tabs']);
 			$str = '';
 			$str .= '<div class="ihc-mobile-bttn-wrapp"><i class="ihc-mobile-bttn"></i></div>';
 			$str .= '<div class="ihc-ap-menu">';
 			foreach ($available_tabs as $k=>$v){
-				if (in_array($k, $this->show_tabs)){
+				if (in_array($k, $this->show_tabs) || true){
 					$new_url = add_query_arg( 'ihc_ap_menu', $k, $this->url );
 					$class = 'ihc-ap-menu-item';
 					$class .= ($k==$this->tab) ? ' ihc-ap-menu-item-selected' : '';
-					$str .= '<div class="' . $class . '"><i class="fa-ihc fa-'.$k.'-account-ihc"></i><a href="' . $new_url . '">' . $v . '</a></div>';					
+					
+					$k .= '-account-ihc';
+					
+					
+					if($v == "Downloads"){
+						$new_url = add_query_arg( 'ihc_ap_menu', 'downloads', $this->url );
+						$k = "cloud-download";
+						
+					}
+					
+					if($v == "Download History"){
+						$new_url = add_query_arg( 'ihc_ap_menu', 'download_history', $this->url );
+						$k = "history";
+					
+					}
+					
+					if($v == "Tickets"){
+						$new_url = add_query_arg( 'ihc_ap_menu', 'tickets', $this->url );
+						$k = "ticket";
+						
+					}
+					
+					if($v == "Create Ticket"){
+						$k = "question";
+					
+					}
+					
+					$str .= '<div class="' . $class . '"><i class="fa-ihc fa-'.$k.'"></i><a href="' . $new_url . '">' . $v . '</a></div>';					
 				}
 			}
 			
@@ -157,6 +185,18 @@ if (!class_exists('ihcAccountPage')){
 					break;
 				case 'affiliate':
 					$str .= $this->affiliate_page();
+					break;
+				case 'downloads':					
+					$str .= do_shortcode( '[wpdm_all_packages]' );
+					break;
+				case 'download_history':
+					$str .= do_shortcode( '[wpdm_user_download_history]' );
+					break;
+				case 'tickets':
+					$str .= do_shortcode( '[wp_support_plus_all_tickets]' );
+					break;
+				case 'create_ticket':
+					$str .= do_shortcode( '[wp_support_plus_create_ticket]' );
 					break;
 				default :					
 					$str .= $this->overview_page();

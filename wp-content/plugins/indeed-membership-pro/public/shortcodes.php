@@ -46,9 +46,12 @@ function ihc_login_form($attr=array()){
 			}					
 		} else {
 			//already logged in
-			if ($user_type=='admin'){
-				$str .= '<div class="ihc-wrapp-the-errors"><div class="ihc-register-error">' . __('<strong>Admin Info</strong>: Loggin Form is not showing up when You\'re logged.', 'ihc') . '</div></div>';
-			}
+// 			if ($user_type=='admin'){
+// 				$str .= '<div class="ihc-wrapp-the-errors"><div class="ihc-register-error">' . __('<strong>Admin Info</strong>: Loggin Form is not showing up when You\'re logged.', 'ihc') . '</div></div>';
+// 			}
+
+			wp_redirect(get_home_url(null,"account-user") );
+
 		}			
 	} else {
 		/////////////UNREGISTERED
@@ -239,10 +242,12 @@ function ihc_register_form($attr=array()){
 			$obj_form->setVariable($args);//setting the object variables
 			$str .= '<div class="iump-register-form '.$template.'">' . $obj_form->form() . '</div>';
 	} else {
+		
+		wp_redirect(get_home_url(null,"account-user") );
 		//already logged in
-		if ($user_type=='admin'){
-			$str .= '<div class="ihc-wrapp-the-errors"><div class="ihc-register-error">' . __('<strong>Admin Info</strong>: Register Form is not showing up when You\'re logged.', 'ihc') . '</div></div>';
-		}
+		// 		if ($user_type=='admin'){
+		// 			$str .= '<div class="ihc-wrapp-the-errors"><div class="ihc-register-error">' . __('<strong>Admin Info</strong>: Register Form is not showing up when You\'re logged.', 'ihc') . '</div></div>';
+		// 		}
 	}
 	return $str;
 }

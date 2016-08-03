@@ -21,7 +21,7 @@ get_header(); ?>
         <div class="row">
         <?php if (have_posts()){ ?>
             
-        	<div class="col-md-8">   
+        	<div class="col-md-10">   
                 <div class="page-content">
             		<?php while (have_posts()) : the_post()?>
                         
@@ -35,7 +35,7 @@ get_header(); ?>
                 </div>    
         	</div>
 
-        	<div class="col-md-4">
+        	<div class="col-md-2">
                 <?php get_sidebar();?>
             </div>
             

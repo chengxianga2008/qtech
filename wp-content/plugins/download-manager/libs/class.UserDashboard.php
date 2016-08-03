@@ -10,6 +10,7 @@ class UserDashboard
     function __construct(){
         add_action("wp", array($this, 'DashboardMenuInit'));
         add_shortcode("wpdm_user_dashboard", array($this, 'Dashboard'));
+        add_shortcode("wpdm_user_download_history", array($this, 'DownloadHistory'));
     }
 
     function DashboardMenuInit(){
