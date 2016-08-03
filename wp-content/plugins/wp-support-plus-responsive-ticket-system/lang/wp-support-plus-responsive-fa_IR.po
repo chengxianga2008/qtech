@@ -1,0 +1,847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Support Plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-02 16:02+0530\n"
+"PO-Revision-Date: 2015-02-21 15:47+0330\n"
+"Last-Translator: Behrooz Sedghi <iranget@gmail.com>\n"
+"Language-Team: Apktops.ir <admin@apktops.ir>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SearchPath-0: /var/www/wpsp/wp-content/plugins/wp-support-plus\n"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/loggedInUser.php:7
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/display_ticket.php:3
+msgid "Tickets"
+msgstr "تیکت ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/loggedInUser.php:8
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/display_ticket.php:4
+msgid "Create New Ticket"
+msgstr "ایجاد تیکت جدید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/loggedInUser.php:16
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/loggedInUser.php:22
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestUser.php:5
+msgid "Please Wait"
+msgstr "لطفا صبر کنید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:7
+msgid "Your Name"
+msgstr "نام و نام خانوادگی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:9
+msgid "Your Email"
+msgstr "ایمیل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:11
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:33
+msgid "Subject"
+msgstr "عنوان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:18
+msgid "Description"
+msgstr "توضیحات"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:22
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:34
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:28
+msgid "Category"
+msgstr "بخش"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:32
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:35
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:42
+msgid "Priority"
+msgstr "اولویت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:34
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:91
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:46
+msgid "Normal"
+msgstr "معمولی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:35
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:92
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:47
+msgid "High"
+msgstr "زیاد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:36
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:93
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:48
+msgid "Medium"
+msgstr "متوسط"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:37
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:94
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:49
+msgid "Low"
+msgstr "کم"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:45
+msgid "Submit Ticket"
+msgstr "ثبت تیکت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/guestTicketForm.php:46
+msgid "Reset Form"
+msgstr "بازنشانی فرم"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/support_panel.php:21
+msgid "Skype Chat"
+msgstr "چت اسکایپ"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/support_panel.php:27
+msgid "Skype Call"
+msgstr "تماس اسکایپ"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/support_panel.php:40
+msgid "Support Ticket"
+msgstr "ارسال تیکت به پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/create_new_ticket.php:11
+msgid "Have an Account?"
+msgstr "قبلا ثبت نام کرده اید؟"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/create_new_ticket.php:11
+msgid "Login Here"
+msgstr "وارد شوید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/create_new_ticket.php:13
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/create_new_ticket.php:19
+msgid "OR"
+msgstr "یا"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/create_new_ticket.php:15
+msgid "Login with Facebook"
+msgstr "توسط اکانت فیس بوک وارد شوید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/create_new_ticket.php:24
+msgid "Please Wait..."
+msgstr "لطفا منتاظر باشید ..."
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:32
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:15
+msgid "Status"
+msgstr "وضعیت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:36
+msgid "Updated"
+msgstr "بروز شده"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:51
+msgid "months ago"
+msgstr "ماه قبل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:52
+msgid "days ago"
+msgstr "روز قبل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:53
+msgid "hours ago"
+msgstr "ساعت قبل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:54
+msgid "minutes ago"
+msgstr "دقیقه قبل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:55
+msgid "seconds ago"
+msgstr "ثانیه قبل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:89
+msgid "Newer"
+msgstr "جدیدترین"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:91
+msgid "Older"
+msgstr "قدیمی ترین"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:93
+msgid "No Tickets Found"
+msgstr "هیچ تیکتی پیدا نشد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketAssignment.php:26
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:11
+msgid "[Ticket #"
+msgstr "[تیکت #"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketAssignment.php:28
+msgid "Assign to"
+msgstr "ارجاع شده"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketAssignment.php:31
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:70
+msgid "None"
+msgstr "هیچکدام"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketAssignment.php:40
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:55
+msgid "Cancel"
+msgstr "لغو"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketAssignment.php:41
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:56
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/display_ticket.php:5
+msgid "Agent Settings"
+msgstr "تنظیمات کارمندان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:17
+msgid "Status:"
+msgstr "وضعیت:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:20
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:36
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:51
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:69
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:90
+msgid "All"
+msgstr "همه"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:21
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:19
+msgid "Open"
+msgstr "باز"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:22
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:21
+msgid "Pending"
+msgstr "معلق"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:23
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:23
+msgid "Closed"
+msgstr "بسته شده"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:33
+msgid "Type:"
+msgstr "نوع:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:37
+msgid "User"
+msgstr "کاربر"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:38
+msgid "Guest"
+msgstr "میهمان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:48
+msgid "Category:"
+msgstr "بخش:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:66
+msgid "Assigned to:"
+msgstr "ارجاع به:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:87
+msgid "Priority:"
+msgstr "اولویت:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:104
+msgid "No of Tickets:"
+msgstr "شماره تیکت:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:107
+msgid "10"
+msgstr "10"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:108
+msgid "20"
+msgstr "20"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:109
+msgid "30"
+msgstr "30"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:110
+msgid "40"
+msgstr "40"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:111
+msgid "50"
+msgstr "50"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ticket_filter.php:121
+msgid "Search Tickets..."
+msgstr "جستجوی تیکت ها ..."
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:13
+msgid "Agent Capabilities"
+msgstr "قابلیت های کارمند"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "This will add"
+msgstr "نقش های زیر می توانند به عنوان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+msgid "Support Agent"
+msgstr "کارمند پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "capabilities to your existing user roles"
+msgstr "انتخاب شوند"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:30
+msgid "Supervisor Capabilities"
+msgstr "قابلیت های مدیر"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "Support Supervisor"
+msgstr "مدیر بخش پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:47
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:115
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:54
+msgid "Save Settings"
+msgstr "ذخیره تغییرات"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:9
+msgid "Support Page/Post"
+msgstr "برگه/نوشته پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:11
+msgid "Select Page/Post"
+msgstr "انتخاب برگه/نوشته"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:29
+msgid "Use shortcode"
+msgstr "استفاده از کدهای کوتاه"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:29
+msgid "in selected page/post above."
+msgstr "در برگه/نوشته انتخاب شده در بالا"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:32
+msgid "Support Button"
+msgstr "دکمه پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:33
+msgid ""
+"If enabled, button will be shown on all pages of front-end which redirect to "
+"support page/post selected above on click."
+msgstr ""
+"در صورت فعال کردن دکمه پشتیبانی این دکمه در تمامی صفحات سایت به صورت ثابت "
+"نمایش داده می شود."
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:37
+msgid "Enable Support Button"
+msgstr "فعال کردن نمایش دکمه پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:40
+msgid "Button Position"
+msgstr "موقعیت دکمه پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:42
+msgid "Top Left"
+msgstr "بالا چپ"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:43
+msgid "Top Right"
+msgstr "بالا راست"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:44
+msgid "Bottom Left"
+msgstr "پایین چپ"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:45
+msgid "Bottom Right"
+msgstr "پایین راست"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:49
+msgid "Guest Ticket"
+msgstr "امکان ارسال تیکت توسط کاربران میهمان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:50
+msgid "If enabled, non logged-in user will able to raise ticket"
+msgstr "اگر فعال کنید کاربران غیر عضو نیز می توانند تیکت ارسال کنند"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:54
+msgid "Enable Guest Tickets"
+msgstr "فعال کردن تیکت میمهمان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:59
+msgid "Facebook App Details"
+msgstr "جزئیات اپلیکیشن فیس بوک"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:60
+msgid "Click Here"
+msgstr "کلیک کنید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:60
+msgid "for help to create App"
+msgstr "برای دریافت راهنما جهت ایجاد اپلیکیشن"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:63
+msgid "App ID:"
+msgstr "شناسه اپلیکیشن:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:69
+msgid "App Secret:"
+msgstr "App Secret:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:77
+msgid "Front End Support Panel"
+msgstr "فعال سازی پنل کشویی پشتیبانی در سایت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:80
+msgid "Enable:"
+msgstr "فعالسازی:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:82
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:101
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:108
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:40
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:48
+msgid "Yes"
+msgstr "بله"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:83
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:102
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:109
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:41
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:49
+msgid "No"
+msgstr "خیر"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:87
+msgid "Support Title:"
+msgstr "عنوان:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:93
+msgid "Phone Number:"
+msgstr "شماره تماس:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:99
+msgid "Display Skype Chat?:"
+msgstr "نمایش چت اسکایپ؟ :"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:106
+msgid "Display Skype Call?:"
+msgstr "نمایش تماس اسکایپ؟:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:122
+msgid "Facebook App Help"
+msgstr "راهنمای اپ فیس بوک"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:126
+msgid "Create your application"
+msgstr "اپلیکیشن خود را ایجاد کنید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:127
+msgid "Look for Site URL field in the Website tab and enter"
+msgstr "Look for Site URL field in the Website tab and enter"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:128
+msgid "After this, go to the"
+msgstr "بعد از این برو به"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:128
+msgid "Facebook Application List"
+msgstr "فهرست اپلیکیشن های فیس بوک"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:128
+msgid "page and select your newly created application"
+msgstr "page and select your newly created application"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:129
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:130
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:131
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:132
+msgid "Go to"
+msgstr "برو به"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:129
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:130
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:24
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:129
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:130
+msgid "and enter"
+msgstr "و اینتر بزنید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:129
+msgid "Contact Email"
+msgstr "ایمیل تماس"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:130
+msgid "+Add Platform"
+msgstr "+اضافه کردن پلتفرم"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:130
+msgid "select"
+msgstr "انتخاب"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:130
+msgid "Website"
+msgstr "وب سایت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:131
+msgid "Status and Review"
+msgstr "وضعیت و نقد و بررسی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:131
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:132
+msgid " and"
+msgstr "و"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:131
+msgid "ON"
+msgstr "روشن"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:131
+msgid "available to the general public"
+msgstr "در دسترس عموم مردم"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:132
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:132
+msgid " and Copy the values from these fields:"
+msgstr "و مقدار را از این فیلد کپی کن:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:132
+msgid "App ID/API key"
+msgstr "کلید ID/API برنامه"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:132
+msgid "Application Secret"
+msgstr "Application Secret"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:132
+msgid ", and enter in <b>Facebook App Settings"
+msgstr ", و وارد <b>تنظیمات اپ فیس بود شوید."
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getGeneralSettings.php:136
+msgid "Close"
+msgstr "بستن"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/selectRegisteredUser.php:2
+msgid "Username or Email"
+msgstr "نام کاربری یا ایمیل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/selectRegisteredUser.php:3
+msgid "Search"
+msgstr "جستجو"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:25
+msgid "Signature"
+msgstr "امضا"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:28
+msgid "Skype Settings"
+msgstr "تنظیمات اسکایپ"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:29
+msgid ""
+" You'll need to update your Skype setting to allow incoming calls or "
+"messages from people who are not on your contact list."
+msgstr ""
+"جهت استفاده از این بخش باید در تنظیمات اسکایپ اجازه دریافت پیام و تماس از "
+"افراد ناشناس را صادر کنید."
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:32
+msgid "Skype ID"
+msgstr "آی دی اسکایپ:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:37
+msgid "Available to Chat?"
+msgstr "در دسترس برای چت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getAgentSettings.php:45
+msgid "Available to Call?"
+msgstr "در دسترس برای تماس"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:75
+msgid "Raised By"
+msgstr "ارسال کننده"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:76
+msgid "Type"
+msgstr "نوع"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:78
+msgid "Assigned to"
+msgstr "ارجاع به"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:22
+msgid "Support Plus"
+msgstr "افزونه پشتیبانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:23
+msgid "Statistics"
+msgstr "گزارشات"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:25
+msgid "Support"
+msgstr "پشتیبانی افزونه"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:53
+msgid "WP Support Plus"
+msgstr "افزونه پشتیبانی وردپرس"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:54
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:83
+msgid "WP Support Plus Settings"
+msgstr "تنظیمات افزونه پشتیانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin.php:104
+msgid "WP Support Plus Statistics"
+msgstr "وضعیت تیکت ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:15
+msgid "Online Call Agents"
+msgstr "کارمندان آنلاین جهت تماس"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:43
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:74
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:105
+msgid "Skype ID:"
+msgstr "شناسه اسکایپ:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:112
+msgid "Sorry, currently no agent available for call!!!"
+msgstr "باعرض پوزش در حال حاضر هیچ کارمندی در چت حاضر نمی باشد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomFields.php:10
+msgid "Label"
+msgstr "نام"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomFields.php:11
+msgid "Action"
+msgstr "عملیات"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomFields.php:24
+msgid "No Custom Fields Found"
+msgstr "هیچ زمینه ای پیدا نشد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomFields.php:29
+msgid "Enter New Field Label"
+msgstr "نام فیلد جدید را وارد کنید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomFields.php:30
+msgid "Create New Field"
+msgstr "ایجاد فیلد جدید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomFields.php:35
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:25
+msgid " Back To Tickets"
+msgstr "بازگشت به تیکت ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:26
+msgid "Change Status"
+msgstr "تغییر وضعیت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:35
+msgid "Not Set"
+msgstr "ارسال نشد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:90
+msgid "Attach File(s):"
+msgstr "ضمیمه فایل:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:96
+msgid "Reset"
+msgstr "بازنشانی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:97
+msgid "Submit Reply"
+msgstr "ارسال پاسخ"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:150
+msgid "Attachment: "
+msgstr "ضمیمه ها:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/statistics.php:33
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/statistics.php:41
+msgid "Open Tickets"
+msgstr "تیکت های باز"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/statistics.php:34
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/statistics.php:42
+msgid "Pending Tickets"
+msgstr "تیکت های معلق"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/statistics.php:35
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/statistics.php:43
+msgid "Closed Tickets"
+msgstr "تیکت های بسته"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:12
+msgid "Icon"
+msgstr "آیکن"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:13
+msgid "Menu"
+msgstr "منو"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:14
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:47
+msgid "Redirect URL"
+msgstr "آدرس ارجاع شونده"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:22
+msgid "Delete"
+msgstr "حذف"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:28
+msgid "No Menus Found"
+msgstr "منویی پیدا نشد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:37
+msgid "Select Icon (40 x 40 pixel)"
+msgstr "انتخاب آیکن (40 x 40 pixel)"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:42
+msgid "Menu Text"
+msgstr "متن منو"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:52
+msgid "Create New Menu"
+msgstr "ایجاد منوی جدید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChatOnlineAgents.php:15
+msgid "Online Chat Agents"
+msgstr "چت آنلاین با کارمندان"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getChatOnlineAgents.php:112
+msgid "Sorry, currently no agent available for chat!!!"
+msgstr "باعرض پوزش در حال حاضر هیچ کارمندی در چت حاضر نمی باشد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:15
+msgid "Name"
+msgstr "نام"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:16
+msgid "Username"
+msgstr "نام کاربری"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:17
+msgid "Email"
+msgstr "ایمیل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:29
+msgid "No Results Found"
+msgstr "نتیجه ای یافته نشد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/ajax.php:96
+msgid "Javascript Injection Not Allowed!"
+msgstr "Javascript Injection Not Allowed!"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCategories.php:9
+msgid "Category Name"
+msgstr "نام بخش"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCategories.php:26
+msgid "Enter Category Name"
+msgstr "نام بخش را وارد کنید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCategories.php:27
+msgid "Create New Category"
+msgstr "ایحاد بخش جدید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getCategories.php:32
+msgid "Update Category"
+msgstr "بروزرسانی بخش"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/create_new_ticket.php:17
+msgid "Create Ticket As"
+msgstr "ایجاد تیکت جدید به صورت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/create_new_ticket.php:20
+msgid "Change User"
+msgstr "تغییر کاربر"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/create_new_ticket.php:54
+msgid "Attach File(s)"
+msgstr "ضمیمه کردن فایل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/create_new_ticket.php:72
+msgid "Select User"
+msgstr "حذف کاربر"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:29
+msgid "Assign Agent"
+msgstr "ارجاع شده"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:30
+msgid "Delete Ticket"
+msgstr "حذف تیکت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin_settings.php:3
+msgid "General"
+msgstr "عمومی"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin_settings.php:4
+msgid "Categories"
+msgstr "بخش ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin_settings.php:5
+msgid "Email Notification"
+msgstr "ایمیل دریافت اعلان ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin_settings.php:6
+msgid "Custom Fields"
+msgstr "زمینه های دلخواه"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin_settings.php:7
+msgid "Custom Slider Menus"
+msgstr "تنظیمات دلخواه منوی اسلاید"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/admin_settings.php:8
+msgid "Role Management"
+msgstr "مدیریت نقش ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:5
+msgid "Mail Settings"
+msgstr "تنظیمات ایمیل"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:8
+msgid "From Email:"
+msgstr "از ایمیل:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:12
+msgid "From Name:"
+msgstr "با نام:"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:18
+msgid "Notification Settings"
+msgstr "تنظیمات اعلان ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:22
+msgid "New Ticket Created"
+msgstr "تیکت جدید ایجاد شد"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:25
+msgid ""
+"This will send email notification to Administrator when new ticket has been "
+"created"
+msgstr "ارسال ایمیل اطلاع رسانی به مدیر اصلی هنگام بروز شدن تیکت ها"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:29
+msgid "Ticket Reply"
+msgstr "پاسخ به تیکت"
+
+#: /var/www/wpsp/wp-content/plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:32
+msgid ""
+"This will send email notification to all Agent when any ticket has been "
+"updated"
+msgstr "ارسال ایمیل اطلاع رسانی به تمامی کارمندان هنگام بروز شدن تیکت ها"

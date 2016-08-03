@@ -1,0 +1,2183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Support Plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-29 10:32+0530\n"
+"PO-Revision-Date: 2016-02-12 15:26+0800\n"
+"Last-Translator: 0926@ecclub <0926@ecclub.tw>\n"
+"Language-Team: 0926@ecclub <0926@ecclub.tw>\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Target-Locale: zh_TW\n"
+"X-Poedit-SearchPath-0: /home/pradeep/Documents/Plugin Parking/wp-support-plus/wp-"
+"support-plus\n"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:72
+msgid "Piping Type"
+msgstr "Piping 類型"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:74
+msgid "cPanel"
+msgstr "cPanel"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:75
+msgid "IMAP"
+msgstr "IMAP"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:102
+msgid "Encryption"
+msgstr "加密"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:109
+msgid "Incoming Mail Server"
+msgstr "接收郵件伺服器"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:113
+msgid "Incoming Mail Server Port"
+msgstr "接收郵件伺服器連接埠"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:121
+msgid "Password"
+msgstr "密碼"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:125
+msgid "Test Connection"
+msgstr "測試連接狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:127
+msgid "Connection Failed!"
+msgstr "連接失敗！"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:128
+msgid "Connection Successful!"
+msgstr "連接成功！"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:107
+msgid "Please select user"
+msgstr "請選擇帳號"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:271
+msgid "to know our update policy"
+msgstr "了解我們的更新政策"
+
+#: ../../plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:68 ../..
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:73
+#: /plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:105
+msgid "Change Raised By"
+msgstr "變更提單人"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:14
+msgid "Dashboard Menu Label"
+msgstr "後台選單名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:15
+msgid "This is applicable for dashboard menu title only. Please don't leave blank."
+msgstr "此欄位僅適用於後台選單名稱，請勿留空以確保選單能正確顯示"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:44
+msgid "Hide Selected Status Tickets on Front-end"
+msgstr "從前台隱藏所選狀態的客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:89
+msgid "Hide Selected Status Tickets on Back-end"
+msgstr "從後台隱藏所選狀態的客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:90
+msgid "Select Statusses"
+msgstr "選擇狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:90
+msgid "for hiding tickets from backe"
+msgstr "自動隱藏該狀態客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:106
+msgid "This will enable"
+msgstr "以此項控制"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:106
+msgid "ability to modify raised by for tickets"
+msgstr "要顯示的提單人"
+
+#: ../../plugins/wp-support-plus/includes/admin/showcanned.php:32 ../..
+#: /plugins/wp-support-plus/includes/admin/showcanned.php:76
+msgid "Share"
+msgstr "分享"
+
+#: ../../plugins/wp-support-plus/includes/admin/showcanned.php:56
+msgid "Users"
+msgstr "帳號"
+
+#. Name of the plugin
+msgid "WP Support Plus Pro"
+msgstr "WP Support Plus Pro"
+
+#. URI of the plugin
+msgid "http://pradeepmakone.com/wpsupportplus"
+msgstr "http://pradeepmakone.com/wpsupportplus"
+
+#. Description of the plugin
+msgid "Easy to use Customer Support System in Wordpress itself!"
+msgstr "Easy to use Customer Support System in Wordpress itself!"
+
+#. Author of the plugin
+msgid "Pradeep Makone"
+msgstr "Pradeep Makone"
+
+#. Author URI of the plugin
+msgid "http://profiles.wordpress.org/pradeepmakone07"
+msgstr "http://profiles.wordpress.org/pradeepmakone07"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:257
+msgid "WP Support Plus Pro License"
+msgstr "WP Support Plus 專業版序號"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:257
+msgid "Pro License"
+msgstr "專業版序號"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:265
+msgid "WP Support Plus Pro License Options"
+msgstr "WP Support Plus 專業版序號設定"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:274
+msgid "License Key"
+msgstr "序號"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:278
+msgid "Enter your license key"
+msgstr "請輸入您的序號"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:284 ../../plugins/wp-
+#: support-plus/wp-support-plus-pro.php:293
+msgid "Activate License"
+msgstr "啟用認證"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:288
+msgid "active"
+msgstr "啟用"
+
+#: ../../plugins/wp-support-plus/wp-support-plus-pro.php:290
+msgid "Deactivate License"
+msgstr "停用認證"
+
+#: ../../plugins/wp-support-plus/includes/loggedInUserAllTickets.php:28 ../..
+#: /plugins/wp-support-plus/includes/loggedInUserCreateTicket.php:12
+#: /plugins/wp-support-plus/includes/loggedInUser.php:46 ../../plugins/wp-support-
+#: plus/includes/loggedInUser.php:52 plus/includes/loggedInUser.php:61
+#: plus/includes/guestTicketForm.php:49 plus/includes/guestUser.php:5
+msgid "Please Wait"
+msgstr "請稍候"
+
+#: ../../plugins/wp-support-plus/includes/ticketActionFront.php:2 ../..
+#: /plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:47
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:28
+#: /plugins/wp-support-plus/includes/admin/ticketActionDashboard.php:2
+msgid "Apply Filter"
+msgstr "進行篩選"
+
+#: ../../plugins/wp-support-plus/includes/ticketActionFront.php:3 ../..
+#: /plugins/wp-support-plus/includes/admin/ticketActionDashboard.php:3
+msgid "Reset Filter"
+msgstr "重置篩選條件"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:4
+msgid "Enter Username"
+msgstr "請輸入帳號"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:5
+msgid "Enter Password"
+msgstr "請輸入密碼"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:6
+msgid "Login"
+msgstr "登入"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:7
+msgid "Forgot Password?"
+msgstr "忘記密碼？"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:8 ../../plugins/wp-
+#: support-plus/includes/admin/getGeneralSettings.php:236
+msgid "Click Here"
+msgstr "了解"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:11
+msgid "Don't have account?"
+msgstr "前往"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:12
+msgid "Register Here"
+msgstr "註冊帳號"
+
+#: ../../plugins/wp-support-plus/includes/loginForm.php:32
+msgid "Click Here to Login"
+msgstr "登入"
+
+#: ../../plugins/wp-support-plus/includes/shortcode.php:55 ../../plugins/wp-
+#: support-plus/includes/shortcode.php:126 ../../plugins/wp-support-
+#: plus/includes/shortcode.php:166 plus/includes/admin/admin.php:57
+msgid "Please Enter all required fields"
+msgstr "請填寫必填欄位"
+
+#: ../../plugins/wp-support-plus/includes/shortcode.php:56 ../../plugins/wp-
+#: support-plus/includes/shortcode.php:127 ../../plugins/wp-support-
+#: plus/includes/shortcode.php:167 plus/includes/admin/admin.php:58
+msgid "Reply can not be empty!"
+msgstr "請輸入回覆內容"
+
+#: ../../plugins/wp-support-plus/includes/shortcode.php:57 ../../plugins/wp-
+#: support-plus/includes/shortcode.php:128 ../../plugins/wp-support-
+#: plus/includes/shortcode.php:168 plus/includes/admin/admin.php:59
+msgid "Are you sure to delete this ticket?"
+msgstr "確定刪除此單？"
+
+#: ../../plugins/wp-support-plus/includes/shortcode.php:58 ../../plugins/wp-
+#: support-plus/includes/shortcode.php:129 ../../plugins/wp-support-
+#: plus/includes/shortcode.php:169
+msgid "Username or Password missing!!!"
+msgstr "帳號或密碼遺失!!!"
+
+#: ../../plugins/wp-support-plus/includes/shortcode.php:59 ../../plugins/wp-
+#: support-plus/includes/shortcode.php:130 ../../plugins/wp-support-
+#: plus/includes/shortcode.php:170 plus/includes/admin/admin.php:61
+msgid "Can not be undone"
+msgstr "無法復原"
+
+#: ../../plugins/wp-support-plus/includes/create_new_ticket.php:18 ../..
+#: /plugins/wp-support-plus/includes/create_new_ticket.php:28
+msgid "OR"
+msgstr "或"
+
+#: ../../plugins/wp-support-plus/includes/create_new_ticket.php:25
+msgid "Login with Facebook"
+msgstr "使用 Facebook 帳號登入"
+
+#: ../../plugins/wp-support-plus/includes/create_new_ticket.php:36
+msgid "Please Wait..."
+msgstr "請稍候..."
+
+#: ../../plugins/wp-support-plus/includes/support_panel.php:20
+msgid "Online Skype Chat Agents"
+msgstr "Skype 線上對談客服"
+
+#: ../../plugins/wp-support-plus/includes/support_panel.php:23
+msgid "Skype Chat"
+msgstr "Skype 對談"
+
+#: ../../plugins/wp-support-plus/includes/support_panel.php:39
+msgid "Online Skype Call Agents"
+msgstr "Skype 線上通話客服"
+
+#: ../../plugins/wp-support-plus/includes/support_panel.php:42
+msgid "Skype Call"
+msgstr "Skype 通話"
+
+#: ../../plugins/wp-support-plus/includes/support_panel.php:67
+msgid "Support Ticket"
+msgstr "客服支援單"
+
+#: ../../plugins/wp-support-plus/includes/loggedInUser.php:34 ../../plugins/wp-
+#: support-plus/includes/guestTicketForm.php:40
+msgid "FAQs"
+msgstr "常見問題"
+
+#: ../../plugins/wp-support-plus/includes/guestTicketForm.php:274
+msgid " Public"
+msgstr "公開"
+
+#: ../../plugins/wp-support-plus/includes/guestTicketForm.php:288 ../..
+#: /plugins/wp-support-plus/includes/admin/create_new_ticket.php:303
+msgid "Reset Form"
+msgstr "清　除"
+
+#: ../../plugins/wp-support-plus/includes/admin/statistics.php:34 ../..
+#: /plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:497
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:215
+#: /plugins/wp-support-plus/includes/admin/setTicketAssignment.php:88
+msgid "Assigned to"
+msgstr "客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/statistics.php:42 ../..
+#: /plugins/wp-support-plus/includes/admin/getCategories.php:46 ../../plugins/wp-
+#: support-plus/includes/admin/getCategories.php:97 ../../plugins/wp-support-
+#: plus/includes/admin/getAdvancedSettings.php:52
+#: plus/includes/admin/ticket_filter.php:187
+msgid "None"
+msgstr "未指定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:5
+msgid "Mail Settings"
+msgstr "郵件設定："
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:8
+msgid "From Email:"
+msgstr "寄件信箱："
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:12
+msgid "From Name:"
+msgstr "寄件人："
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:22
+msgid "Reply To:"
+msgstr "回覆給："
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:38
+msgid "Email Notifications"
+msgstr "Email 通知"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:39
+msgid "If enabled, agents will receive email notifications."
+msgstr "啟用後，客服人員將會收到 Email 通知信"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:43
+msgid "Enable Agent Email Notification"
+msgstr "啟用客服人員通知"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:54
+msgid "Administrator Notifications"
+msgstr "通知管理員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:57
+msgid "Administrator Emails :"
+msgstr "管理員信箱："
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:61
+msgid ""
+"Please add one email address per line. These email addresses will receive "
+"administrator email notifications"
+msgstr "每一行輸入一筆信箱。這些信箱將會收到管理員通知信。"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:64
+msgid "Email Pipe"
+msgstr "Email Pipe"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:68
+msgid "Enable Email Piping"
+msgstr "啟用 Email Piping"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:79
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings. php:91
+msgid "You must setup email piping on your server as well!"
+msgstr "請務必確認已完成伺服器上的 Email Pipe 設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:117
+#: ../../plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:18
+msgid "Username"
+msgstr "帳號"
+
+#: ../../plugins/wp-support-plus/includes/admin/getEmailNotificationSettings.php:132
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:558
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:55 .
+#: ../plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:80 ../..
+#: /plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:71
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:291
+#: /plugins/wp-support-plus/includes/admin/getAgentSettings.php:54
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:55
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:56
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:241
+#: /plugins/wp-support-plus/includes/admin/getCustomCSSSettings.php:12
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:70
+#: /plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:213
+#: /plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:231
+msgid "Save Settings"
+msgstr "儲存"
+
+#: ../../plugins/wp-support-plus/includes/admin/replyFormPosition.php:11
+msgid "CC:"
+msgstr "副本傳送："
+
+#: ../../plugins/wp-support-plus/includes/admin/replyFormPosition.php:11 ../..
+#: /plugins/wp-support-plus/includes/admin/replyFormPosition.php:15
+msgid "Comma separated list"
+msgstr "請以半形逗號分隔"
+
+#: ../../plugins/wp-support-plus/includes/admin/replyFormPosition.php:15
+msgid "BCC:"
+msgstr "密件副本："
+
+#: ../../plugins/wp-support-plus/includes/admin/replyFormPosition.php:25 ../..
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:28
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:82
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:295 ../.
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:349 ..
+#: /../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:442
+#: /plugins/wp-support-plus/includes/admin/setChangeTicketStatus.php:50
+#: /plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:44
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:208
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:21
+#: /plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:24
+#: /plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:99
+msgid "Status"
+msgstr "狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/replyFormPosition.php:115
+msgid "Add Note"
+msgstr "新增備註"
+
+#: ../../plugins/wp-support-plus/includes/admin/replyFormPosition.php:121
+msgid "Submit Reply"
+msgstr "送　出"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:26
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:293
+#: ../../plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:19
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:24
+msgid "Field No."
+msgstr "欄位編號"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:27
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:294
+#: ../../plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:20 93
+#: 116 139 162 183 204 225
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:10 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:25
+msgid "Label"
+msgstr "名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:29
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:296
+#: ../../plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:22
+msgid "Extra"
+msgstr "其他"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:46
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:49
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:68
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:71
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:86
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:89
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:104
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:107
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:127
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:130
+#: ../.. /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:145
+#: ../. plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:148 ..
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:163 .
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:166 181
+#: php:184 plus/includes/admin/getTicketListFieldSettings.php:199
+#: support-plus/includes/admin/getTicketListFieldSettings.php:202
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:217
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:220
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:235
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:238 261
+#: php:264 plus/includes/admin/getTicketListFieldSettings.php:313
+#: support-plus/includes/admin/getTicketListFieldSettings.php:316
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:335
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:338
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:353
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:356 371
+#: php:374 plus/includes/admin/getTicketListFieldSettings.php:394
+#: support-plus/includes/admin/getTicketListFieldSettings.php:397
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:412
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:415
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:430
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:433 448
+#: php:451 plus/includes/admin/getTicketListFieldSettings.php:466
+#: support-plus/includes/admin/getTicketListFieldSettings.php:469
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:484
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:487
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:503
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:506 529
+#: php:532 ../../plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.
+#: php:72 php:80 php:88 php:115 php:123 php:139 php:147 php:155 php:171 php:179
+#: php:187 php:203 php:211 php:219
+msgid "Show"
+msgstr "顯示"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:47
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:50
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:69
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:72
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:87
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:90
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:105
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:108
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:128
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:131
+#: ../.. /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:146
+#: ../. plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:149 ..
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:164 .
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:167 182
+#: php:185 plus/includes/admin/getTicketListFieldSettings.php:200
+#: support-plus/includes/admin/getTicketListFieldSettings.php:203
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:218
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:221
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:236
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:239 262
+#: php:265 plus/includes/admin/getTicketListFieldSettings.php:314
+#: support-plus/includes/admin/getTicketListFieldSettings.php:317
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:336
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:339
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:354
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:357 372
+#: php:375 plus/includes/admin/getTicketListFieldSettings.php:395
+#: support-plus/includes/admin/getTicketListFieldSettings.php:398
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:413
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:416
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:431
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:434 449
+#: php:452 plus/includes/admin/getTicketListFieldSettings.php:467
+#: support-plus/includes/admin/getTicketListFieldSettings.php:470
+#: /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:485
+#: plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:488
+#: /../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:504
+#: ../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:507 530
+#: php:533
+msgid "Hide"
+msgstr "隱藏"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:64
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:331
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:227 ..
+#: /../plugins/wp-support-plus/includes/admin/ticket_filter.php:305
+msgid "ID"
+msgstr "序號"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:100
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:367
+#: ../../plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:33
+#: ../../plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:75 ..
+#: /../plugins/wp-support-plus/includes/admin/deleteTicket.php:24 ../..
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:125
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:65
+#: /plugins/wp-support-plus/includes/admin/setTicketAssignment.php:91
+msgid "Subject"
+msgstr "主旨"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:112
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:379
+msgid "Char. Length"
+msgstr "字元長度"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:114
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:245
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:271
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:381
+#: ../.. /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:513
+#: ../. plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:539 ..
+#: /../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:41
+#: /plugins/wp-support-plus/includes/admin/getCustomPrioritySettings.php:40
+msgid "Save"
+msgstr "儲存"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:115
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:246
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:272
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:382
+#: ../.. /plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:514
+#: ../. plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:540
+msgid "Saved!"
+msgstr "已儲存！"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:123
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:390
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:464
+#: ../../plugins/wp-support-plus/includes/admin/getTicketRaisedByUser.php:21
+msgid "Raised By"
+msgstr "提問者"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:141
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:408
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:475
+msgid "Type"
+msgstr "類型"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:159
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:426
+#: ../../plugins/wp-support-plus/includes/admin/getFrontEndFAQ.php:48 ../.
+#: plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:171 ../..
+#: /plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:61
+msgid "Category"
+msgstr "類別"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:177
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:444
+msgid "Assigned To"
+msgstr "指定給"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:195
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:462
+#: ../../plugins/wp-support-plus/includes/admin/getFieldsReorderSettings. php:192
+#: ../../plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:75
+msgid "Priority"
+msgstr "優先度"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:213
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:480
+msgid "Updated Time"
+msgstr "更新日期"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:231
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:499
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:530
+#: ../../plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:222
+msgid "Date Created"
+msgstr "提報日期"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:243
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:269
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:511
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:537
+msgid "Date Format"
+msgstr "日期格式"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:248
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:274
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:516
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:542
+#: ../.. /plugins/wp-support-plus/includes/admin/admin.php:270
+#: plus/includes/admin/admin.php:271 plus/includes/admin/getGeneralSettings.php:178
+msgid "Click here"
+msgstr "前往"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:248
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:274
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:516
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:542
+msgid "to see available date formats. E.g."
+msgstr "了解可使用的日期格式。例："
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:248
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:274
+#: ../../plugins/wp-support- plus/includes/admin/getTicketListFieldSettings.php:516
+#: ../../plugins/wp- support-plus/includes/admin/getTicketListFieldSettings.php:542
+msgid "will display date as"
+msgstr "將顯示為"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings.php:257
+#: ../../plugins/wp-support-plus/includes/admin/getTicketListFieldSettings. php:525
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:541
+#: ../../plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:224
+msgid "Date Updated"
+msgstr "日期已更新"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:48 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:29
+msgid "Show Active Filter"
+msgstr "顯示操作篩選器"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:519 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:220
+msgid "Updated"
+msgstr "更新時間"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:571 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:245
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:210
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:212
+msgid "months ago"
+msgstr "個月前"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:572 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:246
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:211
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:213
+msgid "days ago"
+msgstr "天前"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:573 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:247
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:212
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:214
+msgid "hours ago"
+msgstr "小時前"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:574 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:248
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:213
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:215
+msgid "minutes ago"
+msgstr "分鐘前"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:575 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:249
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:214
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:216
+msgid "seconds ago"
+msgstr "秒前"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:705 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndFAQ.php:64 ../../plugins/wp-
+#: support-plus/includes/admin/getFrontEndTicket.php:374
+msgid "Newer"
+msgstr "近期"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:706 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:375
+msgid "of"
+msgstr "的"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:706 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndTicket.php:375
+msgid "Pages"
+msgstr "頁"
+
+#: ../../plugins/wp-support-plus/includes/admin/getTicketsByFilter.php:707 ../..
+#: /plugins/wp-support-plus/includes/admin/getFrontEndFAQ.php:66 ../../plugins/wp-
+#: support-plus/includes/admin/getFrontEndTicket.php:376
+msgid "Older"
+msgstr "較舊"
+
+#: ../../plugins/wp-support-plus/includes/admin/setChangeTicketStatus.php:53 ../..
+#: /plugins/wp-support-plus/includes/admin/deleteTicket.php:23 ../../plugins/wp-
+#: support-plus/includes/admin/setTicketAssignment.php:90
+msgid "Updated By"
+msgstr "回覆者："
+
+#: ../../plugins/wp-support-plus/includes/admin/getFrontEndFAQ.php:47
+msgid "FAQ's"
+msgstr "常見問題"
+
+#: ../../plugins/wp-support-plus/includes/admin/getFrontEndFAQ.php:68
+msgid "No Faqs Found"
+msgstr "沒有常見問題"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:15 ../..
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:15
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:16
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:26
+msgid "Applicable Users"
+msgstr "適用人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:16 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:28
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:45
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:16
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:17
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:62
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:65
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:84
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:87
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:107
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:110
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:130
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:133
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:153
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:156
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:175
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:178
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:196
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:199
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:217
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:220
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:27
+#: /plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:39
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:17 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:30
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:46
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:17
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:18
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:63
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:66
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:85
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:88
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:108
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:111
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:131
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:134
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:154
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:157
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:176
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:179
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:197
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:200
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:218
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:221
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:28
+#: /plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:41
+msgid "Disable"
+msgstr "停用"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:21 ../..
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:21
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:22
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:32
+msgid "Customer"
+msgstr "顧客"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:29 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:50
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:29
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:30
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:40
+msgid "Administrator"
+msgstr "管理員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:30 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:51
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:30
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:31
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:41
+msgid "Administrator Emails set in Email Notification Settings"
+msgstr "用於通知信設定的管理員信箱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:36 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:57
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:36
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:37
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:47
+msgid "Supervisor"
+msgstr "主管"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:42 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:63
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:42
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:43
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:53
+msgid "Assigned Agents"
+msgstr "指定客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:43 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:64
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:43
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:44
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:54
+msgid "Agents pre-assigned to category"
+msgstr "預設類別客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETDeleteTicket.php:49 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:70
+#: /plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:49
+#: /plugins/wp-support-plus/includes/admin/getETAssignAgent.php:50
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:60
+msgid "All Agents"
+msgstr "所有客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:11 ../..
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:10
+msgid "Available Templates"
+msgstr "可用的樣板"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:35 ../..
+#: /plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:77
+#: /plugins/wp-support-plus/includes/admin/getETReplayTicket.php:67
+msgid "Body"
+msgstr "內容"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:40
+msgid "Staff Email"
+msgstr "員工信箱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETCreateNewTicket.php:44
+msgid "Staff Applicable"
+msgstr "適用員工"
+
+#: ../../plugins/wp-support-plus/includes/admin/bulkAssignAgent.php:21 ../..
+#: /plugins/wp-support-plus/includes/admin/getTicketAssignment.php:35
+msgid "Assign to"
+msgstr "指定給"
+
+#: ../../plugins/wp-support-plus/includes/admin/bulkAssignAgent.php:32 ../..
+#: /plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:169
+#: /plugins/wp-support-plus/includes/admin/getTicketAssignment.php:48
+#: /plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:90
+#: /plugins/wp-support-plus/includes/admin/getTicketRaisedByUser.php:34
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: ../../plugins/wp-support-plus/includes/admin/bulkAssignAgent.php:33 ../..
+#: /plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:168
+#: /plugins/wp-support-plus/includes/admin/getTicketAssignment.php:47
+#: /plugins/wp-support-plus/includes/admin/ticket_filter_front.php:237
+#: /plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:91
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:315 ../../plugins/wp-
+#: support-plus/includes/admin/getTicketRaisedByUser.php:33
+msgid "Cancel"
+msgstr "取消"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:32 ..
+#: /../plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:17 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomPrioritySettings.php:37
+#: /plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:79
+msgid "Name"
+msgstr "名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:33 ..
+#: /../plugins/wp-support-plus/includes/admin/showFAQ.php:14 ../../plugins/wp-
+#: support-plus/includes/admin/deleteTicket.php:22 ../../plugins/wp-support-
+#: plus/includes/admin/getCustomSliderMenus.php:15
+#: plus/includes/admin/getCustomPrioritySettings.php:38
+#: plus/includes/admin/getFaqCategories.php:12
+#: plus/includes/admin/getCategories.php:26
+#: plus/includes/admin/getCustomFields.php:12 plus/includes/admin/showcanned.php:17
+msgid "Action"
+msgstr "操作"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:40 ..
+#: /../plugins/wp-support-plus/includes/admin/getCustomPrioritySettings.php:39
+msgid "Color"
+msgstr "色調"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:66 ..
+#: /../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:22 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomPrioritySettings.php:62
+#: /plugins/wp-support-plus/includes/admin/ticketActionDashboard.php:8
+#: /plugins/wp-support-plus/includes/admin/ticketActionDashboard.php:15
+#: /plugins/wp-support-plus/includes/admin/getCategories.php:52 ../../plugins/wp-
+#: support-plus/includes/admin/showcanned.php:31
+msgid "Delete"
+msgstr "刪除"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:78 ..
+#: /../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:129 ../.
+#: plugins/wp-support-plus/includes/admin/getCustomPrioritySettings.php:68 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomPrioritySettings.php:101
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:89
+msgid "Update"
+msgstr "變　更"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:91
+msgid "Save Status Order"
+msgstr "儲存狀態排列順序"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:93
+msgid "No Custom Status Found"
+msgstr "沒有自訂狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:97
+msgid "Add New Status"
+msgstr "新增狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:106
+msgid "Status Name"
+msgstr "狀態名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:110
+msgid "Status Color"
+msgstr "狀態色調"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomStatusSettings.php:122
+msgid "Create New Status"
+msgstr "新增狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:35
+msgid "FAQ"
+msgstr "常見問題"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:36 ../../plugins/wp-
+#: support-plus/includes/admin/getIndivisualTicket.php:64
+#: support-plus/includes/admin/getIndivisualTicket.php:314
+#: support-plus/includes/admin/getIndivisualTicketFront.php:65
+#: support-plus/includes/admin/getIndivisualTicketFront.php:294
+#: support-plus/includes/admin/showcanned.php:48
+msgid "Canned Reply"
+msgstr "官方回覆"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:37
+msgid "Statistics"
+msgstr "統計"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:38 ../../plugins/wp-
+#: support-plus/includes/admin/getGeneralSettings.php:305
+#: support-plus/includes/admin/getGeneralSettings.php:306
+msgid "Settings"
+msgstr "設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:39 ../../plugins/wp-
+#: support-plus/includes/admin/advanced_settings.php:7
+msgid "Advanced Settings"
+msgstr "進階設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:40 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:227
+msgid "Email Templates"
+msgstr "Email 樣板"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:41
+msgid "Support"
+msgstr "支援"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:60
+msgid "Are you sure to delete these tickets?"
+msgstr "是否確定刪除客服單？"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:78
+msgid "WP Support Plus"
+msgstr "WP Support Plus"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:79
+msgid "Welcome"
+msgstr "您好"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:100 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:144
+msgid "Please insert category name!"
+msgstr "請填寫分類名稱！"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:101 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:145
+msgid "Please insert adminstrator email address!"
+msgstr "請填寫管理員 Email 信箱"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:102 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:146
+msgid "Please insert menu text"
+msgstr "請填寫頁籤選單名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:103 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:147
+msgid "Please insert Redirect URL"
+msgstr "請填寫導向網址"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:104 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:148
+msgid "Are you sure?"
+msgstr "您確定嗎？"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:105 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:149
+msgid "Please insert field label!"
+msgstr "請填寫欄位名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:106
+msgid "Please insert field options!"
+msgstr "請填寫選項"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:116 ../../plugins/wp-
+#: support-plus/includes/admin/admin.php:161
+msgid "WP Support Plus Settings"
+msgstr "WP Support Plus 設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:150
+msgid " All the tickets belonging to this status will get moved to pending status"
+msgstr "所有標示為此狀態的客服單將會變更為「處理中」"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:151
+msgid "Please insert integer value"
+msgstr "請輸入整數"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:152
+msgid " All the tickets belonging to this priority will get moved to normal priority"
+msgstr "此優先度下的客服單將全部變更優先度為「一般」"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:184
+msgid "WP Support Plus Statistics"
+msgstr "WP Support Plus 統計"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:200
+msgid "WP Support Plus FAQ"
+msgstr "WP Support Plus 常見問題"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:268
+msgid "New Version"
+msgstr "新版本"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:268
+msgid "available"
+msgstr "可更新"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:268
+msgid "Current Version"
+msgstr "目前版本"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:269
+msgid "View Changelog"
+msgstr "檢視版本紀錄"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:270
+msgid "Don't know how to update?"
+msgstr "該如何更新？"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin.php:294
+msgid "WP Support Plus Canned Reply"
+msgstr "WP Support Plus 官方回覆"
+
+#: ../../plugins/wp-support-plus/includes/admin/advanced_settings.php:8
+msgid "Custom Status"
+msgstr "自訂狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/advanced_settings.php:9
+msgid "Custom Priority"
+msgstr "自訂優先度"
+
+#: ../../plugins/wp-support-plus/includes/admin/advanced_settings.php:10
+msgid "Re-Order Fields"
+msgstr "自訂欄位排列"
+
+#: ../../plugins/wp-support-plus/includes/admin/advanced_settings.php:12
+msgid "Custom Filter FrontEnd"
+msgstr "自訂前台篩選器"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:13
+msgid "Agent Capabilities"
+msgstr "客服人員權限"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:14 .
+#: ../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "This will add"
+msgstr "加入可行使"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+msgid "Support Agent"
+msgstr "客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:14 .
+#: ../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "capabilities to your existing user roles"
+msgstr "權限的角色"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:30
+msgid "Supervisor Capabilities"
+msgstr "主管設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "Support Supervisor"
+msgstr "客服主管"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:48
+msgid "Front End Restriction"
+msgstr "前台限制"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "This will allow"
+msgstr "允許"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "Registered Users"
+msgstr "角色"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "to raise/view tickets from front end."
+msgstr "從前台提出客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getRollManagementSettings.php:55 .
+#: ../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:107 ../..
+#: /plugins/wp-support-plus/includes/admin/ticket_filter_front.php:153
+#: /plugins/wp-support-plus/includes/admin/ticket_filter_front.php:196
+#: /plugins/wp-support-plus/includes/admin/faq_filter_front.php:11
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:107 ../../plugins/wp-
+#: support-plus/includes/admin/ticket_filter.php:148 ../../plugins/wp-support-
+#: plus/includes/admin/ticket_filter.php:163
+#: plus/includes/admin/ticket_filter.php:186
+#: plus/includes/admin/ticket_filter.php:214
+#: plus/includes/admin/ticket_filter.php:277
+msgid "All"
+msgstr "全部"
+
+#: ../../plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:134 ../.
+#: plugins/wp-support-plus/includes/admin/getGeneralSettings.php:118
+msgid "Private"
+msgstr "私密"
+
+#: ../../plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:135 ../.
+#: plugins/wp-support-plus/includes/admin/getGeneralSettings.php:119
+msgid "Public"
+msgstr "公開"
+
+#: ../../plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:145
+msgid "Notify"
+msgstr "通知"
+
+#: ../../plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:149 ../.
+#: plugins/wp-support-plus/includes/admin/getGeneralSettings.php:258 ../..
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:277
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:284
+#: /plugins/wp-support-plus/includes/admin/getAgentSettings.php:40
+#: /plugins/wp-support-plus/includes/admin/getAgentSettings.php:48
+msgid "Yes"
+msgstr "是"
+
+#: ../../plugins/wp-support-plus/includes/admin/getChangeTicketStatus.php:150 ../.
+#: plugins/wp-support-plus/includes/admin/getGeneralSettings.php:259 ../..
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:278
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:285
+#: /plugins/wp-support-plus/includes/admin/getAgentSettings.php:41
+#: /plugins/wp-support-plus/includes/admin/getAgentSettings.php:49
+msgid "No"
+msgstr "否"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:10
+msgid "Support Page/Post"
+msgstr "客服系統頁面/文章"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:12
+msgid "Select Page/Post"
+msgstr "請選擇文章/頁面"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:30
+msgid "Use shortcode"
+msgstr "請將短代碼"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:30
+msgid "in selected page/post above."
+msgstr "插入該指定頁面中"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:34
+msgid "Default Category"
+msgstr "預設分類"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:50
+msgid "Selected Category will be default category for new tickets."
+msgstr "選取的分類將作為新客服單的預設分類別"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:55
+msgid "Default Status"
+msgstr "預設狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:76
+msgid "Selected Status will be assigned to new tickets."
+msgstr "選定的狀態將會套用於新提出的客服單。"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:81
+msgid "Ticket Status After Customer Reply"
+msgstr "顧客回覆後狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:103
+msgid ""
+"Ticket status will be changed to selected status (other than default) after ticket "
+"creator reply back."
+msgstr "客服單狀態將於建立者回覆後變更為選擇的狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:107
+msgid "Ticket Type Settings"
+msgstr "設定客服單能見度"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:108
+msgid ""
+"If enabled, users will be able to make a ticket public/private from front end."
+msgstr "啟用後，顧客將可行由前台切換為公開或私密狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:112
+msgid "Allow users to make a ticket public/private from front end."
+msgstr "允許顧客切換客服單能見度"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:115
+msgid ""
+"If users are allowed to make a ticket public/private this will be the selected "
+"type for ticket. If user is not allowed to select ticket type from front end then "
+"this will be the type of the ticket created from front end."
+msgstr ""
+"若啟用允許顧客切換能見度，則將做為預設能見度，而顧客可自行變更；若不啟用，則將做為"
+"前台建立客服單的唯一狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:116
+msgid "Default Ticket Type"
+msgstr "預設能見度"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:123
+msgid "Support Button"
+msgstr "客服按鈕"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:124
+msgid ""
+"If enabled, button will be shown on all pages of front-end which redirect to "
+"support page/post selected above on click."
+msgstr "啟用後，按鈕將會顯示於前台所有頁面，並將於點擊後導向上方設定的客服頁面/文章"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:128
+msgid "Enable Support Button"
+msgstr "啟用客服按鈕"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:131
+msgid "Button Position"
+msgstr "按鈕位置"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:133
+msgid "Top Left"
+msgstr "左上角"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:134
+msgid "Top Right"
+msgstr "右上角"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:135
+msgid "Bottom Left"
+msgstr "左下角"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:136
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:146
+msgid "Front End Ticket Submission"
+msgstr "前台提單設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:147
+msgid ""
+"If enabled, prevents the submission of new tickets from the front end by logged in "
+"users. This may be useful if you want tickets to only be raised via email piping"
+msgstr ""
+"啟用後，將會禁止登入者從前台提出客服單。若您希望全部透過 Email Piping 處理提單，則"
+"請啟用。"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:152
+msgid "Prevent Front End Ticket Submission"
+msgstr "禁止從前台提出客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:161 ../..
+#: /plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:8
+msgid "Guest Ticket"
+msgstr "訪客提單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:162
+msgid "If enabled, non logged-in user will able to raise ticket"
+msgstr "啟用後，將允許未登入顧客(包含任何路人甲)提出客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:166
+msgid "Enable Guest Tickets"
+msgstr "啟用訪客提單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:170
+msgid ""
+"If enabled, Guest user will be able to add attachment to a ticket. Note. This "
+"setting is applicable for front end tickets only"
+msgstr "啟用後，訪客將允許於客服單中上傳附件檔。請注意，此設定僅適用於前台訪客提單。"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:174
+msgid "Allow attachments for guest tickets"
+msgstr "允許訪客上傳附件"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:178
+msgid ""
+"If not set bellow API key and secret, Google No CAPTCHA reCAPTCHA will not be "
+"loaded. This is applicable to guest ticket form only!"
+msgstr ""
+"如未設定 API Key與 Secret key，將無法使用 Google No CAPTCHA reCAPTCHA 功能。此設定"
+"僅適用於訪客提單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:178
+msgid "to get API key for your site."
+msgstr "您網站的 API 金鑰"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:181
+msgid "Google reCAPTCHA Site Key"
+msgstr "Google reCAPTCHA Site Key"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:185
+msgid "Google reCAPTCHA Secret key"
+msgstr "Google reCAPTCHA Secret key"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:191
+msgid "Default Login"
+msgstr "使用後台登入"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:192
+msgid ""
+"If enabled, it will display default login form link and default login form will be "
+"enabled"
+msgstr "啟用後，將會顯示導向後台登入頁面的連結"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:196
+msgid "Enable Default Login"
+msgstr "啟用後台登入"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:203
+msgid "Default Login Module"
+msgstr "預設登入模組"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:211
+msgid "Wp Login Link"
+msgstr "Wp 後台登入連結"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:218 ../..
+#: /plugins/wp-support-plus/includes/admin/display_ticket.php:10
+msgid "Agent Settings"
+msgstr "客服人員設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:222
+msgid "Allow Agents to assign tickets"
+msgstr "允許客服人員指定客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:228
+msgid "Allow Agents to delete tickets"
+msgstr "允許客服人員刪除客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:235
+msgid "Facebook App Details"
+msgstr "Facebook 登入設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:236
+msgid "for help to create App"
+msgstr "建立應用程式須知"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:239
+msgid "App ID:"
+msgstr "App ID："
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:245
+msgid "App Secret:"
+msgstr "App Secret："
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:253
+msgid "Front End Support Panel"
+msgstr "前台客服面板"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:256
+msgid "Enable:"
+msgstr "啟用面板："
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:263
+msgid "Support Title:"
+msgstr "面板標題："
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:269
+msgid "Phone Number:"
+msgstr "聯絡電話："
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:275
+msgid "Display Skype Chat?:"
+msgstr "顯示 Skype 對談？"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:282
+msgid "Display Skype Call?:"
+msgstr "顯示 Skype 通話？"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:298
+msgid "Facebook App Help"
+msgstr "Facebook 應用程式須知"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:302
+msgid "Create your application"
+msgstr "建立您的應用程式"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:303
+msgid "Look for Site URL field in the Website tab and enter"
+msgstr "於 Website 頁籤中找到 Site URL 欄位並輸入"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:304
+msgid "After this, go to the"
+msgstr "接著前往"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:304
+msgid "Facebook Application List"
+msgstr "Facebook Application List"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:304
+msgid "page and select your newly created application"
+msgstr "頁面，選擇您最新建立的應用程式"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:305 ../..
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:306
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:307
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:308
+msgid "Go to"
+msgstr "前往"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:305 ../..
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:306
+msgid "and enter"
+msgstr "並填寫"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:305
+msgid "Contact Email"
+msgstr "聯絡信箱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:306
+msgid "+Add Platform"
+msgstr "+Add Platform"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:306
+msgid "select"
+msgstr "選擇"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:306
+msgid "Website"
+msgstr "Website"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:307
+msgid "Status and Review"
+msgstr "Status and Review"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:307 ../..
+#: /plugins/wp-support-plus/includes/admin/getGeneralSettings.php:308
+msgid " and"
+msgstr "然後切換為"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:307
+msgid "ON"
+msgstr "ON"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:307
+msgid "available to the general public"
+msgstr "以供公開存取"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:308
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:308
+msgid " and Copy the values from these fields:"
+msgstr "然後複製以下欄位的內容："
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:308
+msgid "App ID/API key"
+msgstr "App ID/API key"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:308
+msgid "Application Secret"
+msgstr "Application Secret"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:308
+msgid ", and enter in <b>Facebook App Settings"
+msgstr "並返回填入<b>Facebook 應用程式設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getGeneralSettings.php:312 ../..
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:344
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:324
+#: /plugins/wp-support-plus/includes/admin/create_new_ticket.php:318
+#: /plugins/wp-support-plus/includes/admin/showcanned.php:77
+msgid "Close"
+msgstr "關閉"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAgentSettings.php:25
+msgid "Signature"
+msgstr "簽名"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAgentSettings.php:28
+msgid "Skype Settings"
+msgstr "Skype 設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAgentSettings.php:29
+msgid ""
+" You'll need to update your Skype setting to allow incoming calls or messages from "
+"people who are not on your contact list."
+msgstr "您需於 Skype 設定中啟用非聯絡人名單可通話或對談的功能"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAgentSettings.php:32
+msgid "Skype ID"
+msgstr "Skype 帳號"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAgentSettings.php:37
+msgid "Available to Chat?"
+msgstr "允許對談？"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAgentSettings.php:45
+msgid "Available to Call?"
+msgstr "允許通話？"
+
+#: ../../plugins/wp-support-plus/includes/admin/showFAQ.php:2 ../../plugins/wp-
+#: support-plus/includes/admin/showcanned.php:3
+msgid "+ Add New"
+msgstr "＋新增"
+
+#: ../../plugins/wp-support-plus/includes/admin/showFAQ.php:13
+msgid "Question"
+msgstr "題目"
+
+#: ../../plugins/wp-support-plus/includes/admin/showFAQ.php:32
+msgid "No FAQ's Found"
+msgstr "沒有常見問題"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:39 ../..
+#: /plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:70
+#: /plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:101
+#: /plugins/wp-support-plus/includes/admin/getChatOnlineAgents.php:39
+#: /plugins/wp-support-plus/includes/admin/getChatOnlineAgents.php:70
+#: /plugins/wp-support-plus/includes/admin/getChatOnlineAgents.php:101
+msgid "Skype ID:"
+msgstr "Skype 帳號："
+
+#: ../../plugins/wp-support-plus/includes/admin/getCallOnlineAgents.php:108
+msgid "Sorry, currently no agent available for call!!!"
+msgstr "很抱歉，目前沒有客服人員在線上。"
+
+#: ../../plugins/wp-support-plus/includes/admin/deleteTicket.php:21 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:465
+msgid "Ticket"
+msgstr "客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/deleteTicket.php:29
+msgid "Deleted"
+msgstr "已刪除"
+
+#: ../../plugins/wp-support-plus/includes/admin/getChatOnlineAgents.php:108
+msgid "Sorry, currently no agent available for chat!!!"
+msgstr "很抱歉，目前沒有客服人員可以進行對談。"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:104 ../..
+#: /plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:49
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:104
+msgid "Status:"
+msgstr "狀態："
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:175 ../..
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:256
+msgid "10"
+msgstr "10"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:176 ../..
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:257
+msgid "20"
+msgstr "20"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:177 ../..
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:258
+msgid "30"
+msgstr "30"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:178 ../..
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:259
+msgid "40"
+msgstr "40"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:179 ../..
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:260
+msgid "50"
+msgstr "50"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:223
+msgid "By:"
+msgstr "排序："
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:226 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:57
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:77
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:304 ../../plugins/wp-
+#: support-plus/includes/admin/getCustomFilterFrontEnd.php:195
+msgid "Text"
+msgstr "文字"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:230 ../..
+#: /plugins/wp-support-plus/includes/admin/faq_filter_front.php:26
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:311
+msgid "Search..."
+msgstr "搜尋..."
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter_front.php:236 ../..
+#: /plugins/wp-support-plus/includes/admin/ticket_filter.php:314
+msgid "Apply & Remember"
+msgstr "套用"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:237
+msgid "Normal"
+msgstr "普通"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:238
+msgid "High"
+msgstr "高"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:239
+msgid "Medium"
+msgstr "中"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:240
+msgid "Low"
+msgstr "低"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:466
+msgid "Tickets"
+msgstr "客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:467
+msgid "Create New Ticket"
+msgstr "建立客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:468
+msgid "Ticket List Settings"
+msgstr "客服單列表設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:469
+msgid "Create Ticket As"
+msgstr "新增客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:470
+msgid "Make Ticket Public"
+msgstr "公開"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:471
+msgid "Submit Ticket"
+msgstr "送　出"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:472
+msgid "Edit Ticket"
+msgstr "編輯"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:473
+msgid "Reply Ticket"
+msgstr "回覆"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:474
+msgid "Delete Ticket"
+msgstr "刪除"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:475
+msgid "Ticket Type"
+msgstr "客服單分類"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:476
+msgid "No. of Tickets"
+msgstr "顯示數量："
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:477
+msgid "Ticket Creator"
+msgstr "建立客服支援單"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:478
+msgid "Create Ticket Success Email"
+msgstr "提出客服單通知"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:479
+msgid "Delete Ticket Notification Email"
+msgstr "刪除客服單通知"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:480
+msgid "New Ticket From Thread"
+msgstr "討論區轉來的新客服單"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:481
+msgid "Back to Tickets"
+msgstr "返回列表"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:482
+msgid "Backend Ticket List Fields"
+msgstr "後台表單列表欄位"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:483
+msgid "Frontend Ticket List Fields"
+msgstr "前台表單列表欄位"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:484
+msgid "No Tickets Found"
+msgstr "沒有客服支援單"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:642 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:693
+msgid "Customer Name"
+msgstr "顧客姓名"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:643 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:694
+msgid "Customer Email"
+msgstr "顧客信箱"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:644 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:695
+msgid "Ticket ID"
+msgstr "編號"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:645 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:696
+msgid "Ticket Subject"
+msgstr "主旨"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:646
+msgid "Ticket Discription"
+msgstr "說明"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:647 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:698
+msgid "Ticket Category"
+msgstr "類別"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:648 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:699
+msgid "Ticket Priority"
+msgstr "優先度"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:662
+msgid "Your Ticket has been created successfully"
+msgstr "您的客服單已建立"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:690
+msgid "Reply By Name"
+msgstr "以姓名回覆"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:691
+msgid "Reply By Email"
+msgstr "以電子郵件回覆"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:692 ../..
+#: /plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:20
+msgid "Ticket Status"
+msgstr "客服單狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:693 ../..
+#: /plugins/wp-support-plus/includes/admin/installation.php:694
+msgid "(ticket creator)"
+msgstr "(客服單編輯器)"
+
+#: ../../plugins/wp-support-plus/includes/admin/installation.php:697
+msgid "Reply Discription"
+msgstr "回覆內容"
+
+#: ../../plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:19
+msgid "Email"
+msgstr "Email"
+
+#: ../../plugins/wp-support-plus/includes/admin/searchRegisteredUsaers.php:37
+msgid "No Results Found"
+msgstr "找不到相關資料"
+
+#: ../../plugins/wp-support-plus/includes/admin/selectRegisteredUser.php:2
+msgid "Username or Email"
+msgstr "帳號或 Email 信箱"
+
+#: ../../plugins/wp-support-plus/includes/admin/selectRegisteredUser.php:3
+msgid "Search"
+msgstr "搜尋"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETChangeTicketStatus.php:11
+msgid "Change Status Notification Email"
+msgstr "變更狀態通知信"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETAssignAgent.php:12
+msgid "Assign Agent Notification Email"
+msgstr "指定客服通知信"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:12
+msgid "Icon"
+msgstr "圖示"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:13
+msgid "Menu"
+msgstr "選單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:14 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:47
+msgid "Redirect URL"
+msgstr "導向網址"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:28
+msgid "No Menus Found"
+msgstr "找不到選單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:33
+msgid "Add New Menu"
+msgstr "新增選單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:37
+msgid "Select Icon (40 x 40 pixel)"
+msgstr "選擇圖示 (40 x 40 px)"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:42
+msgid "Menu Text"
+msgstr "選單名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomSliderMenus.php:52
+msgid "Create New Menu"
+msgstr "建　立"
+
+#: ../../plugins/wp-support-plus/includes/admin/wpspCheckLogin.php:8
+msgid "Incorrect Username or Password"
+msgstr "錯誤的帳號或密碼"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomPrioritySettings.php:83
+msgid "Add New Priority"
+msgstr "新增優先度"
+
+#: ../../plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:102
+msgid "Email Address"
+msgstr "Email 信箱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:148
+msgid "Description"
+msgstr "說明"
+
+#: ../../plugins/wp-support-plus/includes/admin/getFieldsReorderSettings.php:213
+msgid "Attach File(s)"
+msgstr "上傳檔案"
+
+#: ../../plugins/wp-support-plus/includes/admin/openFrontEndFAQ.php:11
+msgid "Back to FAQs"
+msgstr "返回常見問題"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomCSSSettings.php:8
+msgid "Custom CSS For Front End"
+msgstr "自訂前台 CSS 樣式"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticketActionDashboard.php:5 ../..
+#: /plugins/wp-support-plus/includes/admin/emailTemplates.php:9 ../../plugins/wp-
+#: support-plus/includes/admin/getIndivisualTicket.php:65
+#: support-plus/includes/admin/getIndivisualTicketFront.php:63
+msgid "Change Status"
+msgstr "變更狀態"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticketActionDashboard.php:7 ../..
+#: /plugins/wp-support-plus/includes/admin/ticketActionDashboard.php:11
+#: /plugins/wp-support-plus/includes/admin/emailTemplates.php:10 ../../plugins/wp-
+#: support-plus/includes/admin/getIndivisualTicket.php:79
+#: support-plus/includes/admin/getIndivisualTicket.php:83
+#: support-plus/includes/admin/getIndivisualTicketFront.php:68
+#: support-plus/includes/admin/getIndivisualTicketFront.php:72
+msgid "Assign Agent"
+msgstr "指定客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getETReplayTicket.php:22
+msgid "Reply Notification Email"
+msgstr "回覆通知信"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCategories.php:25 ../..
+#: /plugins/wp-support-plus/includes/admin/getCategories.php:61 ../../plugins/wp-
+#: support-plus/includes/admin/getCategories.php:75
+msgid "Default Assignee"
+msgstr "預設客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCategories.php:50 ../..
+#: /plugins/wp-support-plus/includes/admin/showcanned.php:30
+msgid "Edit"
+msgstr "編輯"
+
+#: ../../plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:272 ../..
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:254
+msgid "Private Note : Not Visible to Customers"
+msgstr "提示：不會顯示給顧客"
+
+#: ../../plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:279 ../..
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:262
+msgid "Attachment: "
+msgstr "附件："
+
+#: ../../plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:325 ../..
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:305
+#: /plugins/wp-support-plus/includes/admin/showcanned.php:15
+msgid "Title"
+msgstr "名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getIndivisualTicket.php:340 ../..
+#: /plugins/wp-support-plus/includes/admin/getIndivisualTicketFront.php:320
+#: /plugins/wp-support-plus/includes/admin/showcanned.php:41
+msgid "No Reply Found"
+msgstr "找不到回覆"
+
+#: ../../plugins/wp-support-plus/includes/admin/faq_filter_front.php:8
+msgid "Category:"
+msgstr "分類"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:3
+msgid "General"
+msgstr "一般設定"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:4
+msgid "Categories"
+msgstr "分類"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:5
+msgid "Email Notification"
+msgstr "Email 通知"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:6
+msgid "Custom Fields"
+msgstr "自訂欄位"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:7
+msgid "Custom Slider Menus"
+msgstr "自訂頁籤選單"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:8
+msgid "Role Management"
+msgstr "角色管理"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:9
+msgid "FAQ Categories"
+msgstr "常見問題分類"
+
+#: ../../plugins/wp-support-plus/includes/admin/admin_settings.php:10
+msgid "Custom CSS"
+msgstr "自訂 CSS 樣式"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:11 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:39
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:54
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:74
+msgid "Required"
+msgstr "必填欄位"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:39
+msgid "Optional"
+msgstr "選填欄位"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:48
+msgid "No Custom Fields Found"
+msgstr "沒有自訂欄位"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:53
+msgid "Enter New Field Label"
+msgstr "輸入自訂欄位名稱"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:55 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:75
+msgid "Field Type"
+msgstr "欄位類型"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:58 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:78
+msgid "Drop Down"
+msgstr "下拉式選單"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:59 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:79
+msgid "Checkbox"
+msgstr "核取方塊"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:60 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:80
+msgid "Radio Button"
+msgstr "選項按鈕"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:61 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:81
+msgid "Textarea"
+msgstr "文字區塊"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:64 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:84
+msgid "Field Options"
+msgstr "選項"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:67 ../..
+#: /plugins/wp-support-plus/includes/admin/getCustomFields.php:87
+msgid ""
+"Please enter the one option per line, option key and value should be entered as "
+"shown in the field"
+msgstr "請填寫選項，每一項一行。"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFields.php:69
+msgid "Create New Field"
+msgstr "建　立"
+
+#: ../../plugins/wp-support-plus/includes/admin/setTicketAssignment.php:89
+msgid "Previously Assigned to"
+msgstr "前任指定客服："
+
+#: ../../plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:28 ../..
+#: /plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:65
+#: /plugins/wp-support-plus/includes/admin/bulkChangeStatus.php:79
+msgid "Select"
+msgstr "選擇"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:9
+msgid "This message will be dispayed when a new ticket is submitted from guest"
+msgstr "此訊息將會顯示於訪客提出新客服單之後"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:21
+msgid ""
+"This is applicable for all pending tickets only. Please leave blank to disable "
+"this feature."
+msgstr "此設定將套用於所有列為「處理中」的客服單。留空以停用此功能。"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:22
+msgid "All pending tickets will automatically get closed after"
+msgstr "所有處理中的客服單將於右方天數後自動轉為「已完成」："
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:22
+msgid "days"
+msgstr "天"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:26
+msgid "Reply Form Position"
+msgstr "回覆欄位置"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:27
+msgid "Above Threads"
+msgstr "討論串上方"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:29
+msgid "Below Threads"
+msgstr "討論串下方"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:32
+msgid "Shortcode Used In"
+msgstr "短代碼插入位置"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:33
+msgid "Default Wordpress Editor"
+msgstr "Wordpress 預設編輯器"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:35
+msgid "Page Builder"
+msgstr "Page Builder 編輯器"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:38
+msgid "Acordion View"
+msgstr "自動收合討論串"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:123
+msgid "Main Ticket Label"
+msgstr "主要頁籤"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:124
+msgid "In order to change Ticket Label, must translate below phrases"
+msgstr "您可以在下方自訂翻譯的詞句。"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:127
+msgid "Phrase"
+msgstr "用語"
+
+#: ../../plugins/wp-support-plus/includes/admin/getAdvancedSettings.php:128
+msgid "Translation"
+msgstr "翻譯"
+
+#: ../../plugins/wp-support-plus/includes/admin/ajax.php:10 ../../plugins/wp-
+#: support-plus/includes/admin/ajax.php:164
+msgid "Javascript Injection Not Allowed!"
+msgstr "Javascript Injection 未啟用！"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:145
+msgid "Type:"
+msgstr "類型："
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:149
+msgid "User"
+msgstr "帳號"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:150 ../..
+#: /plugins/wp-support-plus/includes/admin/create_new_ticket.php:205
+msgid "Guest"
+msgstr "訪客"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:183
+msgid "Assigned to:"
+msgstr "指定客服："
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:261
+msgid "100"
+msgstr "100"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:262
+msgid "500"
+msgstr "500"
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:302
+msgid "Search By:"
+msgstr "搜尋："
+
+#: ../../plugins/wp-support-plus/includes/admin/ticket_filter.php:306 ../..
+#: /plugins/wp-support-plus/includes/admin/showcanned.php:16
+msgid "Created By"
+msgstr "提問者"
+
+#: ../../plugins/wp-support-plus/includes/admin/create_new_ticket.php:204
+msgid "Registered"
+msgstr "顧客"
+
+#: ../../plugins/wp-support-plus/includes/admin/create_new_ticket.php:211
+msgid "Change User"
+msgstr "變更帳號"
+
+#: ../../plugins/wp-support-plus/includes/admin/create_new_ticket.php:291
+msgid "Don't Notify Owner"
+msgstr "不通知提單人"
+
+#: ../../plugins/wp-support-plus/includes/admin/create_new_ticket.php:312
+msgid "Select User"
+msgstr "選擇帳號"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:26
+msgid "Logged In Users"
+msgstr "顧客"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:27
+msgid "Agents"
+msgstr "客服人員"
+
+#: ../../plugins/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:28
+msgid "Supervisors"
+msgstr "主管"
+
+#: ../../plugins/wp-support-plus/asset/lib/google_noCaptcha/checkCaptcha.php:20
+msgid "Sorry No Robots allowed here!!!"
+msgstr "很抱歉，本系統無法讓機器人使用。"

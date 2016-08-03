@@ -1,0 +1,1373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Support Plus\n"
+"POT-Creation-Date: 2015-05-27 16:59+0530\n"
+"PO-Revision-Date: 2015-06-24 20:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-"
+"plus\n"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/asset/lib/google_noCaptcha/checkCaptcha.php:20
+msgid "Sorry No Robots allowed here!!!"
+msgstr "Przepraszam brak dostępu dla robotów!!!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/create_new_ticket.php:16
+msgid "Have an Account?"
+msgstr "Masz już konto?"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/create_new_ticket.php:16
+msgid "Login Here"
+msgstr "Zaloguj się"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/create_new_ticket.php:21
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/create_new_ticket.php:31
+msgid "OR"
+msgstr "ALBO"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/create_new_ticket.php:28
+msgid "Login with Facebook"
+msgstr "Zaloguj się za pomocą facebooka"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/create_new_ticket.php:39
+msgid "Please Wait..."
+msgstr "Proszę czekać..."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:14
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/loggedInUser.php:10
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:14
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/display_ticket.php:4
+msgid "Create New Ticket"
+msgstr "Utwórz Nowe Zgłoszenie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:15
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/loggedInUser.php:11
+msgid "FAQ's"
+msgstr "FAQ"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:24
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/loggedInUser.php:23
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/loggedInUser.php:29
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/loggedInUser.php:38
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestUser.php:5
+msgid "Please Wait"
+msgstr "Proszę czekać"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:31
+msgid "Your Name"
+msgstr "Twoje Imie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:33
+msgid "Your Email"
+msgstr "Twój Email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:35
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:102
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:140
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:39
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/editTicket.php:20
+msgid "Subject"
+msgstr "Temat"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:98
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:103
+msgid "Description"
+msgstr "Opis"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:102
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:103
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:143
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:106
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:39
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:109
+msgid "Category"
+msgstr "Kategoria"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:114
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:107
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:145
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:118
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:53
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:120
+msgid "Priority"
+msgstr "Priorytet"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:116
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:120
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:116
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:57
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:117
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:122
+msgid "Normal"
+msgstr "Normalny"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:117
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:121
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:117
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:58
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:118
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:123
+msgid "High"
+msgstr "Wysoki"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:118
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:122
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:118
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:59
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:119
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:124
+msgid "Medium"
+msgstr "Średni"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:119
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:123
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:119
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:60
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:120
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:125
+msgid "Low"
+msgstr "Niski"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:127
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:127
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:129
+msgid "Attach File(s)"
+msgstr "Załącz pliki"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:134
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:133
+msgid "Make Ticket Public"
+msgstr "Udostępnij publicznie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:147
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:143
+msgid "Submit Ticket"
+msgstr "Dodaj Zgłoszenie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/guestTicketForm.php:148
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:144
+msgid "Reset Form"
+msgstr "Zresetuj formularz"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/loggedInUser.php:9
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/display_ticket.php:3
+msgid "Tickets"
+msgstr "Zgłoszenia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/shortcode.php:41
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:42
+msgid "Please Enter all required fields"
+msgstr "Proszę Wypełnij wszystkie wymagane pola"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/shortcode.php:42
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:43
+msgid "Reply can not be empty!"
+msgstr "Brak odpowiedzi!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/shortcode.php:43
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:44
+msgid "Are you sure to delete this ticket?"
+msgstr "Jesteś pewien, że chcesz skasować to zgłoszenie?"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/shortcode.php:44
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:45
+msgid "Can not be undone"
+msgstr "Nie można cofnąć"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/support_panel.php:21
+msgid "Skype Chat"
+msgstr "Skype Czat"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/support_panel.php:27
+msgid "Skype Call"
+msgstr "Skype Telefon"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/support_panel.php:40
+msgid "Support Ticket"
+msgstr "Zgłoszenie do obsługi"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:101
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:139
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:16
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:89
+msgid "Status"
+msgstr "Status"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:105
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:144
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:40
+msgid "Assigned to"
+msgstr "Przydzielony do"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:108
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:146
+msgid "Updated"
+msgstr "Zaktualizowany"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:123
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:161
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:167
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:166
+msgid "months ago"
+msgstr "miesiąc temu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:124
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:162
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:168
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:167
+msgid "days ago"
+msgstr "dni temu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:125
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:163
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:169
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:168
+msgid "hours ago"
+msgstr "godzinę temu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:126
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:164
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:170
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:169
+msgid "minutes ago"
+msgstr "minutę temu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:127
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:165
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:171
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:170
+msgid "seconds ago"
+msgstr "sekundę temu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:179
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:218
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndFAQ.php:64
+msgid "Newer"
+msgstr "Nowsze"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:180
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:219
+msgid "of"
+msgstr "z"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:180
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:219
+msgid "Pages"
+msgstr "Strony"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:181
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:220
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndFAQ.php:66
+msgid "Older"
+msgstr "Starsze"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndTicket.php:183
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:222
+msgid "No Tickets Found"
+msgstr "Nie Znaleziono Zgłoszeń"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:5
+msgid "Mail Settings"
+msgstr "Ustawienia email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:8
+msgid "From Email:"
+msgstr "Email Od:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:12
+msgid "From Name:"
+msgstr "Imię Od:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:18
+msgid "Email Notifications"
+msgstr "Powiadomienia Email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:19
+msgid "If enabled, agents will receive email notifications."
+msgstr "Jeśli opcja jest włączona, agenci otrzymają powiadomienia email."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:23
+msgid "Enable Agent Email Notification"
+msgstr "Włączone powiadomienia email dla agentów"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:28
+msgid "Administrator Notifications"
+msgstr "Powiadomienia Administratora"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:31
+msgid "Administrator Emails :"
+msgstr "Emaile Administratora:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:35
+msgid ""
+"Please add one email address per line. These email addresses will receive "
+"administrator email notifications"
+msgstr ""
+"Proszę dodaj jeden adres email w linii. Na te emaile administrator będzie "
+"otrzymywał powiadomienia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:38
+msgid "Email Pipe"
+msgstr "Email Pipe"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:39
+msgid "You must setup email piping on your server as well!"
+msgstr "Musisz skonfigurować opcję email piping na swoim serwerze! "
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:43
+msgid "Enable Email Piping"
+msgstr "Włączona funkcja Email Piping"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getEmailNotificationSettings.php:47
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:71
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:231
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomCSSSettings.php:11
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:54
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAdvancedSettings.php:20
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomStatusSettings.php:11
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/searchRegisteredUsaers.php:15
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:32
+msgid "Name"
+msgstr "Imie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomStatusSettings.php:12
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:24
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:15
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:12
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/showFAQ.php:14
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFaqCategories.php:10
+msgid "Action"
+msgstr "Akcja"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomStatusSettings.php:17
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:50
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:22
+msgid "Delete"
+msgstr "Skasuj"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomStatusSettings.php:23
+msgid "No Custom Status Found"
+msgstr "Nie Znaleziono Statusu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomStatusSettings.php:27
+msgid "Add New Status"
+msgstr "Dodaj Nowy Status"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomStatusSettings.php:30
+msgid "Status Name"
+msgstr "Nazwa Statusu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomStatusSettings.php:34
+msgid "Create New Status"
+msgstr "Utwórz Nowy Status"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/searchRegisteredUsaers.php:16
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/searchRegisteredUsaers.php:17
+msgid "Email"
+msgstr "Email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/searchRegisteredUsaers.php:29
+msgid "No Results Found"
+msgstr "Nie Znaleziono Wyników"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:141
+msgid "Raised By"
+msgstr "Utworzone przez"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketsByFilter.php:142
+msgid "Type"
+msgstr "Typ"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:33
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:41
+msgid "Open Tickets"
+msgstr "Zgłoszenia otwarte "
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:34
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:42
+msgid "Pending Tickets"
+msgstr "Zgłoszenia w toku"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:35
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:43
+msgid "Closed Tickets"
+msgstr "Zgłoszenia zamknięte "
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/statistics.php:46
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:44
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:95
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:90
+msgid "None"
+msgstr "Nikogo"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:13
+msgid "Agent Capabilities"
+msgstr "Możliwości Agentów"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "This will add"
+msgstr "To daje"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+msgid "Support Agent"
+msgstr "Agentowi Wsparcia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "capabilities to your existing user roles"
+msgstr "możliwoś obsługi twoich obecnych użytkowników"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:30
+msgid "Supervisor Capabilities"
+msgstr "Możliwości Kierownika"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "Support Supervisor"
+msgstr "Kierownikowi wsparcia technicznego"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:48
+msgid "Front End Restriction"
+msgstr "Ograniczony dostęp front-end"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "This will allow"
+msgstr "To pozwoli"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "Registered Users"
+msgstr "Zarejestrowanym użytkownikom"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "to raise/view tickets from front end."
+msgstr "oglądać zgłoszenia ze stron fornt end."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getRollManagementSettings.php:55
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/faq_filter_front.php:11
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:24
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:52
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:67
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:89
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:116
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:24
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:52
+msgid "All"
+msgstr "Wszystkie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/faq_filter_front.php:8
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:100
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:64
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:49
+msgid "Category:"
+msgstr "Kategoria:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/faq_filter_front.php:26
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:162
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:98
+msgid "Search..."
+msgstr "Szukaj..."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:17
+msgid "Create Ticket As"
+msgstr "Utwórz zgłoszenie jako"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:19
+msgid "Registered"
+msgstr "Użytkownik zarejestrowany"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:20
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:54
+msgid "Guest"
+msgstr "Gość"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:26
+msgid "Change User"
+msgstr "Zmień użytkownika"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:34
+msgid "Email Address"
+msgstr "Adres Email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:153
+msgid "Select User"
+msgstr "Wybierz użytkownnika"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/create_new_ticket.php:159
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:252
+msgid "Close"
+msgstr "Zamknij"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCallOnlineAgents.php:15
+msgid "Online Call Agents"
+msgstr "Agenci Dostępni Online"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCallOnlineAgents.php:43
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCallOnlineAgents.php:74
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCallOnlineAgents.php:105
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChatOnlineAgents.php:43
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChatOnlineAgents.php:74
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChatOnlineAgents.php:105
+msgid "Skype ID:"
+msgstr "Skype ID:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCallOnlineAgents.php:112
+msgid "Sorry, currently no agent available for call!!!"
+msgstr "Przepraszamy, obecnie żaden agent nie jest dostępny pod telefonem!!!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketAssignment.php:30
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:12
+msgid "[Ticket #"
+msgstr "[Zgłoszenie #"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketAssignment.php:32
+msgid "Assign to"
+msgstr "Przydziel do"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketAssignment.php:44
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:89
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getTicketAssignment.php:45
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:90
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/display_ticket.php:5
+msgid "Agent Settings"
+msgstr "Ustawienia Agenta"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:10
+msgid "Support Page/Post"
+msgstr "Wsparcie dla Strony/Wpisu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:12
+msgid "Select Page/Post"
+msgstr "Wybierz Stronę/Wpis"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:30
+msgid "Use shortcode"
+msgstr "Użyj shortcode"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:30
+msgid "in selected page/post above."
+msgstr "w wybranej stronie/artykule powyżej."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:34
+msgid "Default Category"
+msgstr "Domyślna Kategoria"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:50
+msgid "Selected Category will be default category for new tickets."
+msgstr "Wybrana kategoria będzie domyślną dla nowych zgłoszeń."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:54
+msgid "Ticket Status After Customer Reply"
+msgstr "Status Użytkownika Po Odpowiedzi Klienta"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:59
+msgid "Default"
+msgstr "Domyślnie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:60
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:93
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:20
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:25
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:91
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:25
+msgid "Open"
+msgstr "Otwarte"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:61
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:94
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:21
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:26
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:92
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:26
+msgid "Pending"
+msgstr "W toku"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:62
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:95
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:22
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:27
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:93
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:27
+msgid "Closed"
+msgstr "Zamknięte"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:79
+msgid ""
+"Ticket status will be changed to selected status (other than default) after "
+"ticket creator reply back."
+msgstr ""
+"Status zgłoszenia będzie zmieniony na wybrany przez ciebie (inny niż "
+"domyslny) po odpowiedzi właściciela zgłoszenia."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:83
+msgid "Ticket Type Settings"
+msgstr "Ustawienia Typu Zgłoszeń"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:84
+msgid ""
+"If enabled, users will be able to make a ticket public/private from front "
+"end."
+msgstr ""
+"Po uruchomieniu użytkownicy będą mogli dokonywać zgłoszeń publicznych/"
+"prywatnych ze strony głównej."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:88
+msgid "Allow users to make a ticket public/private from front end."
+msgstr ""
+"Zezwól użytkownikom na dokonanie zgłoszenia publicznego/prywatnego ze strony "
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:91
+msgid ""
+"If users are allowed to make a ticket public/private this will be the "
+"selected type for ticket. If user is not allowed to select ticket type from "
+"front end then this will be the type of the ticket created from front end."
+msgstr ""
+"Jeśli użytkownicy mogą dodać zgłoszenie publiczne/prywatne, będzie wybrany "
+"typ zgłoszenia. Jeśli użytkownik nie może wybrać rodzaju zgłoszeń za strony, "
+"zgłoszenie będzie  takie, jakie zostało utworzone na stronie głównej."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:92
+msgid "Default Ticket Type"
+msgstr "Domyślny Typ Zgłoszenia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:94
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:74
+msgid "Private"
+msgstr "Publiczny"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:95
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:75
+msgid "Public"
+msgstr "Prywatny"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:99
+msgid "Support Button"
+msgstr "Przycisk wsparcia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:100
+msgid ""
+"If enabled, button will be shown on all pages of front-end which redirect to "
+"support page/post selected above on click."
+msgstr ""
+"Jeśli opcja jest włączona, przycisk zostanie pokazany na wszystkich stronach "
+"front-end, które po kliknięciu przekierowują do strony obsługi technicznej/"
+"wybranego wpisu."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:104
+msgid "Enable Support Button"
+msgstr "Włączony przycisk wsparcia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:107
+msgid "Button Position"
+msgstr "Pozycja Przycisku"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:109
+msgid "Top Left"
+msgstr "Góra Lewa"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:110
+msgid "Top Right"
+msgstr "Góra Prawa"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:111
+msgid "Bottom Left"
+msgstr "Dół Lewa"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:112
+msgid "Bottom Right"
+msgstr "Dół prawa"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:116
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAdvancedSettings.php:7
+msgid "Guest Ticket"
+msgstr "Zgłoszenia gościa"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:117
+msgid "If enabled, non logged-in user will able to raise ticket"
+msgstr ""
+"Jeśli opcja jest włączona nie zalogowani użytkownicy mogą dodawać zgłoszenia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:121
+msgid "Enable Guest Tickets"
+msgstr "Zgłoszenia dostępne dla gości"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:125
+msgid ""
+"If enabled, Guest user will be able to add attachment to a ticket. Note. "
+"This setting is applicable for front end tickets only"
+msgstr ""
+"Jeśli opcja jest włączona to goście mogą dodawać załączniki do zgłoszeń. "
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:129
+msgid "Allow attachments for guest tickets"
+msgstr "Pozwól gościom dodawać załączniki"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:133
+msgid ""
+"If not set bellow API key and secret, Google No CAPTCHA reCAPTCHA will not "
+"be loaded. This is applicable to guest ticket form only!"
+msgstr ""
+"Jeśli nie ustawisz poniżej klucza API i sekretnego, system captcha nie "
+"będzie używany. "
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:133
+msgid "Click here"
+msgstr "Kliknij tutaj"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:133
+msgid "to get API key for your site."
+msgstr "aby pobrać API dla twojej strony."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:136
+msgid "Google reCAPTCHA Site Key"
+msgstr "Google reCAPTCHA Klucz Strony"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:140
+msgid "Google reCAPTCHA Secret key"
+msgstr "Google reCAPTCHA Sekretny klucz"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:146
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:157
+msgid "Default Login"
+msgstr "Domyślny Login"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:147
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:158
+msgid ""
+"If enabled, it will display default login form link and default login form "
+"will be enabled"
+msgstr ""
+"Jeśli opcja jest włączona, wyświetli link formularza domyślnego logowania i "
+"login domyślny zostanie włączony"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:151
+msgid "Enable Default Login"
+msgstr "Ustaw Login Domyślny"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:162
+msgid "Allow Agents to assign tickets"
+msgstr "Pozwól agentom przypisywać zgłoszenia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:168
+msgid "Allow Agents to delete tickets"
+msgstr "Przydziel Agenta do skasowanego zgłoszenia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:175
+msgid "Facebook App Details"
+msgstr "Aplikacje Facebooka Szczegóły"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:176
+msgid "Click Here"
+msgstr "Kliknij Tutaj"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:176
+msgid "for help to create App"
+msgstr "po pomoc w tworzeniu Aplikacji"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:179
+msgid "App ID:"
+msgstr "ID aplikacji"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:185
+msgid "App Secret:"
+msgstr "Sekretny klucz:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:193
+msgid "Front End Support Panel"
+msgstr "Panel wsparcia technicznego strony głównej"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:196
+msgid "Enable:"
+msgstr "Dostępny:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:198
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:217
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:224
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:40
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:48
+msgid "Yes"
+msgstr "Tak"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:199
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:218
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:225
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:41
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:49
+msgid "No"
+msgstr "Nie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:203
+msgid "Support Title:"
+msgstr "Tytuł Wsparcia:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:209
+msgid "Phone Number:"
+msgstr "Numer telefonu:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:215
+msgid "Display Skype Chat?:"
+msgstr "Wyświetlać czat Skype?"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:222
+msgid "Display Skype Call?:"
+msgstr "Wyświetlać dzwonienie skype?"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:238
+msgid "Facebook App Help"
+msgstr "Aplikacje Facebooka Pomoc"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:242
+msgid "Create your application"
+msgstr "Utwórz swoją aplikację"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:243
+msgid "Look for Site URL field in the Website tab and enter"
+msgstr "Poszukaj pola adresu URL strony w zakładce WWW i wpisz"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:244
+msgid "After this, go to the"
+msgstr "Po tym, przejdź do"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:244
+msgid "Facebook Application List"
+msgstr "Lista Aplikacji Facebook"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:244
+msgid "page and select your newly created application"
+msgstr "strona i wybierz nowo utworzoną aplikację"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:245
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:246
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:247
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:248
+msgid "Go to"
+msgstr "Idź do"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:245
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:246
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:25
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:245
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:246
+msgid "and enter"
+msgstr "i wejdź"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:245
+msgid "Contact Email"
+msgstr "Kontakt Email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:246
+msgid "+Add Platform"
+msgstr "+Dodaj Platformę"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:246
+msgid "select"
+msgstr "wybierz"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:246
+msgid "Website"
+msgstr "Strona www"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:247
+msgid "Status and Review"
+msgstr "Status i Podgląd"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:247
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:248
+msgid " and"
+msgstr "i"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:247
+msgid "ON"
+msgstr "włączone"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:247
+msgid "available to the general public"
+msgstr "Dostępny publicznie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:248
+msgid "Dashboard"
+msgstr "Panel kontrolny"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:248
+msgid " and Copy the values from these fields:"
+msgstr "i skopiuj dane z tych pól:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:248
+msgid "App ID/API key"
+msgstr "App ID/API key"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:248
+msgid "Application Secret"
+msgstr "Sekretny klucz"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getGeneralSettings.php:248
+msgid ", and enter in <b>Facebook App Settings"
+msgstr "i napisz w <b> ustawienia Facebook App"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/selectRegisteredUser.php:2
+msgid "Username or Email"
+msgstr "Nazwa użytkownika lub Email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/selectRegisteredUser.php:3
+msgid "Search"
+msgstr "Szukaj"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/advanced_settings.php:2
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:26
+msgid "Advanced Settings"
+msgstr "Ustawienia Zaawansowane"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/advanced_settings.php:3
+msgid "Custom Status"
+msgstr "Niestandardowy Status"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChatOnlineAgents.php:15
+msgid "Online Chat Agents"
+msgstr "Agenci Dostępni Na Czacie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChatOnlineAgents.php:112
+msgid "Sorry, currently no agent available for chat!!!"
+msgstr "Przepraszamy, obecnie żaden agent nie jest dostępny na czacie!!!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:26
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:27
+msgid " Back To Tickets"
+msgstr "Powrót do zgłoszeń"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:27
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:28
+msgid "Change Status"
+msgstr "Zmień status"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:29
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:33
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:30
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:34
+msgid "Assign Agent"
+msgstr "Przydziel Agenta"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:30
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:37
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:31
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:38
+msgid "Delete Ticket"
+msgstr "Skasuj Zgłoszenie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:42
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:43
+msgid "Ticket"
+msgstr "Zgłoszenie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:90
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:21
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:21
+msgid "Status:"
+msgstr "Status:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:113
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:113
+msgid "Priority:"
+msgstr "Priorytet:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:127
+msgid "Attach File(s):"
+msgstr "Załącz pliki:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:140
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:139
+msgid "Reset"
+msgstr "Skasuj"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:141
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:138
+msgid "Submit Reply"
+msgstr "Zatwierdź odpowiedź"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicketFront.php:194
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getIndivisualTicket.php:199
+msgid "Attachment: "
+msgstr "Załącznik:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:3
+msgid "General"
+msgstr "Ogólne"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:4
+msgid "Categories"
+msgstr "Kategorie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:5
+msgid "Email Notification"
+msgstr "Powiadomienia Email"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:6
+msgid "Custom Fields"
+msgstr "Niestandardowe Pola"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:7
+msgid "Custom Slider Menus"
+msgstr "Własne menu suwaka"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:8
+msgid "Role Management"
+msgstr "Zarządzanie rolami"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:9
+msgid "FAQ Categories"
+msgstr "FAQ Kategorie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin_settings.php:10
+msgid "Custom CSS"
+msgstr "Niestandardowy CSS"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomCSSSettings.php:7
+msgid "Custom CSS For Front End"
+msgstr "Niestandardowe CSS dla strony głównej"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getChangeTicketStatus.php:70
+msgid "Ticket Type"
+msgstr "Typ Zgłoszenia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:25
+msgid "Signature"
+msgstr "Podpis"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:28
+msgid "Skype Settings"
+msgstr "Ustawienia Skype"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:29
+msgid ""
+" You'll need to update your Skype setting to allow incoming calls or "
+"messages from people who are not on your contact list."
+msgstr ""
+"Musisz zaktualizować ustawienia Skype, aby umożliwić połączenia "
+"przychodzące, lub otrzymywanie wiadomości od ludzi, którzy są spoza twojej "
+"listy kontaktów."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:32
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:37
+msgid "Available to Chat?"
+msgstr "Dostęp na czacie?"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAgentSettings.php:45
+msgid "Available to Call?"
+msgstr "Dostęp na telefonie?"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:22
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFaqCategories.php:9
+msgid "Category Name"
+msgstr "Nazwa Kategorii"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:23
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:59
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:73
+msgid "Default Assignee"
+msgstr "Domyślnie Przypisany do"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:48
+msgid "Edit"
+msgstr "Edycja"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:58
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFaqCategories.php:26
+msgid "Enter Category Name"
+msgstr "Wpisz nazwę kategorii"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:68
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFaqCategories.php:27
+msgid "Create New Category"
+msgstr "Utwórz Nową Kategorię"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCategories.php:100
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFaqCategories.php:32
+msgid "Update Category"
+msgstr "Aktualizacja Kategorii"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ajax.php:11
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ajax.php:119
+msgid "Javascript Injection Not Allowed!"
+msgstr "Umieszczanie Skryptu Javascript Zabronione"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAdvancedSettings.php:8
+msgid "This message will be dispayed when a new ticket is submitted from guest"
+msgstr ""
+"Wiadomość będzie widoczna gdy nowe zgłoszenie zostanie dodane przez gościa"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAdvancedSettings.php:13
+msgid "Ticket Status"
+msgstr "Status Zgłoszenia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getAdvancedSettings.php:14
+msgid ""
+"This is applicable for all pending tickets only. Please leave blank to "
+"disable this feature."
+msgstr ""
+"Działa dla wszystkich zadań w toku.  Proszę zostaw pole puste, aby wyłączyć "
+"tę funkcję."
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:22
+msgid "Support Plus"
+msgstr "Support Plus"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:23
+msgid "FAQ"
+msgstr "FAQ"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:24
+msgid "Statistics"
+msgstr "Statystyki"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:27
+msgid "Support"
+msgstr "Wsparcie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:59
+msgid "WP Support Plus"
+msgstr "WP Support Plus"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:60
+msgid "Welcome"
+msgstr "Witaj"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:81
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:117
+msgid "Please insert category name!"
+msgstr "Proszę wstaw nazwę kategorii!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:82
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:118
+msgid "Please insert adminstrator email address!"
+msgstr "Proszę wstaw adres email administratora!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:83
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:119
+msgid "Please insert menu text"
+msgstr "Proszę wstaw menu tekstowe"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:84
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:120
+msgid "Please insert Redirect URL"
+msgstr "Proszę wstaw adres przekierowania"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:85
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:121
+msgid "Are you sure?"
+msgstr "Jesteś pewien?"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:86
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:122
+msgid "Please insert field label!"
+msgstr "Wstaw nazwę pola!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:87
+msgid "Please insert field options!"
+msgstr "Proszę uzupełnić dane!"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:96
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:137
+msgid "WP Support Plus Settings"
+msgstr "WP Support Plus Ustawienia"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:123
+msgid ""
+" All the tickets belonging to this status will get moved to pending status"
+msgstr ""
+"Wszystkie bilety o takim statusie zostaną przeniesione do \"oczekujących\""
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:124
+msgid "Please insert integer value"
+msgstr "Proszę podać wartość całkowitą"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:158
+msgid "WP Support Plus Statistics"
+msgstr "WP Support Plus Statystyki"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/admin.php:173
+msgid "WP Support Plus FAQ"
+msgstr "WP Support Plus FAQ"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:49
+msgid "Type:"
+msgstr "Typ:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:53
+msgid "User"
+msgstr "Użytkownik"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:86
+msgid "Assigned to:"
+msgstr "Przydzielony do:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:130
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:67
+msgid "No of Tickets:"
+msgstr "Liczba zgłoszeń:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:133
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:70
+msgid "10"
+msgstr "10"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:134
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:71
+msgid "20"
+msgstr "20"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:135
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:72
+msgid "30"
+msgstr "0"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:136
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:73
+msgid "40"
+msgstr "40"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:137
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:74
+msgid "50"
+msgstr "50"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:147
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:84
+msgid "By:"
+msgstr "Sortuj według:"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:150
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:87
+msgid "ID"
+msgstr "ID"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:151
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:57
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:74
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter_front.php:88
+msgid "Text"
+msgstr "Tekstu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/ticket_filter.php:152
+msgid "Created By"
+msgstr "Użytkownika"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:12
+msgid "Icon"
+msgstr "Ikona"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:13
+msgid "Menu"
+msgstr "Menu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:14
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:47
+msgid "Redirect URL"
+msgstr "Adres przekierowania"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:28
+msgid "No Menus Found"
+msgstr "Nie Znaleziono Menu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:33
+msgid "Add New Menu"
+msgstr "Dodaj Nowe Menu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:37
+msgid "Select Icon (40 x 40 pixel)"
+msgstr "Wybierz ikonę (40 x 40 pixeli)"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:42
+msgid "Menu Text"
+msgstr "Menu Tekstowe"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomSliderMenus.php:52
+msgid "Create New Menu"
+msgstr "Utwórz Nowe Menu"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:10
+msgid "Label"
+msgstr "Etykieta"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:11
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:39
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:54
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:71
+msgid "Required"
+msgstr "Wymagane"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:39
+msgid "Optional"
+msgstr "Opcjonalne"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:48
+msgid "No Custom Fields Found"
+msgstr "Nie Znaleziono Pól Niestandardowych"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:53
+msgid "Enter New Field Label"
+msgstr "Utwórz Nową Nazwę Pola"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:55
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:72
+msgid "Field Type"
+msgstr "Typ Pola"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:58
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:75
+msgid "Drop Down"
+msgstr "Lista rozwijana"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:61
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:78
+msgid "Field Options"
+msgstr "Opcje pola"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:64
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:81
+msgid ""
+"Please enter the one option per line, option key and value should be entered "
+"as shown in the field"
+msgstr ""
+"Proszę wpisać jedną opcję w linii, przycisk opcji i wartość powinny zostać "
+"wpisane według wzoru"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:66
+msgid "Create New Field"
+msgstr "Utwórz Nowe Pole"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getCustomFields.php:83
+msgid "Update"
+msgstr "Aktualizacja"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/showFAQ.php:13
+msgid "Question"
+msgstr "Pytanie"
+
+#: /home/pradeep/Desktop/Backup/27-5--1-12/wp-support-plus/includes/admin/getFrontEndFAQ.php:68
+msgid "No Faqs Found"
+msgstr "Nie Znaleziono Faq"

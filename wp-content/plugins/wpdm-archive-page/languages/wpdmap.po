@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Download Manager Pro v4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-24 14:10+0600\n"
+"PO-Revision-Date: 2015-06-24 14:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: Shaon <proshaon@yahoo.com>\n"
+"Language: en_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wpdm-archive-page.php:132 wpdm-archive-page.php:160
+#: wpdm-archive-page.php:165 wpdm-archive-page.php:174
+#: wpdm-archive-page.php:181 wpdm-archive-page.php:183
+msgid "Loading"
+msgstr ""
+
+#: wpdm-archive-page.php:206
+msgid "Browser by Category"
+msgstr ""
+
+#: wpdm-archive-page.php:363 wpdm-archive-page.php:364
+msgid "Search Package"
+msgstr ""
+
+#: wpdm-archive-page.php:369 wpdm-archive-page.php:638
+#: wpdm-archive-page.php:782
+msgid "Publish Date"
+msgstr ""
+
+#: wpdm-archive-page.php:370 wpdm-archive-page.php:645
+#: wpdm-archive-page.php:783
+msgid "Last Updated"
+msgstr ""
+
+#: wpdm-archive-page.php:371 wpdm-archive-page.php:707
+#: wpdm-archive-page.php:779
+msgid "View Count"
+msgstr ""
+
+#: wpdm-archive-page.php:372 wpdm-archive-page.php:711
+#: wpdm-archive-page.php:780
+msgid "Download Count"
+msgstr ""
+
+#: wpdm-archive-page.php:373 wpdm-archive-page.php:781
+msgid "Package Size"
+msgstr ""
+
+#: wpdm-archive-page.php:380 wpdm-archive-page.php:791
+msgid "Descending Order"
+msgstr ""
+
+#: wpdm-archive-page.php:381 wpdm-archive-page.php:790
+msgid "Ascending Order"
+msgstr ""
+
+#: wpdm-archive-page.php:391
+msgid "All Packages"
+msgstr ""
+
+#: wpdm-archive-page.php:404
+msgid "Select category or search"
+msgstr ""
+
+#: wpdm-archive-page.php:601 wpdm-archive-page.php:967
+msgid "No download found!"
+msgstr ""
+
+#: wpdm-archive-page.php:660 wpdm-archive-page.php:683
+msgid "Today"
+msgstr ""
+
+#: wpdm-archive-page.php:661 wpdm-archive-page.php:684
+msgid "Yesterday"
+msgstr ""
+
+#: wpdm-archive-page.php:662 wpdm-archive-page.php:685
+msgid "Last 7 Days"
+msgstr ""
+
+#: wpdm-archive-page.php:663 wpdm-archive-page.php:686
+msgid "Last 30 Days"
+msgstr ""
+
+#: wpdm-archive-page.php:664 wpdm-archive-page.php:687
+msgid "This Month"
+msgstr ""
+
+#: wpdm-archive-page.php:665 wpdm-archive-page.php:688
+msgid "Last Month"
+msgstr ""
+
+#: wpdm-archive-page.php:723
+msgid "Package Size (Bytes)"
+msgstr ""
+
+#: wpdm-archive-page.php:730
+msgid "Package Categories"
+msgstr ""
+
+#: wpdm-archive-page.php:776
+msgid "Order By"
+msgstr ""
+
+#: wpdm-archive-page.php:778
+msgid "Select Order By"
+msgstr ""
+
+#: wpdm-archive-page.php:788
+msgid "Order"
+msgstr ""
+
+#: wpdm-archive-page.php:798
+msgid "Search By Keyword"
+msgstr ""
+
+#: wpdm-archive-page.php:799
+msgid "Looking For"
+msgstr ""
+
+#: wpdm-archive-page.php:802 wpdm-archive-page.php:1026
+msgid "Search"
+msgstr ""
+
+#: wpdm-archive-page.php:803
+msgid "Reset"
+msgstr ""
+
+#: wpdm-archive-page.php:1047
+msgid "Title:"
+msgstr ""
+
+#: wpdm-archive-page.php:1049
+msgid "Search Result Page"
+msgstr ""
+
+#: wpdm-archive-page.php:1052
+msgid ""
+"Note: Create a page with short-code <b>[wpdm-search-page]</b> and select "
+"that page as search redult page"
+msgstr ""
+
+#: wpdm-archive-page.php:1141
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: wpdm-archive-page.php:1205
+msgid "Link Template:"
+msgstr ""
+
+#: wpdm-archive-page.php:1322
+msgid "Business Unit"
+msgstr ""
+
+#: wpdm-archive-page.php:1334
+msgid "Business Unit Area"
+msgstr ""
+
+#: wpdm-archive-page.php:1341
+msgid "Brand Element"
+msgstr ""
+
+#: wpdm-archive-page.php:1348
+msgid "Search Keyword"
+msgstr ""
+
+#: libs/daterangepicker/moment.min.js:6
+msgid "year"
+msgstr ""

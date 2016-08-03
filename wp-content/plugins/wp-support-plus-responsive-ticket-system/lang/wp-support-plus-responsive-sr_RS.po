@@ -1,0 +1,1977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Support Plus\n"
+"POT-Creation-Date: 2015-08-20 18:42+0530\n"
+"PO-Revision-Date: 2015-09-08 13:57+0100\n"
+"Last-Translator: Cherry <cherry@trade.in.rs>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/pradeep/Downloads/demo/wp-support-plus\n"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:212
+msgid "WP Support Plus Pro License"
+msgstr "WP Podrška Plus Pro Licenca"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:212
+msgid "Pro License"
+msgstr "Pro Licenca"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:220
+msgid "WP Support Plus Pro License Options"
+msgstr "WP Podrška Plus Pro Licenca Opcije"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:229
+msgid "License Key"
+msgstr "Ključ Licence"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:233
+msgid "Enter your license key"
+msgstr "Unesite Vaš ključ licence"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:239
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:248
+msgid "Activate License"
+msgstr "Aktiviraj Licencu"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:243
+msgid "active"
+msgstr "aktivno"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/wp-support-plus-pro.php:245
+msgid "Deactivate License"
+msgstr "Deaktiviraj Licencu"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/asset/lib/google_noCaptcha/checkCaptcha.php:20
+msgid "Sorry No Robots allowed here!!!"
+msgstr "Izvinite, korišćenje Robota nije dozvoljeno ovde !!!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/create_new_ticket.php:18
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/create_new_ticket.php:28
+msgid "OR"
+msgstr "ILI"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/create_new_ticket.php:25
+msgid "Login with Facebook"
+msgstr "Prijavite se putem Facebook-a"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/create_new_ticket.php:36
+msgid "Please Wait..."
+msgstr "Molim Vas Sačekajte..."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:16
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loggedInUser.php:24
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:15
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/display_ticket.php:4
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/emailTemplates.php:2
+msgid "Create New Ticket"
+msgstr "Napravi Novi Kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:17
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loggedInUser.php:30
+msgid "FAQs"
+msgstr "Najčešća Pitanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:26
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loggedInUser.php:42
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loggedInUser.php:48
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loggedInUser.php:57
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestUser.php:5
+msgid "Please Wait"
+msgstr "Molim Sačekajte"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:186
+msgid "Your Name"
+msgstr "Vaše Ime"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:191
+msgid "Your Email"
+msgstr "Vaš Email"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:196
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:164
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/deleteTicket.php:23
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:429
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:62
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:200
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/editTicket.php:24
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:95
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:310
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:106
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:29
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:71
+msgid "Subject"
+msgstr "Naslov"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:201
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:205
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:125
+msgid "Description"
+msgstr "Opis"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:207
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:166
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:462
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:211
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:154
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:369
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:144
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:123
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:37
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:29
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:139
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndFAQ.php:48
+msgid "Category"
+msgstr "Kategorija"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:223
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:172
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:484
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:226
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:190
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:405
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:161
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:51
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:43
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:150
+msgid "Priority"
+msgstr "Prioritet"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:238
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:239
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:178
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:162
+msgid "Attach File(s)"
+msgstr "Priloženi Fajl(ovi)"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:251
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:251
+msgid "Make Ticket Public"
+msgstr "Javno Dostupan Kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:264
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:261
+msgid "Submit Ticket"
+msgstr "Dostavi Kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/guestTicketForm.php:265
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:262
+msgid "Reset Form"
+msgstr "Obriši Obrazac"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loggedInUser.php:16
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/statistics.php:22
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/statistics.php:34
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/display_ticket.php:3
+msgid "Tickets"
+msgstr "Kuponi"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loginForm.php:4
+msgid "Enter Username"
+msgstr "Unesite Korisničko Ime"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loginForm.php:5
+msgid "Enter Password"
+msgstr "Unesite Šifru"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loginForm.php:6
+msgid "Login"
+msgstr "Prijava"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loginForm.php:7
+msgid "Forgot Password?"
+msgstr "Zaboravili ste Šifru ?"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loginForm.php:8
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:196
+msgid "Click Here"
+msgstr "Kliknite Ovde"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loginForm.php:11
+msgid "Don't have account?"
+msgstr "Nemate otvoren nalog ?"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/loginForm.php:12
+msgid "Register Here"
+msgstr "Registrtrujte se Ovde"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/shortcode.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:41
+msgid "Please Enter all required fields"
+msgstr "Molim, Popunite sva zahtevana polja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/shortcode.php:40
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:42
+msgid "Reply can not be empty!"
+msgstr "Odgovor ne može biti prazan !"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/shortcode.php:41
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:43
+msgid "Are you sure to delete this ticket?"
+msgstr "Da li ste sigurni da želite obrisati ovaj kupon ?"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/shortcode.php:42
+msgid "Username or Password missing!!!"
+msgstr "Korisničko Ime ili Šifra nedostaju !!!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/shortcode.php:43
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:45
+msgid "Can not be undone"
+msgstr "Ne može se opozvati (pozvati nazad)"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/support_panel.php:20
+msgid "Online Skype Chat Agents"
+msgstr "Raspoloživi Agenti za Skype Pričaonicu (chat)"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/support_panel.php:23
+msgid "Skype Chat"
+msgstr "Skype Pričaonica"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/support_panel.php:39
+msgid "Online Skype Call Agents"
+msgstr "Raspoloživi Agenti za Skype Poziv (call)"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/support_panel.php:42
+msgid "Skype Call"
+msgstr "Skype Poziv"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/support_panel.php:67
+msgid "Support Ticket"
+msgstr "Kupon Za Podršku"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:162
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:418
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:23
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:77
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:238
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:292
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:12
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:91
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:17
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:8
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:126
+msgid "Status"
+msgstr "Status"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:169
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:473
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/statistics.php:31
+msgid "Assigned to"
+msgstr "Dodeljen "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:174
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:495
+msgid "Updated"
+msgstr "Ažurirano "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:195
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:525
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:227
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:198
+msgid "months ago"
+msgstr "pre meseci"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:196
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:526
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:228
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:199
+msgid "days ago"
+msgstr "pre dana"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:197
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:527
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:229
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:200
+msgid "hours ago"
+msgstr "pre časova"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:198
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:528
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:230
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:201
+msgid "minutes ago"
+msgstr "pre minuta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:199
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:529
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:231
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:202
+msgid "seconds ago"
+msgstr "pre sekundi"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:297
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:632
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndFAQ.php:64
+msgid "Newer"
+msgstr "Novije"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:298
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:633
+msgid "of"
+msgstr "od "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:298
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:633
+msgid "Pages"
+msgstr "Strane "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:299
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:634
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndFAQ.php:66
+msgid "Older"
+msgstr "Starije"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndTicket.php:301
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:636
+msgid "No Tickets Found"
+msgstr "Broj Pronađenih Kupona "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:5
+msgid "Mail Settings"
+msgstr "Podešvanja Pošte"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:8
+msgid "From Email:"
+msgstr "Od E-mail adrese:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:12
+msgid "From Name:"
+msgstr "Od Ime: "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:22
+msgid "Reply To:"
+msgstr "Odgovor Na:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:38
+msgid "Email Notifications"
+msgstr "E-mail Obaveštenja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:39
+msgid "If enabled, agents will receive email notifications."
+msgstr "Ako je uključeno, agenti će primati obaveštenja E-mail-om."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:43
+msgid "Enable Agent Email Notification"
+msgstr "Omogući E-mail Obaveštavanje Agenta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:54
+msgid "Administrator Notifications"
+msgstr "Obaveštenja Administratora"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:57
+msgid "Administrator Emails :"
+msgstr "E-mail-ovi Administratora :"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:61
+msgid ""
+"Please add one email address per line. These email addresses will receive "
+"administrator email notifications"
+msgstr ""
+"Molimo Vas, dodajte jednu E-mail adresu po liniji. Ove E-mail adrese će "
+"primiti E-mail obaveštenja Administratora"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:64
+msgid "Email Pipe"
+msgstr "Email Pipe"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:78
+msgid "You must setup email piping on your server as well!"
+msgstr "Potrebno je da podesite E-mail piping na Vašem serveru, takođe!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:87
+msgid "Enable Email Piping"
+msgstr "Omogući E-mail Piping"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getEmailNotificationSettings.php:91
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:71
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:67
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:52
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:448
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:52
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:202
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:52
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:223
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:251
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomCSSSettings.php:11
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:54
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAdvancedSettings.php:19
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:76
+msgid "Save Settings"
+msgstr "Sačuvaj Podešavanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:11
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/searchRegisteredUsaers.php:15
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:11
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:189
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:68
+msgid "Name"
+msgstr "Ime"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:12
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/deleteTicket.php:21
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:12
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:24
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:15
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:12
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/showFAQ.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFaqCategories.php:10
+msgid "Action"
+msgstr "Akcija"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:19
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:13
+msgid "Color"
+msgstr "Boja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:20
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:109
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:324
+msgid "Save"
+msgstr "Sačuvaj"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:33
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticketActionDashboard.php:8
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticketActionDashboard.php:15
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:23
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:50
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:22
+msgid "Delete"
+msgstr "Obrisati"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:45
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:29
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:89
+msgid "Update"
+msgstr "Ažurirati"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:55
+msgid "No Custom Status Found"
+msgstr "Prilagođen Status Nije Pronađen"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:59
+msgid "Add New Status"
+msgstr "Dodaj Novi Status"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:68
+msgid "Status Name"
+msgstr "Ime Statusa"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:72
+msgid "Status Color"
+msgstr "Boja Statusa"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomStatusSettings.php:84
+msgid "Create New Status"
+msgstr "Napravi Nov Status"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/deleteTicket.php:20
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:55
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:49
+msgid "Ticket"
+msgstr "Kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/deleteTicket.php:22
+msgid "Updated By"
+msgstr "Ažurirano od "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/deleteTicket.php:28
+msgid "Deleted"
+msgstr "Obrisano"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/searchRegisteredUsaers.php:16
+msgid "Username"
+msgstr "Korisničko Ime"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/searchRegisteredUsaers.php:17
+msgid "Email"
+msgstr "E-mail"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/searchRegisteredUsaers.php:29
+msgid "No Results Found"
+msgstr "Nema Pronađenih Rezultata"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:26
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticketActionDashboard.php:2
+msgid "Apply Filter"
+msgstr "Dodeli Filter"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:27
+msgid "Show Active Filter"
+msgstr "Pokaži Aktivan Filter"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:440
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:118
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:333
+msgid "Raised By"
+msgstr "Pokrenuto Od"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketsByFilter.php:451
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:136
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:351
+msgid "Type"
+msgstr "Tip"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/statistics.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:44
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:95
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:165
+msgid "None"
+msgstr "Nijedan"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticketActionDashboard.php:3
+msgid "Reset Filter"
+msgstr "Poništi Filter"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticketActionDashboard.php:5
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:40
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:34
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/emailTemplates.php:4
+msgid "Change Status"
+msgstr "Promeni Status"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticketActionDashboard.php:7
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticketActionDashboard.php:11
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:42
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:46
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:36
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:40
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/emailTemplates.php:5
+msgid "Assign Agent"
+msgstr "Dodeli Agenta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:13
+msgid "Agent Capabilities"
+msgstr "Mogućnosti Agenta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "This will add"
+msgstr "Ovo će dodati"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+msgid "Support Agent"
+msgstr "Agent Podrške"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "capabilities to your existing user roles"
+msgstr "mogućnosti vaše postojeće korisničke uloge"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:30
+msgid "Supervisor Capabilities"
+msgstr "Mogućnosti Nadzornika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:31
+msgid "Support Supervisor"
+msgstr "Podrška Nadzornika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:48
+msgid "Front End Restriction"
+msgstr "Fornt End Ograničenje"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "This will allow"
+msgstr "Ovo će omogućiti "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "Registered Users"
+msgstr "Registrovani Korisnici"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:49
+msgid "to raise/view tickets from front end."
+msgstr "preuzeti/pogledati kupone sa front end-a."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getRollManagementSettings.php:55
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/faq_filter_front.php:11
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:100
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:126
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:141
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:164
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:192
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:239
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:29
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:66
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:108
+msgid "All"
+msgstr "Sve"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:7
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:7
+msgid "Available Templates"
+msgstr "Dostupni Šabloni"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:19
+msgid "Reply Notification Email"
+msgstr "Odgovor na E-mail Obaveštenje"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:23
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:12
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:12
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:12
+msgid "Applicable Users"
+msgstr "Primenljivo na Korisnike "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:24
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:13
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:13
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:52
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:55
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:73
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:76
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:92
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:95
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:111
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:114
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:130
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:133
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:148
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:151
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:165
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:168
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:182
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:185
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:13
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:24
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:41
+msgid "Enable"
+msgstr "Omogućiti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:25
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:53
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:56
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:74
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:77
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:93
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:96
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:112
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:115
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:131
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:134
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:149
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:152
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:166
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:169
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:183
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:186
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:26
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:42
+msgid "Disable"
+msgstr "Isključiti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:29
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:18
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:18
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:18
+msgid "Customer"
+msgstr "Kupac"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:30
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:19
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:19
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:19
+msgid "Ticket Creator"
+msgstr "Kupon Napravio"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:37
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:26
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:26
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:26
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:46
+msgid "Administrator"
+msgstr "Administrator"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:38
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:27
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:27
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:27
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:47
+msgid "Administrator Emails set in Email Notification Settings"
+msgstr ""
+"E-mail-ovi Administratora postavljeni u E-mail Podešavanjima Obaveštenja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:44
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:33
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:33
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:33
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:53
+msgid "Supervisor"
+msgstr "Nadzornik"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:50
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:59
+msgid "Assigned Agents"
+msgstr "Dodeljeni Agenti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:51
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:40
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:40
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:40
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:60
+msgid "Agents pre-assigned to category"
+msgstr "Agenti prethodno dodeljeni kategoriji"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:57
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:46
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:46
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:46
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:66
+msgid "All Agents"
+msgstr "Svi Agenti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETReplayTicket.php:64
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:31
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:73
+msgid "Body"
+msgstr "Telo (celina)"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/faq_filter_front.php:8
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:149
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:138
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:63
+msgid "Category:"
+msgstr "Kategorija: "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/faq_filter_front.php:26
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:273
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:141
+msgid "Search..."
+msgstr "Traži..."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:35
+msgid "No Custom Priority Found"
+msgstr "Prilagođeni Prioritet nije Pronađen"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:39
+msgid "Add New Priority"
+msgstr "Dodaj Novi Prioritet"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:42
+msgid "Priority Name"
+msgstr "Ime Prioriteta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:46
+msgid "Priority Color"
+msgstr "Boja Prioriteta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomPrioritySettings.php:50
+msgid "Create New Priority"
+msgstr "Napravi Nov Prioritet"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:174
+msgid "Create Ticket As"
+msgstr "Napravi Kupon Kao "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:176
+msgid "Registered"
+msgstr "Registrovano "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:177
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:128
+msgid "Guest"
+msgstr "Gost"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:183
+msgid "Change User"
+msgstr "Promena Korisnika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:191
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:87
+msgid "Email Address"
+msgstr "E-mail Adrese"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:271
+msgid "Select User"
+msgstr "Izaberi Korisnika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/create_new_ticket.php:277
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:272
+msgid "Close"
+msgstr "Zatvori"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:473
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:524
+msgid "Customer Name"
+msgstr "Ime Korisnika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:474
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:525
+msgid "Customer Email"
+msgstr "E-mail Korisnika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:475
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:526
+msgid "Ticket ID"
+msgstr "Kupon ID"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:476
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:527
+msgid "Ticket Subject"
+msgstr "Naziv Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:477
+msgid "Ticket Discription"
+msgstr "Opis Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:478
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:529
+msgid "Ticket Category"
+msgstr "Kategorija Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:479
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:530
+msgid "Ticket Priority"
+msgstr "Prioritet KUpona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:493
+msgid "Your Ticket has been created successfully"
+msgstr "Vaš Kupon je uspešno kreiran"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:521
+msgid "Reply By Name"
+msgstr "Odgovori Po Imenu"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:522
+msgid "Reply By Email"
+msgstr "Odgovori Po E-mail-u"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:523
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAdvancedSettings.php:13
+msgid "Ticket Status"
+msgstr "Status Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:524
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:525
+msgid "(ticket creator)"
+msgstr "(tiket autor)"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/installation.php:528
+msgid "Reply Discription"
+msgstr "Opis Odgovora"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETChangeTicketStatus.php:8
+msgid "Change Status Notification Email"
+msgstr "Promena Statusa E-mail Obaveštenja "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:17
+msgid "Backend Ticket List Fields"
+msgstr "Backend Spisak Oblasti Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:21
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:236
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:10
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:16
+msgid "Field No."
+msgstr "Oblast No."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:22
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:237
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFieldsReorderSettings.php:11
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:17
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:10
+msgid "Label"
+msgstr "Oznaka"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:24
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:239
+msgid "Extra"
+msgstr "Dodatno"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:41
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:44
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:63
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:66
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:81
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:84
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:99
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:102
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:122
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:125
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:140
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:143
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:158
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:161
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:176
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:179
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:194
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:197
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:212
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:215
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:256
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:259
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:278
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:281
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:296
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:299
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:314
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:317
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:337
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:340
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:355
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:358
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:373
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:376
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:391
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:394
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:409
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:412
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:427
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:430
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:64
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:72
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:80
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:99
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:107
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:115
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:131
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:139
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:147
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:163
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:171
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:179
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:195
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:203
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:211
+msgid "Show"
+msgstr "Prikaži"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:42
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:45
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:64
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:67
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:82
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:85
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:100
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:103
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:123
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:126
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:141
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:144
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:159
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:162
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:177
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:180
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:195
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:198
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:213
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:216
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:257
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:260
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:279
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:282
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:297
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:300
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:315
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:318
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:338
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:341
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:356
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:359
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:374
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:377
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:392
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:395
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:410
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:413
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:428
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:431
+msgid "Hide"
+msgstr "Sakrij"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:59
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:274
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:267
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:137
+msgid "ID"
+msgstr "ID"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:107
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:322
+msgid "Char. Length"
+msgstr "Dužina karaktera (znakova) "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:110
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:325
+msgid "Saved!"
+msgstr "Sačuvano!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:172
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:387
+msgid "Assigned To"
+msgstr "Dodeljeno "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:208
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:423
+msgid "Updated Time"
+msgstr "Ažurirano Vreme"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketListFieldSettings.php:232
+msgid "Frontend Ticket List Fields"
+msgstr "Frontend Spisak Oblasti Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/wpspCheckLogin.php:8
+msgid "Incorrect Username or Password"
+msgstr "Pogrešno Korisničko Ime ili Šifra"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETAssignAgent.php:8
+msgid "Assign Agent Notification Email"
+msgstr "Dodeli E-mail Obaveštenja Agenta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCallOnlineAgents.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCallOnlineAgents.php:70
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCallOnlineAgents.php:101
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChatOnlineAgents.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChatOnlineAgents.php:70
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChatOnlineAgents.php:101
+msgid "Skype ID:"
+msgstr "Skype ID:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCallOnlineAgents.php:108
+msgid "Sorry, currently no agent available for call!!!"
+msgstr "Izvinite, trenutno nema agenta na raspolaganju za poziv!!!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketAssignment.php:30
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:13
+msgid "[Ticket #"
+msgstr "[Kupon #"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketAssignment.php:32
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkAssignAgent.php:21
+msgid "Assign to"
+msgstr "Dodeliti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketAssignment.php:44
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:90
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkAssignAgent.php:33
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:277
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:59
+msgid "Cancel"
+msgstr "Odustani"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getTicketAssignment.php:45
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:91
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkAssignAgent.php:32
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:58
+msgid "Save Changes"
+msgstr "Sačuvaj Promene"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETDeleteTicket.php:8
+msgid "Delete Ticket Notification Email"
+msgstr "Obriši E-mail Obaveštenje Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/display_ticket.php:5
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:178
+msgid "Agent Settings"
+msgstr "Podešavanja Agenta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:18
+msgid "Logged In Users"
+msgstr "Korisnici Prijavljeni na Sistem"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:19
+msgid "Agents"
+msgstr "Agenti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:20
+msgid "Supervisors"
+msgstr "Nadzornici"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:155
+msgid "No. Of Tickets"
+msgstr "No. Kupona "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFilterFrontEnd.php:187
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:266
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:57
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:77
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:138
+msgid "Text"
+msgstr "Tekst"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:10
+msgid "Support Page/Post"
+msgstr "Strana/Poruka Podrške"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:12
+msgid "Select Page/Post"
+msgstr "Izaberite Stranu/Poruku"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:30
+msgid "Use shortcode"
+msgstr "Koristiti kratak kod"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:30
+msgid "in selected page/post above."
+msgstr "u izabranoj strani/poruci, iznad."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:34
+msgid "Default Category"
+msgstr "Uobičajena Kategorija"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:50
+msgid "Selected Category will be default category for new tickets."
+msgstr "Izabrana Kategorija će biti uobičajena kategorija za nove kupone."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:54
+msgid "Ticket Status After Customer Reply"
+msgstr "Status Kupona Posle Odgovora Kupcu"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:59
+msgid "Default"
+msgstr "Uobičajen"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:60
+msgid "Open"
+msgstr "Otvoren"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:61
+msgid "Pending"
+msgstr "Na Čekanju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:62
+msgid "Closed"
+msgstr "Zatvoren"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:79
+msgid ""
+"Ticket status will be changed to selected status (other than default) after "
+"ticket creator reply back."
+msgstr ""
+"Status Kupona će biti promenjen na izabrani status (drugačiji od "
+"uobičajenog) posle odgovora kreatora kupona."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:83
+msgid "Ticket Type Settings"
+msgstr "Podešavanja Tipa Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:84
+msgid ""
+"If enabled, users will be able to make a ticket public/private from front "
+"end."
+msgstr ""
+"Ukoliko je omogućeno, korisnici će moći da učine kupon javnim/privatnim sa "
+"front end-a."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:88
+msgid "Allow users to make a ticket public/private from front end."
+msgstr "Dozvoli korisnicima da učine kupon javnim/privatnim sa front end-a."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:91
+msgid ""
+"If users are allowed to make a ticket public/private this will be the "
+"selected type for ticket. If user is not allowed to select ticket type from "
+"front end then this will be the type of the ticket created from front end."
+msgstr ""
+"Ukoliko je korisnicima omogućeno da učine kupon javnim/privatnim ovo će biti "
+"izabrani tip za kupon. Ukoliko korisnicima nijedozvoljeno da izaberu tip "
+"kupona sa front end-a, onda će ovo biti tip kupona kreiranog sa front end-a."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:92
+msgid "Default Ticket Type"
+msgstr "Uobičajen Tip Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:94
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:75
+msgid "Private"
+msgstr "Privatan"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:95
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:76
+msgid "Public"
+msgstr "Javni"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:99
+msgid "Support Button"
+msgstr "Taster Podrške"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:100
+msgid ""
+"If enabled, button will be shown on all pages of front-end which redirect to "
+"support page/post selected above on click."
+msgstr ""
+"Ukoliko je omogućeno, taster će biti prikazan na svim stranama front-end-a "
+"koji će upućivati na stranu/poruku podrške izabranu gore na klik."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:104
+msgid "Enable Support Button"
+msgstr "Omogući Taster Podrške"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:107
+msgid "Button Position"
+msgstr "Pozicija Tastera"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:109
+msgid "Top Left"
+msgstr "Gore Levo"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:110
+msgid "Top Right"
+msgstr "Gore Desno"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:111
+msgid "Bottom Left"
+msgstr "Dole Levo"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:112
+msgid "Bottom Right"
+msgstr "Dole Desno"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:122
+msgid "Front End Ticket Submission"
+msgstr "Fron End Unos Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:123
+msgid ""
+"If enabled, prevents the submission of new tickets from the front end by "
+"logged in users. This may be useful if you want tickets to only be raised "
+"via email piping"
+msgstr ""
+"Ukoliko je omogućeno, sprečava unos novih kupona sa front end-a od strane "
+"prijavljenih korisnika. Ovo može biti korisno ukoliko želite da kuponi budu "
+"podignuti putem E-mail piping"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:128
+msgid "Prevent Front End Ticket Submission"
+msgstr "Spreči Front End Unos Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:137
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAdvancedSettings.php:8
+msgid "Guest Ticket"
+msgstr "Kupon Za Gosta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:138
+msgid "If enabled, non logged-in user will able to raise ticket"
+msgstr ""
+"Ukoliko je omogućeno, korisnici koji nisu prijavljeni mogu da podnesu kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:142
+msgid "Enable Guest Tickets"
+msgstr "Omogući Kupon Za Gosta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:146
+msgid ""
+"If enabled, Guest user will be able to add attachment to a ticket. Note. "
+"This setting is applicable for front end tickets only"
+msgstr ""
+"Ukoliko je omogućeno, Gost korisnik će moći da priloži fajl u kupon. "
+"Napomena. Ova podešavanja su primenljiva samo na front end kupone"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:150
+msgid "Allow attachments for guest tickets"
+msgstr "Dozvoli dodavanje fajlova za kupone Gosta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:154
+msgid ""
+"If not set bellow API key and secret, Google No CAPTCHA reCAPTCHA will not "
+"be loaded. This is applicable to guest ticket form only!"
+msgstr ""
+"Ukoliko niste podesili dole API ključ i tajni, Google No CAPTCHA reCAPTCHA "
+"neće biti pokrenuti. Ovo je primenljivo samo za Gost kupone!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:154
+msgid "Click here"
+msgstr "Klikni ovde"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:154
+msgid "to get API key for your site."
+msgstr "da bi dobili API ključ za Vaš veb sajt."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:157
+msgid "Google reCAPTCHA Site Key"
+msgstr "Google reCAPTCHA Sajt Ključ"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:161
+msgid "Google reCAPTCHA Secret key"
+msgstr "Google reCAPTCHA Tajni ključ"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:167
+msgid "Default Login"
+msgstr "Uobičajena Prijava"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:168
+msgid ""
+"If enabled, it will display default login form link and default login form "
+"will be enabled"
+msgstr ""
+"Ukoliko je omogućeno, prikazaće uobičajenu putanju obrasca za prijavu i "
+"uobičajen obrazac će biti omogućen"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:172
+msgid "Enable Default Login"
+msgstr "Omogući Uobičajenu Prijavu"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:182
+msgid "Allow Agents to assign tickets"
+msgstr "Dozvoli Agentima da dodele kupone"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:188
+msgid "Allow Agents to delete tickets"
+msgstr "Dozvoli Agentima da obrišu kupone"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:195
+msgid "Facebook App Details"
+msgstr "Facebook App Detalji"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:196
+msgid "for help to create App"
+msgstr "za pomoć stvaranja App"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:199
+msgid "App ID:"
+msgstr "App ID:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:205
+msgid "App Secret:"
+msgstr "App Tajni:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:213
+msgid "Front End Support Panel"
+msgstr "Front End Panel Podrške"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:216
+msgid "Enable:"
+msgstr "Uključi:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:218
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:237
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:244
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:40
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:48
+msgid "Yes"
+msgstr "Da"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:219
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:238
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:245
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:41
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:49
+msgid "No"
+msgstr "Ne"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:223
+msgid "Support Title:"
+msgstr "Podrška Naslov:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:229
+msgid "Phone Number:"
+msgstr "Broj Telefona:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:235
+msgid "Display Skype Chat?:"
+msgstr "Prikaži Skype Pričaonicu?:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:242
+msgid "Display Skype Call?:"
+msgstr "Prikaži Skype Poziv?:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:258
+msgid "Facebook App Help"
+msgstr "Facebook App Pomoć"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:262
+msgid "Create your application"
+msgstr "Napraci svoju aplikaciju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:263
+msgid "Look for Site URL field in the Website tab and enter"
+msgstr "Potražite polje sa URL Sajta na 'tabu' veb sajta i unesite"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:264
+msgid "After this, go to the"
+msgstr "Posle ovoga, idite na"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:264
+msgid "Facebook Application List"
+msgstr "Lista Facebook Aplikacija"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:264
+msgid "page and select your newly created application"
+msgstr "strana i izaberite svoju novo kreiranu aplikaciju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:265
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:266
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:267
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:268
+msgid "Go to"
+msgstr "Idi na"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:265
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:266
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:23
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:265
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:266
+msgid "and enter"
+msgstr "i unesite"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:265
+msgid "Contact Email"
+msgstr "Kontakt E-mail"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:266
+msgid "+Add Platform"
+msgstr "+Dodaj Platformu"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:266
+msgid "select"
+msgstr "odaberite"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:266
+msgid "Website"
+msgstr "Vebsajt"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:267
+msgid "Status and Review"
+msgstr "Status i Pregled"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:267
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:268
+msgid " and"
+msgstr " i"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:267
+msgid "ON"
+msgstr " ON"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:267
+msgid "available to the general public"
+msgstr "na raspolaganju široj javnosti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:268
+msgid "Dashboard"
+msgstr "Komandna Tabla"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:268
+msgid " and Copy the values from these fields:"
+msgstr " i Kopirajte vrednosti ovih polja:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:268
+msgid "App ID/API key"
+msgstr " App ID/API key"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:268
+msgid "Application Secret"
+msgstr "Aplikacija Tajna"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getGeneralSettings.php:268
+msgid ", and enter in <b>Facebook App Settings"
+msgstr ", i unesite u <b>Facebook App Podešavanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/selectRegisteredUser.php:2
+msgid "Username or Email"
+msgstr "Korisničko Ime ili Email"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/selectRegisteredUser.php:3
+msgid "Search"
+msgstr "Pretraživanje"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/advanced_settings.php:2
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:24
+msgid "Advanced Settings"
+msgstr "Napredna Podešavanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/advanced_settings.php:3
+msgid "Custom Status"
+msgstr "Prilagođen Status"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/advanced_settings.php:4
+msgid "Custom Priority"
+msgstr "Prilagođen Prioritet"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/advanced_settings.php:5
+msgid "Re-Order Fields"
+msgstr "Presložiti Polja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/advanced_settings.php:6
+msgid "Ticket List Settings"
+msgstr "Podešavanja Liste Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/advanced_settings.php:7
+msgid "Custom Filter FrontEnd"
+msgstr "Prilagođen Filter FrontEnd"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChatOnlineAgents.php:108
+msgid "Sorry, currently no agent available for chat!!!"
+msgstr ""
+"Izvinite, trenutno nema agenta na raspolaganju za pričaonicu (chat) !!!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:33
+msgid " Back To Tickets"
+msgstr " Povratak Na Kupone"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:43
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:50
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:37
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:44
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/emailTemplates.php:6
+msgid "Delete Ticket"
+msgstr "Obriši Kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:134
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:97
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:26
+msgid "Status:"
+msgstr "Status:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:162
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:189
+msgid "Priority:"
+msgstr "Prioritet:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:179
+msgid "Attach File(s):"
+msgstr "Priloženi Fajl(ovi):"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:192
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:172
+msgid "Reset"
+msgstr "Poništi"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:193
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:171
+msgid "Submit Reply"
+msgstr "Dostavi Odgovor"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicketFront.php:260
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getIndivisualTicket.php:237
+msgid "Attachment: "
+msgstr "Prilog:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:3
+msgid "General"
+msgstr "Opšte"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:4
+msgid "Categories"
+msgstr "Kategorije"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:5
+msgid "Email Notification"
+msgstr "E-mail Obaveštenje"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:6
+msgid "Custom Fields"
+msgstr "Prilagođena Polja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:7
+msgid "Custom Slider Menus"
+msgstr "Prilagođen Klizni Meni"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:8
+msgid "Role Management"
+msgstr "Uloga Menadžmenta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:9
+msgid "FAQ Categories"
+msgstr "Najčešća Pitanja Kategorija"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin_settings.php:10
+msgid "Custom CSS"
+msgstr "Prilagođen CSS"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomCSSSettings.php:7
+msgid "Custom CSS For Front End"
+msgstr "Prilagođen CSS za Front End"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getChangeTicketStatus.php:71
+msgid "Ticket Type"
+msgstr "Tip Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:25
+msgid "Signature"
+msgstr "Potpis"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:28
+msgid "Skype Settings"
+msgstr "Skype Podešavanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:29
+msgid ""
+" You'll need to update your Skype setting to allow incoming calls or "
+"messages from people who are not on your contact list."
+msgstr ""
+"Potrebno je da ažurirate Skype podešavanja kako bi dozvolili dolazne pozive "
+"ili poruke od ljudi koji nisu na Vašoj listi kontakata."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:32
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:37
+msgid "Available to Chat?"
+msgstr "Dostupan u Pričaonici?"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAgentSettings.php:45
+msgid "Available to Call?"
+msgstr "Dostupan za Poziv?"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:22
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFaqCategories.php:9
+msgid "Category Name"
+msgstr "Naziv Kategorije"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:23
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:59
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:73
+msgid "Default Assignee"
+msgstr "Uobičajena Dodela"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:48
+msgid "Edit"
+msgstr "Redigovati"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:58
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFaqCategories.php:26
+msgid "Enter Category Name"
+msgstr "Unesite Naziv Kategorije"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:68
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFaqCategories.php:27
+msgid "Create New Category"
+msgstr "Napravi Novu Kategoriju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCategories.php:100
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFaqCategories.php:32
+msgid "Update Category"
+msgstr "Ažuriraj Kategoriju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ajax.php:10
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ajax.php:148
+msgid "Javascript Injection Not Allowed!"
+msgstr "Nije Dozvoljeno Ubacivanje Javascript-a!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAdvancedSettings.php:9
+msgid "This message will be dispayed when a new ticket is submitted from guest"
+msgstr "Ova poruka će biti prikazana kada je unet novi kupon od strane gosta"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAdvancedSettings.php:14
+msgid ""
+"This is applicable for all pending tickets only. Please leave blank to "
+"disable this feature."
+msgstr ""
+"Ovo je primenljivo na sve kupone sa statusom - na čekanju. Molim Vas "
+"ostavite prazno da bi isključili ovu postavku."
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAdvancedSettings.php:15
+msgid "All pending tickets will automatically get closed after"
+msgstr "Svi kuponi na čekanju će automatski biti zatvoreni posle "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getAdvancedSettings.php:15
+msgid "days"
+msgstr "dana"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:20
+msgid "Support Plus"
+msgstr "Podrška Plus"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:21
+msgid "FAQ"
+msgstr "Najčešća Pitanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:22
+msgid "Statistics"
+msgstr "Statistika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:25
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:202
+msgid "Email Templates"
+msgstr "E-mail Šabloni"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:26
+msgid "Support"
+msgstr "Podrška"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:44
+msgid "Are you sure to delete these tickets?"
+msgstr "Da li ste sigurni da želite obrisati ove kupone?"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:58
+msgid "WP Support Plus"
+msgstr "WP Podrška Plus"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:59
+msgid "Welcome"
+msgstr "Dobrodošli"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:80
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:123
+msgid "Please insert category name!"
+msgstr "Molim Vas unesite ime kategorije!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:81
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:124
+msgid "Please insert adminstrator email address!"
+msgstr "Molim Vas unesite E-mail adresu Administratora!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:82
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:125
+msgid "Please insert menu text"
+msgstr "Molim Vas unesite tekst menija"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:83
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:126
+msgid "Please insert Redirect URL"
+msgstr "Molim Vas unesite URL za Redirekciju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:84
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:127
+msgid "Are you sure?"
+msgstr "Da li ste sigurni?"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:85
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:128
+msgid "Please insert field label!"
+msgstr "Molim Vas unesite naziv polja!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:86
+msgid "Please insert field options!"
+msgstr "Molim Vas unesite opcije polja!"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:95
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:140
+msgid "WP Support Plus Settings"
+msgstr "WP Podrška Plus Podešavanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:129
+msgid ""
+" All the tickets belonging to this status will get moved to pending status"
+msgstr "Svi kuponi sa ovim statusom će biti pomereni na status - na čekanju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:130
+msgid "Please insert integer value"
+msgstr "Molimo Vas unesite celobrojnu vrednost"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:131
+msgid ""
+" All the tickets belonging to this priority will get moved to normal priority"
+msgstr ""
+"Svi kuponi sa ovim prioritetom će biti pomereni na - normalan prioritet"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:161
+msgid "WP Support Plus Statistics"
+msgstr "WP Podrška Plus Statistika"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/admin.php:176
+msgid "WP Support Plus FAQ"
+msgstr "WP Podrška Plus Najčešća Pitanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:101
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:36
+msgid "All Active"
+msgstr "Sve Aktivno"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:123
+msgid "Type:"
+msgstr "Tip:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:127
+msgid "User"
+msgstr "Korisnik"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:161
+msgid "Assigned to:"
+msgstr "Dodeljeno:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:215
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:84
+msgid "No of Tickets:"
+msgstr "Broj Kupona"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:218
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:87
+msgid "10"
+msgstr "10"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:219
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:88
+msgid "20"
+msgstr "20"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:220
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:89
+msgid "30"
+msgstr "30"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:221
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:90
+msgid "40"
+msgstr "40"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:222
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:91
+msgid "50"
+msgstr "50"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:223
+msgid "100"
+msgstr "100"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:224
+msgid "500"
+msgstr "500"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:264
+msgid "Search By:"
+msgstr "Pretraži Po:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:268
+msgid "Created By"
+msgstr "Napravio "
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter.php:276
+msgid "Apply & Remember"
+msgstr "Dodeli & Zapamti"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:12
+msgid "Icon"
+msgstr "Logo"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:13
+msgid "Menu"
+msgstr "Meni"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:14
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:47
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:28
+msgid "No Menus Found"
+msgstr "Nema Pronađenih Menija"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:33
+msgid "Add New Menu"
+msgstr "Dodaj Novi Meni"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:37
+msgid "Select Icon (40 x 40 pixel)"
+msgstr "Izaberite Logo (40 x 40 piksela)"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:42
+msgid "Menu Text"
+msgstr "Meni Tekst"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomSliderMenus.php:52
+msgid "Create New Menu"
+msgstr "Napravi Novi Meni"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:12
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:33
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/bulkChangeStatus.php:47
+msgid "Select"
+msgstr "Izaberite"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:11
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:39
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:54
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:74
+msgid "Required"
+msgstr "Obavezno"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:39
+msgid "Optional"
+msgstr "Opciono"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:48
+msgid "No Custom Fields Found"
+msgstr "Nema Prilagođenih Polja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:53
+msgid "Enter New Field Label"
+msgstr "Unesite Nov Naziv Polja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:55
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:75
+msgid "Field Type"
+msgstr "Tip Polja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:58
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:78
+msgid "Drop Down"
+msgstr "Spustiti na Dole"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:59
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:79
+msgid "Checkbox"
+msgstr "Polje za Potvrdu"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:60
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:80
+msgid "Radio Button"
+msgstr "Radio Taster"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:61
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:81
+msgid "Textarea"
+msgstr "Prostor za Tekst"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:64
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:84
+msgid "Field Options"
+msgstr "Opcije Polja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:67
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:87
+msgid ""
+"Please enter the one option per line, option key and value should be entered "
+"as shown in the field"
+msgstr ""
+"Molim Vas, unesite jednu opciju po liniji, ključ i vrednost opcije mora biti "
+"uneto kao što je prikazano u polju"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getCustomFields.php:69
+msgid "Create New Field"
+msgstr "Napravi Novo Polje"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/showFAQ.php:2
+msgid "+ Add New"
+msgstr "+ Dodaj Nov"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/showFAQ.php:13
+msgid "Question"
+msgstr "Pitanje"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/showFAQ.php:32
+msgid "No FAQ's Found"
+msgstr "Nema Pronađenih - Najčešća Pitanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndFAQ.php:47
+msgid "FAQ's"
+msgstr "Najčešća Pitanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getFrontEndFAQ.php:68
+msgid "No Faqs Found"
+msgstr "Nema Najčešćih Pitanja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/emailTemplates.php:3
+msgid "Reply Ticket"
+msgstr "Odgovor Kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/ticket_filter_front.php:134
+msgid "By:"
+msgstr "Od:"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:19
+msgid "Create Ticket Success Email"
+msgstr "Napravi E-mail za Uspešan Kupon"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:36
+msgid "Staff Email"
+msgstr "E-mail Osoblja"
+
+#: /home/pradeep/Downloads/demo/wp-support-plus/includes/admin/getETCreateNewTicket.php:40
+msgid "Staff Applicable"
+msgstr "Aktivno Osoblje"

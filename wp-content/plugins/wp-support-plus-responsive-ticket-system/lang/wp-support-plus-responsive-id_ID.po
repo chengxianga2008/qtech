@@ -1,0 +1,2120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Support Plus Pro\n"
+"POT-Creation-Date: 2015-11-04 15:01+0530\n"
+"PO-Revision-Date: 2015-12-17 18:19+0700\n"
+"Last-Translator: \n"
+"Language-Team: gretiano <gretiano@janaloka.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-support-plus-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Language: id_ID\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: asset/lib/google_noCaptcha/checkCaptcha.php:20
+msgid "Sorry No Robots allowed here!!!"
+msgstr "Maaf, Robot tidak diperkenankan disini !!!"
+
+#: includes/admin/admin.php:33
+msgid "Support Plus"
+msgstr "Dukungan Plus"
+
+#: includes/admin/admin.php:34
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/admin/admin.php:35 includes/admin/getIndivisualTicket.php:64
+#: includes/admin/getIndivisualTicket.php:302
+msgid "Canned Reply"
+msgstr "Jawaban yang direkam"
+
+#: includes/admin/admin.php:36
+msgid "Statistics"
+msgstr "Statistik"
+
+#: includes/admin/admin.php:37 includes/admin/getGeneralSettings.php:304
+#: includes/admin/getGeneralSettings.php:305
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: includes/admin/admin.php:38 includes/admin/advanced_settings.php:7
+msgid "Advanced Settings"
+msgstr "Pengaturan lanjutan"
+
+#: includes/admin/admin.php:39 includes/admin/admin.php:225
+msgid "Email Templates"
+msgstr "Tema Email"
+
+#: includes/admin/admin.php:40
+msgid "Support"
+msgstr "Dukungan"
+
+#: includes/admin/admin.php:56 includes/shortcode.php:55
+#: includes/shortcode.php:126 includes/shortcode.php:166
+msgid "Please Enter all required fields"
+msgstr "Tolong isi semua kolom yang penting"
+
+#: includes/admin/admin.php:57 includes/shortcode.php:56
+#: includes/shortcode.php:127 includes/shortcode.php:167
+msgid "Reply can not be empty!"
+msgstr "Balasan tidak boleh kosong!"
+
+#: includes/admin/admin.php:58 includes/shortcode.php:57
+#: includes/shortcode.php:128 includes/shortcode.php:168
+msgid "Are you sure to delete this ticket?"
+msgstr "Anda yakin ingin menghapus tiket ini?"
+
+#: includes/admin/admin.php:59
+msgid "Are you sure to delete these tickets?"
+msgstr "Anda yakin ingin menghapus tiket ini?"
+
+#: includes/admin/admin.php:60 includes/shortcode.php:59
+#: includes/shortcode.php:130 includes/shortcode.php:170
+msgid "Can not be undone"
+msgstr "Hal ini TIDAK bisa dibatalkan"
+
+#: includes/admin/admin.php:77
+msgid "WP Support Plus"
+msgstr "Dukungan WP Plus"
+
+#: includes/admin/admin.php:78
+msgid "Welcome"
+msgstr "Selamat datang"
+
+#: includes/admin/admin.php:99 includes/admin/admin.php:142
+msgid "Please insert category name!"
+msgstr "Silahkan masukkan nama kategori!"
+
+#: includes/admin/admin.php:100 includes/admin/admin.php:143
+msgid "Please insert adminstrator email address!"
+msgstr "Harap masukkan alamat email administrator!"
+
+#: includes/admin/admin.php:101 includes/admin/admin.php:144
+msgid "Please insert menu text"
+msgstr "Harap masukkan teks menu"
+
+#: includes/admin/admin.php:102 includes/admin/admin.php:145
+msgid "Please insert Redirect URL"
+msgstr "Tambahkan Redirect URL"
+
+#: includes/admin/admin.php:103 includes/admin/admin.php:146
+msgid "Are you sure?"
+msgstr "Anda yakin?"
+
+#: includes/admin/admin.php:104 includes/admin/admin.php:147
+msgid "Please insert field label!"
+msgstr "Tambahkan bidang label!"
+
+#: includes/admin/admin.php:105
+msgid "Please insert field options!"
+msgstr "Tambahkan pilihan bidang!"
+
+#: includes/admin/admin.php:114 includes/admin/admin.php:159
+msgid "WP Support Plus Settings"
+msgstr "Pengaturan dukungan WP Plus"
+
+#: includes/admin/admin.php:148
+msgid ""
+" All the tickets belonging to this status will get moved to pending status"
+msgstr ""
+"Semua tiket yang ikut dalam status ini akan dipindahkan ke status \"ditunggu"
+"\""
+
+#: includes/admin/admin.php:149
+msgid "Please insert integer value"
+msgstr "Silahkan masukkan nilai bilangan bulat"
+
+#: includes/admin/admin.php:150
+msgid ""
+" All the tickets belonging to this priority will get moved to normal priority"
+msgstr ""
+"Semua tiket yang ikut dalam status ini akan dipindahkan ke status "
+"\"prioritas normal\""
+
+#: includes/admin/admin.php:182
+msgid "WP Support Plus Statistics"
+msgstr "Statistik dukungan WP Plus"
+
+#: includes/admin/admin.php:198
+msgid "WP Support Plus FAQ"
+msgstr "FAQ dukungan WP Plus"
+
+#: includes/admin/admin.php:244
+msgid "New Version"
+msgstr "Versi baru"
+
+#: includes/admin/admin.php:244
+msgid "available"
+msgstr "Ada"
+
+#: includes/admin/admin.php:244
+msgid "Current Version"
+msgstr "Versi saat ini"
+
+#: includes/admin/admin.php:245
+msgid "View Changelog"
+msgstr "Lihat changelog"
+
+#: includes/admin/admin.php:246
+msgid "Don't know how to update?"
+msgstr "Tidak tahu bagaimana cara memperbaharui?"
+
+#: includes/admin/admin.php:246 includes/admin/getGeneralSettings.php:177
+#: includes/admin/getTicketListFieldSettings.php:248
+#: includes/admin/getTicketListFieldSettings.php:274
+#: includes/admin/getTicketListFieldSettings.php:516
+#: includes/admin/getTicketListFieldSettings.php:542
+msgid "Click here"
+msgstr "Klik disini"
+
+#: includes/admin/admin.php:261
+msgid "WP Support Plus Canned Reply"
+msgstr "Balasan Dukungan WP Plus yang direkam"
+
+#: includes/admin/admin_settings.php:3
+msgid "General"
+msgstr "Umum"
+
+#: includes/admin/admin_settings.php:4
+msgid "Categories"
+msgstr "Kategori"
+
+#: includes/admin/admin_settings.php:5
+msgid "Email Notification"
+msgstr "Notifikasi Email"
+
+#: includes/admin/admin_settings.php:6
+msgid "Custom Fields"
+msgstr "Bidang yang diubah"
+
+#: includes/admin/admin_settings.php:7
+msgid "Custom Slider Menus"
+msgstr "Menu bergulir yang diubah"
+
+#: includes/admin/admin_settings.php:8
+msgid "Role Management"
+msgstr "Peran manajemen"
+
+#: includes/admin/admin_settings.php:9
+msgid "FAQ Categories"
+msgstr "Kategori FAQ"
+
+#: includes/admin/admin_settings.php:10
+msgid "Custom CSS"
+msgstr "CSS yang dapat diubah"
+
+#: includes/admin/advanced_settings.php:8
+msgid "Custom Status"
+msgstr "Status yang dapat diubah"
+
+#: includes/admin/advanced_settings.php:9
+msgid "Custom Priority"
+msgstr "Prioritas yang dapat diubah"
+
+#: includes/admin/advanced_settings.php:10
+msgid "Re-Order Fields"
+msgstr "Atur kembali bidang"
+
+#: includes/admin/advanced_settings.php:12
+msgid "Custom Filter FrontEnd"
+msgstr "Filter FrontEnd yang dapat diubah"
+
+#: includes/admin/ajax.php:10 includes/admin/ajax.php:163
+msgid "Javascript Injection Not Allowed!"
+msgstr "Penambahan Javascript tidak dibolehkan"
+
+#: includes/admin/bulkAssignAgent.php:21
+#: includes/admin/getTicketAssignment.php:35
+msgid "Assign to"
+msgstr "Tugaskan pada"
+
+#: includes/admin/bulkAssignAgent.php:32 includes/admin/bulkChangeStatus.php:90
+#: includes/admin/getChangeTicketStatus.php:169
+#: includes/admin/getTicketAssignment.php:48
+msgid "Save Changes"
+msgstr "Simpan perubahan"
+
+#: includes/admin/bulkAssignAgent.php:33 includes/admin/bulkChangeStatus.php:91
+#: includes/admin/getChangeTicketStatus.php:168
+#: includes/admin/getTicketAssignment.php:47
+#: includes/admin/ticket_filter.php:315
+msgid "Cancel"
+msgstr "Batal"
+
+#: includes/admin/bulkChangeStatus.php:24
+#: includes/admin/getChangeTicketStatus.php:44
+#: includes/admin/getCustomFilterFrontEnd.php:99
+#: includes/admin/getFieldsReorderSettings.php:21
+#: includes/admin/getFrontEndTicket.php:163
+#: includes/admin/getTicketListFieldSettings.php:28
+#: includes/admin/getTicketListFieldSettings.php:82
+#: includes/admin/getTicketListFieldSettings.php:295
+#: includes/admin/getTicketListFieldSettings.php:349
+#: includes/admin/getTicketsByFilter.php:420
+#: includes/admin/replyFormPosition.php:25
+#: includes/admin/setChangeTicketStatus.php:50
+msgid "Status"
+msgstr "Status"
+
+#: includes/admin/bulkChangeStatus.php:28
+#: includes/admin/bulkChangeStatus.php:65
+#: includes/admin/bulkChangeStatus.php:79
+msgid "Select"
+msgstr "Pilih"
+
+#: includes/admin/bulkChangeStatus.php:61
+#: includes/admin/getFieldsReorderSettings.php:171
+#: includes/admin/getFrontEndFAQ.php:48
+#: includes/admin/getTicketListFieldSettings.php:159
+#: includes/admin/getTicketListFieldSettings.php:426
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/admin/bulkChangeStatus.php:75
+#: includes/admin/getFieldsReorderSettings.php:192
+#: includes/admin/getTicketListFieldSettings.php:195
+#: includes/admin/getTicketListFieldSettings.php:462
+msgid "Priority"
+msgstr "Prioritas"
+
+#: includes/admin/create_new_ticket.php:204
+msgid "Registered"
+msgstr "Terdaftar"
+
+#: includes/admin/create_new_ticket.php:205
+#: includes/admin/ticket_filter.php:150
+msgid "Guest"
+msgstr "Tamu"
+
+#: includes/admin/create_new_ticket.php:211
+msgid "Change User"
+msgstr "Ganti pengguna"
+
+#: includes/admin/create_new_ticket.php:291
+msgid "Don't Notify Owner"
+msgstr "Jangan beritahu pemilik"
+
+#: includes/admin/create_new_ticket.php:303 includes/guestTicketForm.php:288
+msgid "Reset Form"
+msgstr "Ulang kembali formulir"
+
+#: includes/admin/create_new_ticket.php:312
+msgid "Select User"
+msgstr "Pilih pengguna"
+
+#: includes/admin/create_new_ticket.php:318
+#: includes/admin/getGeneralSettings.php:311
+#: includes/admin/getIndivisualTicket.php:332
+msgid "Close"
+msgstr "Tutup"
+
+#: includes/admin/deleteTicket.php:21 includes/admin/installation.php:444
+msgid "Ticket"
+msgstr "Tiket"
+
+#: includes/admin/deleteTicket.php:22 includes/admin/getCategories.php:26
+#: includes/admin/getCustomFields.php:12
+#: includes/admin/getCustomPrioritySettings.php:38
+#: includes/admin/getCustomSliderMenus.php:15
+#: includes/admin/getCustomStatusSettings.php:33
+#: includes/admin/getFaqCategories.php:12 includes/admin/showFAQ.php:14
+#: includes/admin/showcanned.php:16
+msgid "Action"
+msgstr "Aksi"
+
+#: includes/admin/deleteTicket.php:23
+#: includes/admin/setChangeTicketStatus.php:53
+#: includes/admin/setTicketAssignment.php:90
+msgid "Updated By"
+msgstr "Diperbaharui oleh"
+
+#: includes/admin/deleteTicket.php:24
+#: includes/admin/getETCreateNewTicket.php:33
+#: includes/admin/getETCreateNewTicket.php:75
+#: includes/admin/getETReplayTicket.php:65
+#: includes/admin/getFieldsReorderSettings.php:125
+#: includes/admin/getTicketListFieldSettings.php:100
+#: includes/admin/getTicketListFieldSettings.php:367
+#: includes/admin/setTicketAssignment.php:91
+msgid "Subject"
+msgstr "Subjek"
+
+#: includes/admin/deleteTicket.php:29
+msgid "Deleted"
+msgstr "Hapus"
+
+#: includes/admin/display_ticket.php:10
+#: includes/admin/getGeneralSettings.php:217
+msgid "Agent Settings"
+msgstr "Pengaturan agen"
+
+#: includes/admin/emailTemplates.php:9
+#: includes/admin/getIndivisualTicket.php:65
+#: includes/admin/getIndivisualTicketFront.php:63
+#: includes/admin/ticketActionDashboard.php:5
+msgid "Change Status"
+msgstr "Rubah status"
+
+#: includes/admin/emailTemplates.php:10
+#: includes/admin/getIndivisualTicket.php:67
+#: includes/admin/getIndivisualTicket.php:71
+#: includes/admin/getIndivisualTicketFront.php:65
+#: includes/admin/getIndivisualTicketFront.php:69
+#: includes/admin/ticketActionDashboard.php:7
+#: includes/admin/ticketActionDashboard.php:11
+msgid "Assign Agent"
+msgstr "Tugaskan agen"
+
+#: includes/admin/faq_filter_front.php:8
+msgid "Category:"
+msgstr "Kategory:"
+
+#: includes/admin/faq_filter_front.php:11
+#: includes/admin/getRollManagementSettings.php:55
+#: includes/admin/ticket_filter.php:107 includes/admin/ticket_filter.php:148
+#: includes/admin/ticket_filter.php:163 includes/admin/ticket_filter.php:186
+#: includes/admin/ticket_filter.php:214 includes/admin/ticket_filter.php:277
+#: includes/admin/ticket_filter_front.php:35
+#: includes/admin/ticket_filter_front.php:81
+#: includes/admin/ticket_filter_front.php:123
+msgid "All"
+msgstr "Semua"
+
+#: includes/admin/faq_filter_front.php:26 includes/admin/ticket_filter.php:311
+#: includes/admin/ticket_filter_front.php:156
+msgid "Search..."
+msgstr "Cari..."
+
+#: includes/admin/getAdvancedSettings.php:8
+#: includes/admin/getGeneralSettings.php:160
+msgid "Guest Ticket"
+msgstr "Tiket tamu"
+
+#: includes/admin/getAdvancedSettings.php:9
+msgid "This message will be dispayed when a new ticket is submitted from guest"
+msgstr ""
+"Pesan ini akan ditampilkan jika ada tiket baru yang dikirimkan oleh pengguna"
+
+#: includes/admin/getAdvancedSettings.php:13
+#: includes/admin/installation.php:671
+msgid "Ticket Status"
+msgstr "Status tiket"
+
+#: includes/admin/getAdvancedSettings.php:14
+msgid ""
+"This is applicable for all pending tickets only. Please leave blank to "
+"disable this feature."
+msgstr ""
+"Hal ini dapat diaplikasikan kesemua tiket yang ditangguhkan saja. Silahkan "
+"kosongkan untuk tidak menggunakan fitur ini."
+
+#: includes/admin/getAdvancedSettings.php:15
+msgid "All pending tickets will automatically get closed after"
+msgstr "Semua tiket yang ditangguhkan akan secara otomatis ditutup setelah"
+
+#: includes/admin/getAdvancedSettings.php:15
+msgid "days"
+msgstr "Hari"
+
+#: includes/admin/getAdvancedSettings.php:19
+msgid "Reply Form Position"
+msgstr "Jawab dari posisi"
+
+#: includes/admin/getAdvancedSettings.php:20
+msgid "Above Threads"
+msgstr "Diatas berkas"
+
+#: includes/admin/getAdvancedSettings.php:22
+msgid "Below Threads"
+msgstr "Dibawah berkas"
+
+#: includes/admin/getAdvancedSettings.php:25
+msgid "Shortcode Used In"
+msgstr "Shortcode dapat digunakan pada"
+
+#: includes/admin/getAdvancedSettings.php:26
+msgid "Default Wordpress Editor"
+msgstr "Editor utama Wordpress"
+
+#: includes/admin/getAdvancedSettings.php:28
+msgid "Page Builder"
+msgstr "Membuat halaman"
+
+#: includes/admin/getAdvancedSettings.php:31
+msgid "Acordion View"
+msgstr "Melihat dengan sistem \"Accordion)"
+
+#: includes/admin/getAdvancedSettings.php:32
+#: includes/admin/getETAssignAgent.php:17
+#: includes/admin/getETChangeTicketStatus.php:16
+#: includes/admin/getETCreateNewTicket.php:28
+#: includes/admin/getETCreateNewTicket.php:45
+#: includes/admin/getETDeleteTicket.php:16
+#: includes/admin/getETReplayTicket.php:27
+#: includes/admin/getFieldsReorderSettings.php:62
+#: includes/admin/getFieldsReorderSettings.php:65
+#: includes/admin/getFieldsReorderSettings.php:84
+#: includes/admin/getFieldsReorderSettings.php:87
+#: includes/admin/getFieldsReorderSettings.php:107
+#: includes/admin/getFieldsReorderSettings.php:110
+#: includes/admin/getFieldsReorderSettings.php:130
+#: includes/admin/getFieldsReorderSettings.php:133
+#: includes/admin/getFieldsReorderSettings.php:153
+#: includes/admin/getFieldsReorderSettings.php:156
+#: includes/admin/getFieldsReorderSettings.php:175
+#: includes/admin/getFieldsReorderSettings.php:178
+#: includes/admin/getFieldsReorderSettings.php:196
+#: includes/admin/getFieldsReorderSettings.php:199
+#: includes/admin/getFieldsReorderSettings.php:217
+#: includes/admin/getFieldsReorderSettings.php:220
+msgid "Enable"
+msgstr "Aktifkan"
+
+#: includes/admin/getAdvancedSettings.php:34
+#: includes/admin/getETAssignAgent.php:18
+#: includes/admin/getETChangeTicketStatus.php:17
+#: includes/admin/getETCreateNewTicket.php:30
+#: includes/admin/getETCreateNewTicket.php:46
+#: includes/admin/getETDeleteTicket.php:17
+#: includes/admin/getETReplayTicket.php:28
+#: includes/admin/getFieldsReorderSettings.php:63
+#: includes/admin/getFieldsReorderSettings.php:66
+#: includes/admin/getFieldsReorderSettings.php:85
+#: includes/admin/getFieldsReorderSettings.php:88
+#: includes/admin/getFieldsReorderSettings.php:108
+#: includes/admin/getFieldsReorderSettings.php:111
+#: includes/admin/getFieldsReorderSettings.php:131
+#: includes/admin/getFieldsReorderSettings.php:134
+#: includes/admin/getFieldsReorderSettings.php:154
+#: includes/admin/getFieldsReorderSettings.php:157
+#: includes/admin/getFieldsReorderSettings.php:176
+#: includes/admin/getFieldsReorderSettings.php:179
+#: includes/admin/getFieldsReorderSettings.php:197
+#: includes/admin/getFieldsReorderSettings.php:200
+#: includes/admin/getFieldsReorderSettings.php:218
+#: includes/admin/getFieldsReorderSettings.php:221
+msgid "Disable"
+msgstr "Non-aktifkan"
+
+#: includes/admin/getAdvancedSettings.php:37
+msgid "Hide Selected Staus Tickets on Front-end"
+msgstr "Sembunyikan status tiket terpilih di halaman muka"
+
+#: includes/admin/getAdvancedSettings.php:42
+#: includes/admin/ticket_filter.php:104
+#: includes/admin/ticket_filter_front.php:32
+msgid "Status:"
+msgstr "Status:"
+
+#: includes/admin/getAdvancedSettings.php:45
+#: includes/admin/getCategories.php:46 includes/admin/getCategories.php:97
+#: includes/admin/statistics.php:42 includes/admin/ticket_filter.php:187
+msgid "None"
+msgstr "Tidak ada"
+
+#: includes/admin/getAdvancedSettings.php:80
+msgid "Main Ticket Label"
+msgstr "Label tiket utaman"
+
+#: includes/admin/getAdvancedSettings.php:81
+msgid "In order to change Ticket Label, must translate below phrases"
+msgstr "Untuk mengganti label tiket, harus menerjemahkan kalimat berikut"
+
+#: includes/admin/getAdvancedSettings.php:84
+msgid "Phrase"
+msgstr "Frasa"
+
+#: includes/admin/getAdvancedSettings.php:85
+msgid "Translation"
+msgstr "Translasi"
+
+#: includes/admin/getAdvancedSettings.php:170
+#: includes/admin/getAgentSettings.php:54
+#: includes/admin/getCustomCSSSettings.php:12
+#: includes/admin/getCustomFilterFrontEnd.php:231
+#: includes/admin/getETAssignAgent.php:56
+#: includes/admin/getETChangeTicketStatus.php:55
+#: includes/admin/getETCreateNewTicket.php:80
+#: includes/admin/getETDeleteTicket.php:55
+#: includes/admin/getETReplayTicket.php:70
+#: includes/admin/getEmailNotificationSettings.php:91
+#: includes/admin/getFieldsReorderSettings.php:241
+#: includes/admin/getGeneralSettings.php:290
+#: includes/admin/getRollManagementSettings.php:71
+#: includes/admin/getTicketListFieldSettings.php:558
+msgid "Save Settings"
+msgstr "Simpan pengaturan"
+
+#: includes/admin/getAgentSettings.php:25
+msgid "Signature"
+msgstr "Tanda tangan"
+
+#: includes/admin/getAgentSettings.php:28
+msgid "Skype Settings"
+msgstr "Pengaturan skype"
+
+#: includes/admin/getAgentSettings.php:29
+msgid ""
+" You'll need to update your Skype setting to allow incoming calls or "
+"messages from people who are not on your contact list."
+msgstr ""
+"Anda membutuhkan versi terbaru pengaturan Skype untuk mengizinkan panggilan "
+"telepon atau pesan dari orang-orang yang tidak berada di kontak anda."
+
+#: includes/admin/getAgentSettings.php:32
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: includes/admin/getAgentSettings.php:37
+msgid "Available to Chat?"
+msgstr "Tersedia untuk ngobrol?"
+
+#: includes/admin/getAgentSettings.php:40
+#: includes/admin/getAgentSettings.php:48
+#: includes/admin/getChangeTicketStatus.php:149
+#: includes/admin/getGeneralSettings.php:257
+#: includes/admin/getGeneralSettings.php:276
+#: includes/admin/getGeneralSettings.php:283
+msgid "Yes"
+msgstr "Ya"
+
+#: includes/admin/getAgentSettings.php:41
+#: includes/admin/getAgentSettings.php:49
+#: includes/admin/getChangeTicketStatus.php:150
+#: includes/admin/getGeneralSettings.php:258
+#: includes/admin/getGeneralSettings.php:277
+#: includes/admin/getGeneralSettings.php:284
+msgid "No"
+msgstr "Tidak"
+
+#: includes/admin/getAgentSettings.php:45
+msgid "Available to Call?"
+msgstr "Tersedia untuk Bicara?"
+
+#: includes/admin/getCallOnlineAgents.php:39
+#: includes/admin/getCallOnlineAgents.php:70
+#: includes/admin/getCallOnlineAgents.php:101
+#: includes/admin/getChatOnlineAgents.php:39
+#: includes/admin/getChatOnlineAgents.php:70
+#: includes/admin/getChatOnlineAgents.php:101
+msgid "Skype ID:"
+msgstr "ID Skype:"
+
+#: includes/admin/getCallOnlineAgents.php:108
+msgid "Sorry, currently no agent available for call!!!"
+msgstr "Maaf, Belum ada agen untuk berbicara!!!"
+
+#: includes/admin/getCategories.php:24
+#: includes/admin/getCustomPrioritySettings.php:86
+#: includes/admin/getFaqCategories.php:11
+msgid " Name"
+msgstr "Nama"
+
+#: includes/admin/getCategories.php:25 includes/admin/getCategories.php:61
+#: includes/admin/getCategories.php:75
+msgid "Default Assignee"
+msgstr "Standar tertuju"
+
+#: includes/admin/getCategories.php:50
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/admin/getCategories.php:52
+#: includes/admin/getCustomPrioritySettings.php:62
+#: includes/admin/getCustomSliderMenus.php:22
+#: includes/admin/getCustomStatusSettings.php:66
+#: includes/admin/ticketActionDashboard.php:8
+#: includes/admin/ticketActionDashboard.php:15
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/admin/getCategories.php:60 includes/admin/getFaqCategories.php:28
+msgid "Enter "
+msgstr "Masuk"
+
+#: includes/admin/getCategories.php:70
+#: includes/admin/getCustomPrioritySettings.php:94
+#: includes/admin/getFaqCategories.php:29
+msgid "Create New "
+msgstr "Buat baru"
+
+#: includes/admin/getCategories.php:102 includes/admin/getFaqCategories.php:34
+msgid "Update "
+msgstr "Perbaharui"
+
+#: includes/admin/getChangeTicketStatus.php:134
+#: includes/admin/getGeneralSettings.php:117
+msgid "Private"
+msgstr "Pribadi"
+
+#: includes/admin/getChangeTicketStatus.php:135
+#: includes/admin/getGeneralSettings.php:118
+msgid "Public"
+msgstr "Umum"
+
+#: includes/admin/getChangeTicketStatus.php:145
+msgid "Notify"
+msgstr "Beritahu"
+
+#: includes/admin/getChatOnlineAgents.php:108
+msgid "Sorry, currently no agent available for chat!!!"
+msgstr "Maaf, Belum ada agen untuk berbicara!!!"
+
+#: includes/admin/getCustomCSSSettings.php:8
+msgid "Custom CSS For Front End"
+msgstr "CSS Custom untuk muka utama"
+
+#: includes/admin/getCustomFields.php:10
+#: includes/admin/getCustomFilterFrontEnd.php:25
+#: includes/admin/getFieldsReorderSettings.php:20
+#: includes/admin/getFieldsReorderSettings.php:93
+#: includes/admin/getFieldsReorderSettings.php:116
+#: includes/admin/getFieldsReorderSettings.php:139
+#: includes/admin/getFieldsReorderSettings.php:162
+#: includes/admin/getFieldsReorderSettings.php:183
+#: includes/admin/getFieldsReorderSettings.php:204
+#: includes/admin/getFieldsReorderSettings.php:225
+#: includes/admin/getTicketListFieldSettings.php:27
+#: includes/admin/getTicketListFieldSettings.php:294
+msgid "Label"
+msgstr "Label"
+
+#: includes/admin/getCustomFields.php:11 includes/admin/getCustomFields.php:39
+#: includes/admin/getCustomFields.php:54 includes/admin/getCustomFields.php:74
+msgid "Required"
+msgstr "Perlu"
+
+#: includes/admin/getCustomFields.php:39
+msgid "Optional"
+msgstr "Optional"
+
+#: includes/admin/getCustomFields.php:48
+msgid "No Custom Fields Found"
+msgstr "Tidak ada kolom yang ditemukan"
+
+#: includes/admin/getCustomFields.php:53
+msgid "Enter New Field Label"
+msgstr "Masukkan kolom baru"
+
+#: includes/admin/getCustomFields.php:55 includes/admin/getCustomFields.php:75
+msgid "Field Type"
+msgstr "Tipe kolom"
+
+#: includes/admin/getCustomFields.php:57 includes/admin/getCustomFields.php:77
+#: includes/admin/getCustomFilterFrontEnd.php:195
+#: includes/admin/ticket_filter.php:304
+#: includes/admin/ticket_filter_front.php:153
+msgid "Text"
+msgstr "Teks"
+
+#: includes/admin/getCustomFields.php:58 includes/admin/getCustomFields.php:78
+msgid "Drop Down"
+msgstr "Drop Down"
+
+#: includes/admin/getCustomFields.php:59 includes/admin/getCustomFields.php:79
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: includes/admin/getCustomFields.php:60 includes/admin/getCustomFields.php:80
+msgid "Radio Button"
+msgstr "Radio Button"
+
+#: includes/admin/getCustomFields.php:61 includes/admin/getCustomFields.php:81
+msgid "Textarea"
+msgstr "Textarea"
+
+#: includes/admin/getCustomFields.php:64 includes/admin/getCustomFields.php:84
+msgid "Field Options"
+msgstr "Pilihan kolom"
+
+#: includes/admin/getCustomFields.php:67 includes/admin/getCustomFields.php:87
+msgid ""
+"Please enter the one option per line, option key and value should be entered "
+"as shown in the field"
+msgstr ""
+"Silahkan masukkan satu pilihan per baris, nilai dan kunci pilihan harus "
+"dimasukkan sebagai terlihat dalam kolom"
+
+#: includes/admin/getCustomFields.php:69
+msgid "Create New Field"
+msgstr "Buat kolom baru"
+
+#: includes/admin/getCustomFields.php:89
+#: includes/admin/getCustomPrioritySettings.php:68
+#: includes/admin/getCustomPrioritySettings.php:101
+#: includes/admin/getCustomStatusSettings.php:78
+#: includes/admin/getCustomStatusSettings.php:129
+msgid "Update"
+msgstr "Perbaharui"
+
+#: includes/admin/getCustomFilterFrontEnd.php:24
+#: includes/admin/getFieldsReorderSettings.php:19
+#: includes/admin/getTicketListFieldSettings.php:26
+#: includes/admin/getTicketListFieldSettings.php:293
+msgid "Field No."
+msgstr "Kolom No."
+
+#: includes/admin/getCustomFilterFrontEnd.php:26
+msgid "Logged In Users"
+msgstr "Pengguna masuk"
+
+#: includes/admin/getCustomFilterFrontEnd.php:27
+msgid "Agents"
+msgstr "Agen"
+
+#: includes/admin/getCustomFilterFrontEnd.php:28
+msgid "Supervisors"
+msgstr "Supervisor"
+
+#: includes/admin/getCustomFilterFrontEnd.php:72
+#: includes/admin/getCustomFilterFrontEnd.php:80
+#: includes/admin/getCustomFilterFrontEnd.php:88
+#: includes/admin/getCustomFilterFrontEnd.php:107
+#: includes/admin/getCustomFilterFrontEnd.php:115
+#: includes/admin/getCustomFilterFrontEnd.php:123
+#: includes/admin/getCustomFilterFrontEnd.php:139
+#: includes/admin/getCustomFilterFrontEnd.php:147
+#: includes/admin/getCustomFilterFrontEnd.php:155
+#: includes/admin/getCustomFilterFrontEnd.php:171
+#: includes/admin/getCustomFilterFrontEnd.php:179
+#: includes/admin/getCustomFilterFrontEnd.php:187
+#: includes/admin/getCustomFilterFrontEnd.php:203
+#: includes/admin/getCustomFilterFrontEnd.php:211
+#: includes/admin/getCustomFilterFrontEnd.php:219
+#: includes/admin/getTicketListFieldSettings.php:46
+#: includes/admin/getTicketListFieldSettings.php:49
+#: includes/admin/getTicketListFieldSettings.php:68
+#: includes/admin/getTicketListFieldSettings.php:71
+#: includes/admin/getTicketListFieldSettings.php:86
+#: includes/admin/getTicketListFieldSettings.php:89
+#: includes/admin/getTicketListFieldSettings.php:104
+#: includes/admin/getTicketListFieldSettings.php:107
+#: includes/admin/getTicketListFieldSettings.php:127
+#: includes/admin/getTicketListFieldSettings.php:130
+#: includes/admin/getTicketListFieldSettings.php:145
+#: includes/admin/getTicketListFieldSettings.php:148
+#: includes/admin/getTicketListFieldSettings.php:163
+#: includes/admin/getTicketListFieldSettings.php:166
+#: includes/admin/getTicketListFieldSettings.php:181
+#: includes/admin/getTicketListFieldSettings.php:184
+#: includes/admin/getTicketListFieldSettings.php:199
+#: includes/admin/getTicketListFieldSettings.php:202
+#: includes/admin/getTicketListFieldSettings.php:217
+#: includes/admin/getTicketListFieldSettings.php:220
+#: includes/admin/getTicketListFieldSettings.php:235
+#: includes/admin/getTicketListFieldSettings.php:238
+#: includes/admin/getTicketListFieldSettings.php:261
+#: includes/admin/getTicketListFieldSettings.php:264
+#: includes/admin/getTicketListFieldSettings.php:313
+#: includes/admin/getTicketListFieldSettings.php:316
+#: includes/admin/getTicketListFieldSettings.php:335
+#: includes/admin/getTicketListFieldSettings.php:338
+#: includes/admin/getTicketListFieldSettings.php:353
+#: includes/admin/getTicketListFieldSettings.php:356
+#: includes/admin/getTicketListFieldSettings.php:371
+#: includes/admin/getTicketListFieldSettings.php:374
+#: includes/admin/getTicketListFieldSettings.php:394
+#: includes/admin/getTicketListFieldSettings.php:397
+#: includes/admin/getTicketListFieldSettings.php:412
+#: includes/admin/getTicketListFieldSettings.php:415
+#: includes/admin/getTicketListFieldSettings.php:430
+#: includes/admin/getTicketListFieldSettings.php:433
+#: includes/admin/getTicketListFieldSettings.php:448
+#: includes/admin/getTicketListFieldSettings.php:451
+#: includes/admin/getTicketListFieldSettings.php:466
+#: includes/admin/getTicketListFieldSettings.php:469
+#: includes/admin/getTicketListFieldSettings.php:484
+#: includes/admin/getTicketListFieldSettings.php:487
+#: includes/admin/getTicketListFieldSettings.php:503
+#: includes/admin/getTicketListFieldSettings.php:506
+#: includes/admin/getTicketListFieldSettings.php:529
+#: includes/admin/getTicketListFieldSettings.php:532
+msgid "Show"
+msgstr "Tunjjukkan"
+
+#: includes/admin/getCustomPrioritySettings.php:37
+#: includes/admin/getCustomStatusSettings.php:32
+#: includes/admin/getFieldsReorderSettings.php:79
+#: includes/admin/searchRegisteredUsaers.php:17
+msgid "Name"
+msgstr "Nama"
+
+#: includes/admin/getCustomPrioritySettings.php:39
+#: includes/admin/getCustomStatusSettings.php:40
+msgid "Color"
+msgstr "Warna"
+
+#: includes/admin/getCustomPrioritySettings.php:40
+#: includes/admin/getCustomStatusSettings.php:41
+#: includes/admin/getTicketListFieldSettings.php:114
+#: includes/admin/getTicketListFieldSettings.php:245
+#: includes/admin/getTicketListFieldSettings.php:271
+#: includes/admin/getTicketListFieldSettings.php:381
+#: includes/admin/getTicketListFieldSettings.php:513
+#: includes/admin/getTicketListFieldSettings.php:539
+msgid "Save"
+msgstr "Simpan"
+
+#: includes/admin/getCustomPrioritySettings.php:77
+msgid "Save "
+msgstr "Simpan"
+
+#: includes/admin/getCustomPrioritySettings.php:79
+msgid "No Custom "
+msgstr "Tidak ada modifikasi"
+
+#: includes/admin/getCustomPrioritySettings.php:83
+msgid "Add New Priority"
+msgstr "Tambahkan prioritas baru"
+
+#: includes/admin/getCustomPrioritySettings.php:90
+msgid " Color"
+msgstr "Warna"
+
+#: includes/admin/getCustomSliderMenus.php:12
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/admin/getCustomSliderMenus.php:13
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/admin/getCustomSliderMenus.php:14
+#: includes/admin/getCustomSliderMenus.php:47
+msgid "Redirect URL"
+msgstr "Alihkan URL"
+
+#: includes/admin/getCustomSliderMenus.php:28
+msgid "No Menus Found"
+msgstr "Tidak ada menu ditemukan"
+
+#: includes/admin/getCustomSliderMenus.php:33
+msgid "Add New Menu"
+msgstr "Tambahkan menu baru"
+
+#: includes/admin/getCustomSliderMenus.php:37
+msgid "Select Icon (40 x 40 pixel)"
+msgstr "Pilih ikon (40 x 40 pixel)"
+
+#: includes/admin/getCustomSliderMenus.php:42
+msgid "Menu Text"
+msgstr "Teks menu"
+
+#: includes/admin/getCustomSliderMenus.php:52
+msgid "Create New Menu"
+msgstr "Buat menu baru"
+
+#: includes/admin/getCustomStatusSettings.php:91
+msgid "Save Status Order"
+msgstr "Simpat order status"
+
+#: includes/admin/getCustomStatusSettings.php:93
+msgid "No Custom Status Found"
+msgstr "Tidak ada modifikasi status yang ditemukan"
+
+#: includes/admin/getCustomStatusSettings.php:97
+msgid "Add New Status"
+msgstr "Tambahkan status baru"
+
+#: includes/admin/getCustomStatusSettings.php:106
+msgid "Status Name"
+msgstr "Nama status"
+
+#: includes/admin/getCustomStatusSettings.php:110
+msgid "Status Color"
+msgstr "Warna status"
+
+#: includes/admin/getCustomStatusSettings.php:122
+msgid "Create New Status"
+msgstr "Buat status baru"
+
+#: includes/admin/getETAssignAgent.php:12
+msgid "Assign Agent Notification Email"
+msgstr "Tetapkan Email notifikasi agen"
+
+#: includes/admin/getETAssignAgent.php:16
+#: includes/admin/getETChangeTicketStatus.php:15
+#: includes/admin/getETDeleteTicket.php:15
+#: includes/admin/getETReplayTicket.php:26
+msgid "Applicable Users"
+msgstr "User yang tersedia"
+
+#: includes/admin/getETAssignAgent.php:22
+#: includes/admin/getETChangeTicketStatus.php:21
+#: includes/admin/getETDeleteTicket.php:21
+#: includes/admin/getETReplayTicket.php:32
+msgid "Customer"
+msgstr "Klien"
+
+#: includes/admin/getETAssignAgent.php:30
+#: includes/admin/getETChangeTicketStatus.php:29
+#: includes/admin/getETCreateNewTicket.php:50
+#: includes/admin/getETDeleteTicket.php:29
+#: includes/admin/getETReplayTicket.php:40
+msgid "Administrator"
+msgstr "Admin"
+
+#: includes/admin/getETAssignAgent.php:31
+#: includes/admin/getETChangeTicketStatus.php:30
+#: includes/admin/getETCreateNewTicket.php:51
+#: includes/admin/getETDeleteTicket.php:30
+#: includes/admin/getETReplayTicket.php:41
+msgid "Administrator Emails set in Email Notification Settings"
+msgstr "Admin email dipasangkan pada pengaturan notifikasi email"
+
+#: includes/admin/getETAssignAgent.php:37
+#: includes/admin/getETChangeTicketStatus.php:36
+#: includes/admin/getETCreateNewTicket.php:57
+#: includes/admin/getETDeleteTicket.php:36
+#: includes/admin/getETReplayTicket.php:47
+msgid "Supervisor"
+msgstr "Supervisor"
+
+#: includes/admin/getETAssignAgent.php:43
+#: includes/admin/getETChangeTicketStatus.php:42
+#: includes/admin/getETCreateNewTicket.php:63
+#: includes/admin/getETDeleteTicket.php:42
+#: includes/admin/getETReplayTicket.php:53
+msgid "Assigned Agents"
+msgstr "Agen yang ditetapkan"
+
+#: includes/admin/getETAssignAgent.php:44
+#: includes/admin/getETChangeTicketStatus.php:43
+#: includes/admin/getETCreateNewTicket.php:64
+#: includes/admin/getETDeleteTicket.php:43
+#: includes/admin/getETReplayTicket.php:54
+msgid "Agents pre-assigned to category"
+msgstr "Agen akan ditetapkan pada kategori"
+
+#: includes/admin/getETAssignAgent.php:50
+#: includes/admin/getETChangeTicketStatus.php:49
+#: includes/admin/getETCreateNewTicket.php:70
+#: includes/admin/getETDeleteTicket.php:49
+#: includes/admin/getETReplayTicket.php:60
+msgid "All Agents"
+msgstr "Semua agen"
+
+#: includes/admin/getETChangeTicketStatus.php:11
+msgid "Change Status Notification Email"
+msgstr "Ganti status notifikasi email"
+
+#: includes/admin/getETCreateNewTicket.php:11
+#: includes/admin/getETReplayTicket.php:10
+msgid "Available Templates"
+msgstr "Template tersedia"
+
+#: includes/admin/getETCreateNewTicket.php:35
+#: includes/admin/getETCreateNewTicket.php:77
+#: includes/admin/getETReplayTicket.php:67
+msgid "Body"
+msgstr "Badan"
+
+#: includes/admin/getETCreateNewTicket.php:40
+msgid "Staff Email"
+msgstr "Staff email"
+
+#: includes/admin/getETCreateNewTicket.php:44
+msgid "Staff Applicable"
+msgstr "Staff tersedia"
+
+#: includes/admin/getETReplayTicket.php:22
+msgid "Reply Notification Email"
+msgstr "Balas email notifikasi"
+
+#: includes/admin/getEmailNotificationSettings.php:5
+msgid "Mail Settings"
+msgstr "Pengaturan email"
+
+#: includes/admin/getEmailNotificationSettings.php:8
+msgid "From Email:"
+msgstr "Email dari:"
+
+#: includes/admin/getEmailNotificationSettings.php:12
+msgid "From Name:"
+msgstr "Nama pengirim:"
+
+#: includes/admin/getEmailNotificationSettings.php:22
+msgid "Reply To:"
+msgstr "Dibalas kepada:"
+
+#: includes/admin/getEmailNotificationSettings.php:38
+msgid "Email Notifications"
+msgstr "Notifikasi Email"
+
+#: includes/admin/getEmailNotificationSettings.php:39
+msgid "If enabled, agents will receive email notifications."
+msgstr "Jika tersedia, agen akan menerima notifikasi email"
+
+#: includes/admin/getEmailNotificationSettings.php:43
+msgid "Enable Agent Email Notification"
+msgstr "Tetapkan Email notifikasi agen"
+
+#: includes/admin/getEmailNotificationSettings.php:54
+msgid "Administrator Notifications"
+msgstr "Notifikasi Admin"
+
+#: includes/admin/getEmailNotificationSettings.php:57
+msgid "Administrator Emails :"
+msgstr "Email Admin :"
+
+#: includes/admin/getEmailNotificationSettings.php:61
+msgid ""
+"Please add one email address per line. These email addresses will receive "
+"administrator email notifications"
+msgstr ""
+"Silahkana tambahkan satu alamat email setiap baris. Alamat email akan "
+"menerima notifikasi email notifikasi."
+
+#: includes/admin/getEmailNotificationSettings.php:64
+msgid "Email Pipe"
+msgstr "Email Pipe"
+
+#: includes/admin/getEmailNotificationSettings.php:78
+msgid "You must setup email piping on your server as well!"
+msgstr "Anda harus mengatur email piping pada server anda juga!"
+
+#: includes/admin/getEmailNotificationSettings.php:87
+msgid "Enable Email Piping"
+msgstr "Nyalakan Email Piping"
+
+#: includes/admin/getFieldsReorderSettings.php:22
+#: includes/admin/getTicketListFieldSettings.php:29
+#: includes/admin/getTicketListFieldSettings.php:296
+msgid "Extra"
+msgstr "Ekstra"
+
+#: includes/admin/getFieldsReorderSettings.php:102
+msgid "Email Address"
+msgstr "Alamat email"
+
+#: includes/admin/getFieldsReorderSettings.php:148
+msgid "Description"
+msgstr "Deskripsi"
+
+#: includes/admin/getFieldsReorderSettings.php:213
+msgid "Attach File(s)"
+msgstr "Tambahkan file"
+
+#: includes/admin/getFrontEndFAQ.php:47
+msgid "FAQ's"
+msgstr "FAQ's"
+
+#: includes/admin/getFrontEndFAQ.php:64
+#: includes/admin/getFrontEndTicket.php:329
+#: includes/admin/getTicketsByFilter.php:683
+msgid "Newer"
+msgstr "Baru"
+
+#: includes/admin/getFrontEndFAQ.php:66
+#: includes/admin/getFrontEndTicket.php:331
+#: includes/admin/getTicketsByFilter.php:685
+msgid "Older"
+msgstr "Lama"
+
+#: includes/admin/getFrontEndFAQ.php:68
+msgid "No Faqs Found"
+msgstr "Tidak ada FAQs yang ditemukan"
+
+#: includes/admin/getFrontEndTicket.php:170
+#: includes/admin/getTicketsByFilter.php:475
+#: includes/admin/setTicketAssignment.php:88 includes/admin/statistics.php:34
+msgid "Assigned to"
+msgstr "Diterapkan pada"
+
+#: includes/admin/getFrontEndTicket.php:175
+#: includes/admin/getTicketsByFilter.php:497
+msgid "Updated"
+msgstr "Terbaru"
+
+#: includes/admin/getFrontEndTicket.php:177
+#: includes/admin/getTicketListFieldSettings.php:231
+#: includes/admin/getTicketListFieldSettings.php:499
+#: includes/admin/getTicketsByFilter.php:508
+msgid "Date Created"
+msgstr "Tanggal dibuat"
+
+#: includes/admin/getFrontEndTicket.php:179
+#: includes/admin/getTicketListFieldSettings.php:257
+#: includes/admin/getTicketListFieldSettings.php:525
+#: includes/admin/getTicketsByFilter.php:519
+msgid "Date Updated"
+msgstr "Tanggal diperbaharui"
+
+#: includes/admin/getFrontEndTicket.php:200
+#: includes/admin/getIndivisualTicket.php:198
+#: includes/admin/getIndivisualTicketFront.php:209
+#: includes/admin/getTicketsByFilter.php:549
+msgid "months ago"
+msgstr "beberapa bulan lalu"
+
+#: includes/admin/getFrontEndTicket.php:201
+#: includes/admin/getIndivisualTicket.php:199
+#: includes/admin/getIndivisualTicketFront.php:210
+#: includes/admin/getTicketsByFilter.php:550
+msgid "days ago"
+msgstr "beberapa hari lalu"
+
+#: includes/admin/getFrontEndTicket.php:202
+#: includes/admin/getIndivisualTicket.php:200
+#: includes/admin/getIndivisualTicketFront.php:211
+#: includes/admin/getTicketsByFilter.php:551
+msgid "hours ago"
+msgstr "beberapa jam lalu"
+
+#: includes/admin/getFrontEndTicket.php:203
+#: includes/admin/getIndivisualTicket.php:201
+#: includes/admin/getIndivisualTicketFront.php:212
+#: includes/admin/getTicketsByFilter.php:552
+msgid "minutes ago"
+msgstr "beberapa menit yang lalu"
+
+#: includes/admin/getFrontEndTicket.php:204
+#: includes/admin/getIndivisualTicket.php:202
+#: includes/admin/getIndivisualTicketFront.php:213
+#: includes/admin/getTicketsByFilter.php:553
+msgid "seconds ago"
+msgstr "beberapa detik yang lalu"
+
+#: includes/admin/getFrontEndTicket.php:330
+#: includes/admin/getTicketsByFilter.php:684
+msgid "of"
+msgstr "Dari"
+
+#: includes/admin/getFrontEndTicket.php:330
+#: includes/admin/getTicketsByFilter.php:684
+msgid "Pages"
+msgstr "halaman"
+
+#: includes/admin/getFrontEndTicket.php:333 includes/admin/installation.php:463
+msgid "No Tickets Found"
+msgstr "tidak ada tiket yang ditemukan"
+
+#: includes/admin/getGeneralSettings.php:10
+msgid "Support Page/Post"
+msgstr "Dukung page/post"
+
+#: includes/admin/getGeneralSettings.php:12
+msgid "Select Page/Post"
+msgstr "pilih page/post"
+
+#: includes/admin/getGeneralSettings.php:30
+msgid "Use shortcode"
+msgstr "Gunakan shortcode"
+
+#: includes/admin/getGeneralSettings.php:30
+msgid "in selected page/post above."
+msgstr "pada page/post yang terpilih ditas."
+
+#: includes/admin/getGeneralSettings.php:34
+msgid "Default Category"
+msgstr "Kategori standar"
+
+#: includes/admin/getGeneralSettings.php:50
+msgid "Selected Category will be default category for new tickets."
+msgstr "Kategori terpilih akan menjadi kategori default untuk tiket baru"
+
+#: includes/admin/getGeneralSettings.php:55
+msgid "Default Status"
+msgstr "Status standar"
+
+#: includes/admin/getGeneralSettings.php:76
+msgid "Selected Status will be assigned to new tickets."
+msgstr "Statyus terpilih akan diterapkan pada tiket baru"
+
+#: includes/admin/getGeneralSettings.php:81
+msgid "Ticket Status After Customer Reply"
+msgstr "Status tiket setalah klien membalas"
+
+#: includes/admin/getGeneralSettings.php:102
+msgid ""
+"Ticket status will be changed to selected status (other than default) after "
+"ticket creator reply back."
+msgstr ""
+"Status tiket akan berubah pada status terpilih (dibanding standar) setelah "
+"pembua tiket mebalas"
+
+#: includes/admin/getGeneralSettings.php:106
+msgid "Ticket Type Settings"
+msgstr "Pengaturan tipe tiket"
+
+#: includes/admin/getGeneralSettings.php:107
+msgid ""
+"If enabled, users will be able to make a ticket public/private from front "
+"end."
+msgstr ""
+"Jika dinyalakan, pengguna akan mampu membuat tike menjadi publik/umum dari "
+"halaman muka"
+
+#: includes/admin/getGeneralSettings.php:111
+msgid "Allow users to make a ticket public/private from front end."
+msgstr ""
+"Persilahkan pengguna membuat tiket menjadi pribadi/umum dari halaman muka."
+
+#: includes/admin/getGeneralSettings.php:114
+msgid ""
+"If users are allowed to make a ticket public/private this will be the "
+"selected type for ticket. If user is not allowed to select ticket type from "
+"front end then this will be the type of the ticket created from front end."
+msgstr ""
+"Jika pengguna diperbolehkan untuk membuat tiket menjadi publik/pribadi maka "
+"akan dipilih tipe tiket. Jika pengguna tidak diperbolehkan untuk memilih "
+"tipe tiket dari halaman muka maka pengaturan ini akan menjadi pilihan tipe "
+"tiket yang dibuat dari halaman muka."
+
+#: includes/admin/getGeneralSettings.php:115
+msgid "Default Ticket Type"
+msgstr "Tipe tiket standar"
+
+#: includes/admin/getGeneralSettings.php:122
+msgid "Support Button"
+msgstr "Tombol bantuan"
+
+#: includes/admin/getGeneralSettings.php:123
+msgid ""
+"If enabled, button will be shown on all pages of front-end which redirect to "
+"support page/post selected above on click."
+msgstr ""
+"Jika diaktifkan, tombol akan ditunjukkan di semua halaman muka dan akan "
+"memberikan pengalihan ke halaman dukungan yang dipilih saat di klik."
+
+#: includes/admin/getGeneralSettings.php:127
+msgid "Enable Support Button"
+msgstr "Aktifkan tombol bantuan"
+
+#: includes/admin/getGeneralSettings.php:130
+msgid "Button Position"
+msgstr "Posisi tombol"
+
+#: includes/admin/getGeneralSettings.php:132
+msgid "Top Left"
+msgstr "Kiri atas"
+
+#: includes/admin/getGeneralSettings.php:133
+msgid "Top Right"
+msgstr "Kanan atas"
+
+#: includes/admin/getGeneralSettings.php:134
+msgid "Bottom Left"
+msgstr "Bawah kiri"
+
+#: includes/admin/getGeneralSettings.php:135
+msgid "Bottom Right"
+msgstr "Bawah kanan"
+
+#: includes/admin/getGeneralSettings.php:145
+msgid "Front End Ticket Submission"
+msgstr "Halaman muka masukan tiket"
+
+#: includes/admin/getGeneralSettings.php:146
+msgid ""
+"If enabled, prevents the submission of new tickets from the front end by "
+"logged in users. This may be useful if you want tickets to only be raised "
+"via email piping"
+msgstr ""
+"Jika diaktifkan, akan menghalangi masukan tiket baru dari halaman muka oleh "
+"pengguna log-in. Hal ini akan berguna jika anda ingin tiket hanya di "
+"munculkan melalui email piping."
+
+#: includes/admin/getGeneralSettings.php:151
+msgid "Prevent Front End Ticket Submission"
+msgstr "Menghalangi halaman muka masukan tiket"
+
+#: includes/admin/getGeneralSettings.php:161
+msgid "If enabled, non logged-in user will able to raise ticket"
+msgstr "Jika diaktifkan, pengguna yang tidak log in dapat memasukkan tiket"
+
+#: includes/admin/getGeneralSettings.php:165
+msgid "Enable Guest Tickets"
+msgstr "Aktifkan tiket tamu"
+
+#: includes/admin/getGeneralSettings.php:169
+msgid ""
+"If enabled, Guest user will be able to add attachment to a ticket. Note. "
+"This setting is applicable for front end tickets only"
+msgstr ""
+"Jika diaktifkan, tamu dapat menambahkan attacehment di tiket. Catatan: "
+"pengaturan ini dapat digunakan pada halaman muka tiket saja."
+
+#: includes/admin/getGeneralSettings.php:173
+msgid "Allow attachments for guest tickets"
+msgstr "Membolehkan attachment untuk tiket tamu"
+
+#: includes/admin/getGeneralSettings.php:177
+msgid ""
+"If not set bellow API key and secret, Google No CAPTCHA reCAPTCHA will not "
+"be loaded. This is applicable to guest ticket form only!"
+msgstr ""
+"Jika kunci dan sandi API tidak di set dibawah, Google No CAPTCHA reCAPTCHA "
+"tidak akan dimunculkan. Ini dapat digunakan untuk tiket tamu saja!"
+
+#: includes/admin/getGeneralSettings.php:177
+msgid "to get API key for your site."
+msgstr "untuk mendapatkan kunci API bagi site anda."
+
+#: includes/admin/getGeneralSettings.php:180
+msgid "Google reCAPTCHA Site Key"
+msgstr "Kunci Google reCAPTCHA Site"
+
+#: includes/admin/getGeneralSettings.php:184
+msgid "Google reCAPTCHA Secret key"
+msgstr "Kunci Google reCAPTCHA Secret"
+
+#: includes/admin/getGeneralSettings.php:190
+msgid "Default Login"
+msgstr "Login standar"
+
+#: includes/admin/getGeneralSettings.php:191
+msgid ""
+"If enabled, it will display default login form link and default login form "
+"will be enabled"
+msgstr ""
+"Jika diaktifkan, ini akan menunjukkan link login standar dan form login "
+"standar akan diaktifkan"
+
+#: includes/admin/getGeneralSettings.php:195
+msgid "Enable Default Login"
+msgstr "login standar akan diaktifkan"
+
+#: includes/admin/getGeneralSettings.php:202
+msgid "Default Login Module"
+msgstr "Modul login standar"
+
+#: includes/admin/getGeneralSettings.php:210
+msgid "Wp Login Link"
+msgstr "link Wp login"
+
+#: includes/admin/getGeneralSettings.php:221
+msgid "Allow Agents to assign tickets"
+msgstr "Persilahkan Agen untuk menerapkan tiket"
+
+#: includes/admin/getGeneralSettings.php:227
+msgid "Allow Agents to delete tickets"
+msgstr "Persilahkan agen untuk menghapus tiket"
+
+#: includes/admin/getGeneralSettings.php:234
+msgid "Facebook App Details"
+msgstr "Detai facebook App"
+
+#: includes/admin/getGeneralSettings.php:235 includes/loginForm.php:8
+msgid "Click Here"
+msgstr "Klik disini"
+
+#: includes/admin/getGeneralSettings.php:235
+msgid "for help to create App"
+msgstr "untuk membantu membuat App"
+
+#: includes/admin/getGeneralSettings.php:238
+msgid "App ID:"
+msgstr "App ID:"
+
+#: includes/admin/getGeneralSettings.php:244
+msgid "App Secret:"
+msgstr "Sandi App:"
+
+#: includes/admin/getGeneralSettings.php:252
+msgid "Front End Support Panel"
+msgstr "Dukungan panel halaman muka"
+
+#: includes/admin/getGeneralSettings.php:255
+msgid "Enable:"
+msgstr "Aktifkan:"
+
+#: includes/admin/getGeneralSettings.php:262
+msgid "Support Title:"
+msgstr "Judul bantuan :"
+
+#: includes/admin/getGeneralSettings.php:268
+msgid "Phone Number:"
+msgstr "Nomor telepon:"
+
+#: includes/admin/getGeneralSettings.php:274
+msgid "Display Skype Chat?:"
+msgstr "Munculkan Skype chat:"
+
+#: includes/admin/getGeneralSettings.php:281
+msgid "Display Skype Call?:"
+msgstr "Munculkan panggilan Skype:"
+
+#: includes/admin/getGeneralSettings.php:297
+msgid "Facebook App Help"
+msgstr "Bantuan Facebook App"
+
+#: includes/admin/getGeneralSettings.php:301
+msgid "Create your application"
+msgstr "Buat aplikasi anda"
+
+#: includes/admin/getGeneralSettings.php:302
+msgid "Look for Site URL field in the Website tab and enter"
+msgstr "Lihat pada kolom URL pada tab website dan enter"
+
+#: includes/admin/getGeneralSettings.php:303
+msgid "After this, go to the"
+msgstr "Setelah ini, pergi ke"
+
+#: includes/admin/getGeneralSettings.php:303
+msgid "Facebook Application List"
+msgstr "List Aplikasi Facebook"
+
+#: includes/admin/getGeneralSettings.php:303
+msgid "page and select your newly created application"
+msgstr "Halaman dan pilih aplikasi terbaru yang anda buat"
+
+#: includes/admin/getGeneralSettings.php:304
+#: includes/admin/getGeneralSettings.php:305
+#: includes/admin/getGeneralSettings.php:306
+#: includes/admin/getGeneralSettings.php:307
+msgid "Go to"
+msgstr "Pergi ke"
+
+#: includes/admin/getGeneralSettings.php:304
+#: includes/admin/getGeneralSettings.php:305
+msgid "and enter"
+msgstr "dan enter"
+
+#: includes/admin/getGeneralSettings.php:304
+msgid "Contact Email"
+msgstr "Kontak Email"
+
+#: includes/admin/getGeneralSettings.php:305
+msgid "+Add Platform"
+msgstr "+ Tambahkan platform"
+
+#: includes/admin/getGeneralSettings.php:305
+msgid "select"
+msgstr "Pilih"
+
+#: includes/admin/getGeneralSettings.php:305
+msgid "Website"
+msgstr "Website"
+
+#: includes/admin/getGeneralSettings.php:306
+msgid "Status and Review"
+msgstr "Status dan review"
+
+#: includes/admin/getGeneralSettings.php:306
+#: includes/admin/getGeneralSettings.php:307
+msgid " and"
+msgstr "Dan"
+
+#: includes/admin/getGeneralSettings.php:306
+msgid "ON"
+msgstr "ON"
+
+#: includes/admin/getGeneralSettings.php:306
+msgid "available to the general public"
+msgstr "Tersedia untuk umum"
+
+#: includes/admin/getGeneralSettings.php:307
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/admin/getGeneralSettings.php:307
+msgid " and Copy the values from these fields:"
+msgstr "dan salin nilai kolom pada kolom:"
+
+#: includes/admin/getGeneralSettings.php:307
+msgid "App ID/API key"
+msgstr "Kunci App ID/API "
+
+#: includes/admin/getGeneralSettings.php:307
+msgid "Application Secret"
+msgstr "sandi Aplikasi"
+
+#: includes/admin/getGeneralSettings.php:307
+msgid ", and enter in <b>Facebook App Settings"
+msgstr ", dan tambahkan <b> pengaturan Facebook App"
+
+#: includes/admin/getIndivisualTicket.php:260
+#: includes/admin/getIndivisualTicketFront.php:251
+msgid "Private Note : Not Visible to Customers"
+msgstr "Pesan pribadi: Tidak terlihat oleh klien"
+
+#: includes/admin/getIndivisualTicket.php:267
+#: includes/admin/getIndivisualTicketFront.php:259
+msgid "Attachment: "
+msgstr "Attachment:"
+
+#: includes/admin/getIndivisualTicket.php:313 includes/admin/showcanned.php:15
+msgid "Title"
+msgstr "Judul"
+
+#: includes/admin/getIndivisualTicket.php:328 includes/admin/showcanned.php:35
+msgid "No Reply Found"
+msgstr "Tidak ada balasan ditemukan"
+
+#: includes/admin/getRollManagementSettings.php:13
+msgid "Agent Capabilities"
+msgstr "Kapabilitas agen"
+
+#: includes/admin/getRollManagementSettings.php:14
+#: includes/admin/getRollManagementSettings.php:31
+msgid "This will add"
+msgstr "Ini akan ditambahkan"
+
+#: includes/admin/getRollManagementSettings.php:14
+msgid "Support Agent"
+msgstr "Bantuan agen"
+
+#: includes/admin/getRollManagementSettings.php:14
+#: includes/admin/getRollManagementSettings.php:31
+msgid "capabilities to your existing user roles"
+msgstr "kemapuan fungsi pengguna yang ada sekarang"
+
+#: includes/admin/getRollManagementSettings.php:30
+msgid "Supervisor Capabilities"
+msgstr "Kapabilitas Supervisor"
+
+#: includes/admin/getRollManagementSettings.php:31
+msgid "Support Supervisor"
+msgstr "Dukungan supervisor"
+
+#: includes/admin/getRollManagementSettings.php:48
+msgid "Front End Restriction"
+msgstr "Pelarangan Front End"
+
+#: includes/admin/getRollManagementSettings.php:49
+msgid "This will allow"
+msgstr "Ini akan mengizinkan"
+
+#: includes/admin/getRollManagementSettings.php:49
+msgid "Registered Users"
+msgstr "User yang teregistrasi"
+
+#: includes/admin/getRollManagementSettings.php:49
+msgid "to raise/view tickets from front end."
+msgstr "untuk menaikkan/lihat tiket dari halaman muka"
+
+#: includes/admin/getTicketListFieldSettings.php:47
+#: includes/admin/getTicketListFieldSettings.php:50
+#: includes/admin/getTicketListFieldSettings.php:69
+#: includes/admin/getTicketListFieldSettings.php:72
+#: includes/admin/getTicketListFieldSettings.php:87
+#: includes/admin/getTicketListFieldSettings.php:90
+#: includes/admin/getTicketListFieldSettings.php:105
+#: includes/admin/getTicketListFieldSettings.php:108
+#: includes/admin/getTicketListFieldSettings.php:128
+#: includes/admin/getTicketListFieldSettings.php:131
+#: includes/admin/getTicketListFieldSettings.php:146
+#: includes/admin/getTicketListFieldSettings.php:149
+#: includes/admin/getTicketListFieldSettings.php:164
+#: includes/admin/getTicketListFieldSettings.php:167
+#: includes/admin/getTicketListFieldSettings.php:182
+#: includes/admin/getTicketListFieldSettings.php:185
+#: includes/admin/getTicketListFieldSettings.php:200
+#: includes/admin/getTicketListFieldSettings.php:203
+#: includes/admin/getTicketListFieldSettings.php:218
+#: includes/admin/getTicketListFieldSettings.php:221
+#: includes/admin/getTicketListFieldSettings.php:236
+#: includes/admin/getTicketListFieldSettings.php:239
+#: includes/admin/getTicketListFieldSettings.php:262
+#: includes/admin/getTicketListFieldSettings.php:265
+#: includes/admin/getTicketListFieldSettings.php:314
+#: includes/admin/getTicketListFieldSettings.php:317
+#: includes/admin/getTicketListFieldSettings.php:336
+#: includes/admin/getTicketListFieldSettings.php:339
+#: includes/admin/getTicketListFieldSettings.php:354
+#: includes/admin/getTicketListFieldSettings.php:357
+#: includes/admin/getTicketListFieldSettings.php:372
+#: includes/admin/getTicketListFieldSettings.php:375
+#: includes/admin/getTicketListFieldSettings.php:395
+#: includes/admin/getTicketListFieldSettings.php:398
+#: includes/admin/getTicketListFieldSettings.php:413
+#: includes/admin/getTicketListFieldSettings.php:416
+#: includes/admin/getTicketListFieldSettings.php:431
+#: includes/admin/getTicketListFieldSettings.php:434
+#: includes/admin/getTicketListFieldSettings.php:449
+#: includes/admin/getTicketListFieldSettings.php:452
+#: includes/admin/getTicketListFieldSettings.php:467
+#: includes/admin/getTicketListFieldSettings.php:470
+#: includes/admin/getTicketListFieldSettings.php:485
+#: includes/admin/getTicketListFieldSettings.php:488
+#: includes/admin/getTicketListFieldSettings.php:504
+#: includes/admin/getTicketListFieldSettings.php:507
+#: includes/admin/getTicketListFieldSettings.php:530
+#: includes/admin/getTicketListFieldSettings.php:533
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: includes/admin/getTicketListFieldSettings.php:64
+#: includes/admin/getTicketListFieldSettings.php:331
+#: includes/admin/ticket_filter.php:305
+#: includes/admin/ticket_filter_front.php:152
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/getTicketListFieldSettings.php:112
+#: includes/admin/getTicketListFieldSettings.php:379
+msgid "Char. Length"
+msgstr "panjang karakter"
+
+#: includes/admin/getTicketListFieldSettings.php:115
+#: includes/admin/getTicketListFieldSettings.php:246
+#: includes/admin/getTicketListFieldSettings.php:272
+#: includes/admin/getTicketListFieldSettings.php:382
+#: includes/admin/getTicketListFieldSettings.php:514
+#: includes/admin/getTicketListFieldSettings.php:540
+msgid "Saved!"
+msgstr "Simpan!"
+
+#: includes/admin/getTicketListFieldSettings.php:123
+#: includes/admin/getTicketListFieldSettings.php:390
+#: includes/admin/getTicketsByFilter.php:442
+msgid "Raised By"
+msgstr "Dibuat oleh"
+
+#: includes/admin/getTicketListFieldSettings.php:141
+#: includes/admin/getTicketListFieldSettings.php:408
+#: includes/admin/getTicketsByFilter.php:453
+msgid "Type"
+msgstr "Tipe"
+
+#: includes/admin/getTicketListFieldSettings.php:177
+#: includes/admin/getTicketListFieldSettings.php:444
+msgid "Assigned To"
+msgstr "Ditujukan kepada"
+
+#: includes/admin/getTicketListFieldSettings.php:213
+#: includes/admin/getTicketListFieldSettings.php:480
+msgid "Updated Time"
+msgstr "Waktu diperbaharui"
+
+#: includes/admin/getTicketListFieldSettings.php:243
+#: includes/admin/getTicketListFieldSettings.php:269
+#: includes/admin/getTicketListFieldSettings.php:511
+#: includes/admin/getTicketListFieldSettings.php:537
+msgid "Date Format"
+msgstr "Format tanggal"
+
+#: includes/admin/getTicketListFieldSettings.php:248
+#: includes/admin/getTicketListFieldSettings.php:274
+#: includes/admin/getTicketListFieldSettings.php:516
+#: includes/admin/getTicketListFieldSettings.php:542
+msgid "to see available date formats. E.g."
+msgstr "untuk melihat format tanggal yang ada, cth."
+
+#: includes/admin/getTicketListFieldSettings.php:248
+#: includes/admin/getTicketListFieldSettings.php:274
+#: includes/admin/getTicketListFieldSettings.php:516
+#: includes/admin/getTicketListFieldSettings.php:542
+msgid "will display date as"
+msgstr "akan menampilkan tanggal sebagai"
+
+#: includes/admin/getTicketsByFilter.php:35
+#: includes/admin/ticketActionDashboard.php:2
+msgid "Apply Filter"
+msgstr "Gunakan filter"
+
+#: includes/admin/getTicketsByFilter.php:36
+msgid "Show Active Filter"
+msgstr "Tunjukkan filter aktif"
+
+#: includes/admin/installation.php:232
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/admin/installation.php:233
+msgid "High"
+msgstr "Tinggi"
+
+#: includes/admin/installation.php:234
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/admin/installation.php:235
+msgid "Low"
+msgstr "Rendah"
+
+#: includes/admin/installation.php:445
+msgid "Tickets"
+msgstr "Tiket"
+
+#: includes/admin/installation.php:446
+msgid "Create New Ticket"
+msgstr "Buat tiket baru"
+
+#: includes/admin/installation.php:447
+msgid "Ticket List Settings"
+msgstr "Pengaturan list tiket"
+
+#: includes/admin/installation.php:448
+msgid "Create Ticket As"
+msgstr "Buat tiket sebagai"
+
+#: includes/admin/installation.php:449
+msgid "Make Ticket Public"
+msgstr "Buat tiket dilahat umum"
+
+#: includes/admin/installation.php:450
+msgid "Submit Ticket"
+msgstr "Kirim tiket"
+
+#: includes/admin/installation.php:451
+msgid "Edit Ticket"
+msgstr "edit tiket"
+
+#: includes/admin/installation.php:452
+msgid "Reply Ticket"
+msgstr "Balas Tiket"
+
+#: includes/admin/installation.php:453
+msgid "Delete Ticket"
+msgstr "Hapus Tiket"
+
+#: includes/admin/installation.php:454
+msgid "Ticket Type"
+msgstr "Tipe Tiket"
+
+#: includes/admin/installation.php:455
+msgid "No. of Tickets"
+msgstr "Nomor Tiket"
+
+#: includes/admin/installation.php:456
+msgid "Ticket Creator"
+msgstr "Pembuat Tiket"
+
+#: includes/admin/installation.php:457
+msgid "Create Ticket Success Email"
+msgstr "Email membuat tiket berhasil "
+
+#: includes/admin/installation.php:458
+msgid "Delete Ticket Notification Email"
+msgstr "Hapus notifikasi email tiket"
+
+#: includes/admin/installation.php:459
+msgid "New Ticket From Thread"
+msgstr "Tiket baru dari forum"
+
+#: includes/admin/installation.php:460
+msgid "Back to Tickets"
+msgstr "Kembali ke tiket"
+
+#: includes/admin/installation.php:461
+msgid "Backend Ticket List Fields"
+msgstr "Halaman belakang kolom tiket"
+
+#: includes/admin/installation.php:462
+msgid "Frontend Ticket List Fields"
+msgstr "Halaman muka kolom list tiket"
+
+#: includes/admin/installation.php:621 includes/admin/installation.php:672
+msgid "Customer Name"
+msgstr "Nama klien"
+
+#: includes/admin/installation.php:622 includes/admin/installation.php:673
+msgid "Customer Email"
+msgstr "Email klien"
+
+#: includes/admin/installation.php:623 includes/admin/installation.php:674
+msgid "Ticket ID"
+msgstr "ID Tiket"
+
+#: includes/admin/installation.php:624 includes/admin/installation.php:675
+msgid "Ticket Subject"
+msgstr "Judul Tiket"
+
+#: includes/admin/installation.php:625
+msgid "Ticket Discription"
+msgstr "Deskripsi tiket"
+
+#: includes/admin/installation.php:626 includes/admin/installation.php:677
+msgid "Ticket Category"
+msgstr "Kategori tiket"
+
+#: includes/admin/installation.php:627 includes/admin/installation.php:678
+msgid "Ticket Priority"
+msgstr "Prioritas tiket"
+
+#: includes/admin/installation.php:641
+msgid "Your Ticket has been created successfully"
+msgstr "Tiket anda telah berhasil dibuat"
+
+#: includes/admin/installation.php:669
+msgid "Reply By Name"
+msgstr "Jawab berdasarkan nama"
+
+#: includes/admin/installation.php:670
+msgid "Reply By Email"
+msgstr "Jawab berdasarkan Email"
+
+#: includes/admin/installation.php:672 includes/admin/installation.php:673
+msgid "(ticket creator)"
+msgstr "(Pembuat tiket)"
+
+#: includes/admin/installation.php:676
+msgid "Reply Discription"
+msgstr "Balasan Deskripsi"
+
+#: includes/admin/openFrontEndFAQ.php:11
+msgid "Back to FAQs"
+msgstr "Kembali ke FAQ"
+
+#: includes/admin/replyFormPosition.php:11
+msgid "CC:"
+msgstr "CC:"
+
+#: includes/admin/replyFormPosition.php:11
+#: includes/admin/replyFormPosition.php:15
+msgid "Comma separated list"
+msgstr "List terpisah koma"
+
+#: includes/admin/replyFormPosition.php:15
+msgid "BCC:"
+msgstr "BCC:"
+
+#: includes/admin/replyFormPosition.php:115
+msgid "Add Note"
+msgstr "Tambahkan catatan"
+
+#: includes/admin/replyFormPosition.php:121
+msgid "Submit Reply"
+msgstr "Kirim balasan"
+
+#: includes/admin/searchRegisteredUsaers.php:18
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: includes/admin/searchRegisteredUsaers.php:19
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/searchRegisteredUsaers.php:37
+msgid "No Results Found"
+msgstr "Tidak ada hasil pencarian"
+
+#: includes/admin/selectRegisteredUser.php:2
+msgid "Username or Email"
+msgstr "Nama pengguna atau Email"
+
+#: includes/admin/selectRegisteredUser.php:3
+msgid "Search"
+msgstr "Cari"
+
+#: includes/admin/setTicketAssignment.php:89
+msgid "Previously Assigned to"
+msgstr "Sebelumnya di terapkan pada"
+
+#: includes/admin/showFAQ.php:2 includes/admin/showcanned.php:3
+msgid "+ Add New"
+msgstr "+ Tambahkan baru"
+
+#: includes/admin/showFAQ.php:13
+msgid "Question"
+msgstr "Pertanyaan"
+
+#: includes/admin/showFAQ.php:32
+msgid "No FAQ's Found"
+msgstr "Tidak ada FAQ ditemukan"
+
+#: includes/admin/ticketActionDashboard.php:3
+msgid "Reset Filter"
+msgstr "Ulangi filter"
+
+#: includes/admin/ticket_filter.php:145
+msgid "Type:"
+msgstr "Tipe:"
+
+#: includes/admin/ticket_filter.php:149
+msgid "User"
+msgstr "Pengguna"
+
+#: includes/admin/ticket_filter.php:160 includes/admin/ticket_filter.php:211
+#: includes/admin/ticket_filter_front.php:78
+msgid ":"
+msgstr ":"
+
+#: includes/admin/ticket_filter.php:183
+msgid "Assigned to:"
+msgstr "Diterapkan pada:"
+
+#: includes/admin/ticket_filter.php:256
+#: includes/admin/ticket_filter_front.php:102
+msgid "10"
+msgstr "10"
+
+#: includes/admin/ticket_filter.php:257
+#: includes/admin/ticket_filter_front.php:103
+msgid "20"
+msgstr "20"
+
+#: includes/admin/ticket_filter.php:258
+#: includes/admin/ticket_filter_front.php:104
+msgid "30"
+msgstr "30"
+
+#: includes/admin/ticket_filter.php:259
+#: includes/admin/ticket_filter_front.php:105
+msgid "40"
+msgstr "40"
+
+#: includes/admin/ticket_filter.php:260
+#: includes/admin/ticket_filter_front.php:106
+msgid "50"
+msgstr "50"
+
+#: includes/admin/ticket_filter.php:261
+msgid "100"
+msgstr "100"
+
+#: includes/admin/ticket_filter.php:262
+msgid "500"
+msgstr "500"
+
+#: includes/admin/ticket_filter.php:302
+msgid "Search By:"
+msgstr "Dicari dengan:"
+
+#: includes/admin/ticket_filter.php:306
+msgid "Created By"
+msgstr "Dibuat dengan"
+
+#: includes/admin/ticket_filter.php:314
+msgid "Apply & Remember"
+msgstr "Terapkan dan ingat"
+
+#: includes/admin/ticket_filter_front.php:149
+msgid "By:"
+msgstr "Oleh:"
+
+#: includes/admin/wpspCheckLogin.php:8
+msgid "Incorrect Username or Password"
+msgstr "Nama pengguna atau kata kunci salah"
+
+#: includes/create_new_ticket.php:18 includes/create_new_ticket.php:28
+msgid "OR"
+msgstr "ATAU"
+
+#: includes/create_new_ticket.php:25
+msgid "Login with Facebook"
+msgstr "masuk dengan Facebook"
+
+#: includes/create_new_ticket.php:36
+msgid "Please Wait..."
+msgstr "Mohon tunggu..."
+
+#: includes/guestTicketForm.php:40 includes/loggedInUser.php:34
+msgid "FAQs"
+msgstr "FAQs"
+
+#: includes/guestTicketForm.php:49 includes/guestUser.php:5
+#: includes/loggedInUser.php:46 includes/loggedInUser.php:52
+#: includes/loggedInUser.php:61 includes/loggedInUserAllTickets.php:28
+#: includes/loggedInUserCreateTicket.php:12
+msgid "Please Wait"
+msgstr "Mohon tunggu"
+
+#: includes/guestTicketForm.php:274
+msgid " Public"
+msgstr "Umum"
+
+#: includes/loginForm.php:4
+msgid "Enter Username"
+msgstr "Masukkan nama"
+
+#: includes/loginForm.php:5
+msgid "Enter Password"
+msgstr "Masukkan kata kunci"
+
+#: includes/loginForm.php:6
+msgid "Login"
+msgstr "Login"
+
+#: includes/loginForm.php:7
+msgid "Forgot Password?"
+msgstr "Lupa kata kunci?"
+
+#: includes/loginForm.php:11
+msgid "Don't have account?"
+msgstr "Tidak memiliki akun ini?"
+
+#: includes/loginForm.php:12
+msgid "Register Here"
+msgstr "Daftar disini"
+
+#: includes/loginForm.php:32
+msgid "Click Here to Login"
+msgstr "Klik disini untuk masuk"
+
+#: includes/shortcode.php:58 includes/shortcode.php:129
+#: includes/shortcode.php:169
+msgid "Username or Password missing!!!"
+msgstr "Nama pengguna atau kata sandi tidak tepat!!!"
+
+#: includes/support_panel.php:20
+msgid "Online Skype Chat Agents"
+msgstr "Bicara dengan Agen yang sedang online via Skype"
+
+#: includes/support_panel.php:23
+msgid "Skype Chat"
+msgstr "Bicara via Chat"
+
+#: includes/support_panel.php:39
+msgid "Online Skype Call Agents"
+msgstr "Telepon dengan Agen yang sedang online via Skype"
+
+#: includes/support_panel.php:42
+msgid "Skype Call"
+msgstr "Telepon Agen"
+
+#: includes/support_panel.php:67
+msgid "Support Ticket"
+msgstr "Dukungan Tiket"
+
+#: wp-support-plus-pro.php:249
+msgid "WP Support Plus Pro License"
+msgstr "Lisensi Wp Support Plus Pro"
+
+#: wp-support-plus-pro.php:249
+msgid "Pro License"
+msgstr "Lisensi Pro"
+
+#: wp-support-plus-pro.php:257
+msgid "WP Support Plus Pro License Options"
+msgstr "Pilihan WP Support Plus Pro License"
+
+#: wp-support-plus-pro.php:266
+msgid "License Key"
+msgstr "Kunci lisensi"
+
+#: wp-support-plus-pro.php:270
+msgid "Enter your license key"
+msgstr "Masukkan kunci lisensi anda"
+
+#: wp-support-plus-pro.php:276 wp-support-plus-pro.php:285
+msgid "Activate License"
+msgstr "Lisensi aktif"
+
+#: wp-support-plus-pro.php:280
+msgid "active"
+msgstr "Aktif"
+
+#: wp-support-plus-pro.php:282
+msgid "Deactivate License"
+msgstr "Tidak aktifkan lisensi"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Support Plus Pro"
+msgstr "WP Support Plus Pro"
+
+#. Plugin URI of the plugin/theme
+msgid "http://pradeepmakone.com/wpsupportplus/"
+msgstr "http://pradeepmakone.com/wpsupportplus/"
+
+#. Description of the plugin/theme
+msgid "Easy to use Customer Support System in Wordpress itself!"
+msgstr "Mudah untuk menggunakan sistem bantuan pelanggan melalui wordpress"
+
+#. Author of the plugin/theme
+msgid "Pradeep Makone"
+msgstr "Pradeep Makone"
+
+#. Author URI of the plugin/theme
+msgid "http://profiles.wordpress.org/pradeepmakone07/"
+msgstr "http://profiles.wordpress.org/pradeepmakone07/"
