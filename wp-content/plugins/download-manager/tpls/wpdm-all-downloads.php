@@ -79,6 +79,7 @@ if(isset($params['jstable']) && $params['jstable']==1): ?>
                 <th class=""><?php _e('Title','wpdmpro'); ?></th>
                 <th class="hidden-sm hidden-xs"><?php _e('Categories','wpdmpro'); ?></th>
                 <th class="hidden-xs"><?php _e('Create Date','wpdmpro'); ?></th>
+                <th class="hidden-sm hidden-xs"><?php _e('Size','wpdmpro'); ?></th>
                 <th style="width: 100px;"><?php _e('Download','wpdmpro'); ?></th>
             </tr>
             </thead>
@@ -146,6 +147,7 @@ if(isset($params['jstable']) && $params['jstable']==1): ?>
                     </td>
                     <td class="hidden-sm hidden-xs"><?php echo $cats; ?></td>
                     <td class="hidden-xs"><?php echo get_the_date(); ?></td>
+                    <td class="hidden-sm hidden-xs"><?php echo json_encode($data); ?></td>
                     <td><?php echo $download_link; ?></td>
                 </tr>
             <?php } endwhile; ?>

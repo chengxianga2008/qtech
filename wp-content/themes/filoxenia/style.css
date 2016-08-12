@@ -19601,3 +19601,45 @@ div.whmcscontainer .align-right .btn{
 		margin-bottom: 5px;
 	}
 }
+
+/*  edit by jack */
+#ihc_login_form .impu-form-input-remember{
+	margin: 0;
+	margin-right: 6px;	
+}
+
+#ihc_login_form .impu-form-links{
+	margin-bottom: 10px;
+}
+
+.ihc-login-error{
+	color: red;
+	margin-left: 10px;
+}
+
+.ihc-ap-theme-1 .iump-user-page-avatar{
+	width: 150px;
+}
+
+.iump-register-form.ihc-register-6{
+	min-width: 100%;
+}
+
+.iump-register-form.ihc-register-6{
+	min-width: 100%;
+}
+
+.iump-register-form.ihc-register-6 .ihc-register-col{
+	max-width: 800px;
+}
+
+.ihc-logout-wrap.ihc-login-template-6{
+	width: 100%;
+	display: block;
+}
+
+.ihc-logout-wrap.ihc-login-template-6 a{
+	display: block;
+	width: 100%;
+	border-radius: 5px;
+}
