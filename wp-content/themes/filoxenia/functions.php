@@ -595,10 +595,6 @@ function wpdm_new_download_notification($post_id, $post, $update){
 // print_r($package);
 //to do: write your notification code here
 	
-	if($update){
-		return;
-	}
-	
 	if ( $post->post_type != "wpdmpro" ) {
 		return;
 	}
@@ -609,6 +605,14 @@ function wpdm_new_download_notification($post_id, $post, $update){
 	
 	if ( wp_is_post_revision( $post_id ) ){
 		return;
+	}
+	
+	$_email_sent = get_post_meta($post_id, "_email_sent", true);
+	
+	if( $_email_sent == 1){
+		return;
+	}else{
+		update_post_meta($post_id, "_email_sent", "1");
 	}
 	
 	$today = getdate();
@@ -623,6 +627,7 @@ function wpdm_new_download_notification($post_id, $post, $update){
 	// Array of WP_User objects.
 	foreach ( $subscribers as $subscriber ) {
 		
+		error_log($subscriber->user_email);
 		//error_log($subscriber->display_name);
 		wp_mail($subscriber->user_email, "New File Download Available From QTech", stripcslashes($message), $headers);
 				
