@@ -615,28 +615,35 @@ function wpdm_new_download_notification($post_id, $post, $update){
 		update_post_meta($post_id, "_email_sent", "1");
 	}
 	
+	wp_schedule_single_event( time() + 60, 'cron_send_download_mail', array($post_id, $post));
+
+}
+
+add_action("save_post", "wpdm_new_download_notification", 10, 3);
+
+function send_download_mail($post_id, $post) {
+
+	// do something
 	$today = date('d-M-Y');
 	$download_url = get_permalink($post_id);
 	$search_arr = array('[site_name]','[date]','[package_name]','[download_url]');
 	$replace_arr = array('QTech Technology', $today, $post->post_name, $download_url);
 	$message = str_replace($search_arr, $replace_arr, file_get_contents(wpdm_tpl_path('wpdm-email-lock-template.html',WPDM_BASE_DIR.'email-templates/')));
 	
-	error_log($message);
-	
 	//From: ' . $eml['fromname'] . ' <' . $eml['frommail'] . '>' . "\r\n
 	$headers = "Content-type: text/html\r\n";
+	
+	error_log($message);
 	
 	$subscribers = get_users( 'role=subscriber' );
 	// Array of WP_User objects.
 	foreach ( $subscribers as $subscriber ) {
-
+	
 		wp_mail($subscriber->user_email, "New File Download Available From QTech", stripcslashes($message), $headers);
-				
+	
 	}
-
 }
-
-add_action("save_post", "wpdm_new_download_notification", 10, 3);
+add_action( 'cron_send_download_mail','send_download_mail',10, 2);
 
 
 class Logout_Widget extends WP_Widget {
