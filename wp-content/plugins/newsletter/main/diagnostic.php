@@ -234,14 +234,8 @@ if (count($calls) > 1) {
                         <code>wp-content/logs/newsletter</code>.
                     </p>
 
-                    <table class="widefat">
-                        <thead>
-                            <tr>
-                                <th>Name</th>
-                                <th>Active since</th>
-                            </tr>
-                        </thead>
-
+                    <table class="form-table">
+                       
                         <tbody>
                             <tr>
                                 <td>
@@ -256,6 +250,8 @@ if (count($calls) > 1) {
                                     Log folder
                                 </td>
                                 <td>
+                                    <code><?php echo NEWSLETTER_LOG_DIR?></code>
+                                    <br>
                                     <?php
                                     if (!is_dir(NEWSLETTER_LOG_DIR)) {
                                         echo '<span class="newsletter-error-span">The log folder does not exists, no logging possible!</span>';
@@ -263,6 +259,14 @@ if (count($calls) > 1) {
                                         echo 'The log folder exists.';
                                     }
                                     ?>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Log secret
+                                </td>
+                                <td>
+                                    <code><?php echo get_option("newsletter_logger_secret")?></code>
                                 </td>
                             </tr>
                         </tbody>

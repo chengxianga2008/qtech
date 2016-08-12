@@ -13,6 +13,7 @@ jQuery.fn.hover_edit = function () {
                     //edit image
                     if (target.attr("data-type") == 'image') {
                         jQuery("#tnpc-edit-image .image").val(target.find('img').attr("src"));
+                        jQuery("#tnpc-edit-image .alt").val(target.find('img').attr("alt"));
                         jQuery("#tnpc-edit-image .url").val(target.find('a').attr("href"));
                         jQuery("#tnpc-edit-image").fadeIn(500);
                         jQuery("#tnpc-edit-image .tnpc-edit-box").slideDown(500);
@@ -20,6 +21,7 @@ jQuery.fn.hover_edit = function () {
                             jQuery(this).parent().parent().parent().fadeOut(500)
                             jQuery(this).parent().parent().slideUp(500)
                             target.find('img').attr("src", jQuery("#tnpc-edit-image .image").val());
+                            target.find('img').attr("alt", jQuery("#tnpc-edit-image .alt").val());
                             target.find('a').attr("href", jQuery("#tnpc-edit-image .url").val());
                         });
                     }

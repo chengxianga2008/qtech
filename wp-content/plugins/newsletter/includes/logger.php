@@ -52,7 +52,9 @@ class NewsletterLogger {
         if (is_array($text) || is_object($text)) $text = print_r($text, true);
 
         // The "logs" dir is created on Newsletter constructor.
-        $res = @file_put_contents($this->file, $time . ' - ' . size_format(memory_get_usage(), 1) . ' - ' . $text . "\n", FILE_APPEND | FILE_TEXT);
+        $current_user_id = 0;
+        if (function_exists('get_current_user_id')) $current_user_id = get_current_user_id();
+        $res = @file_put_contents($this->file, $time . ' - m: ' . size_format(memory_get_usage(), 1) . ', u: ' . $current_user_id . ' - ' . $text . "\n", FILE_APPEND | FILE_TEXT);
         if ($res === false) {
             $this->level = self::NONE;
         }

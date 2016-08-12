@@ -1,18 +1,20 @@
 <div class="tnpc-edit" id="tnpc-edit-image">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Image</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Image", "newsletter") ?></div>
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">SOURCE <span>(full image URL including http://)</span></div>
+            <div class="tnpc-edit-box-content-text"><?php _e("SOURCE", "newsletter") ?> <span>(full image URL including http://)</span></div>
             <div class="tnpc-edit-box-content-field">
                 <input type="text" class="tnpc-edit-box-content-field-input image"/>
                 <input class="button select_image" value="Select or Upload Image" type="button">
             </div>
-            <div class="tnpc-edit-box-content-text">LINK <span>(optional link address including http://)</span></div>
+            <div class="tnpc-edit-box-content-text"><?php _e("ALT TEXT", "newsletter") ?><span>(optional but recommended)</span></div>
+            <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input alt"/></div>
+            <div class="tnpc-edit-box-content-text"><?php _e("LINK", "newsletter") ?> <span>(optional link address including http://)</span></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input url"/></div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-save">Save</div>
-            <div class="tnpc-edit-box-buttons-cancel">Cancel</div>
+            <div class="tnpc-edit-box-buttons-save"><?php _e("Save", "newsletter") ?></div>
+            <div class="tnpc-edit-box-buttons-cancel"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>
@@ -47,55 +49,55 @@
 
 <div class="tnpc-edit" id="tnpc-edit-link">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Link</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Link", "newsletter") ?></div>
 
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">TITLE </div>
+            <div class="tnpc-edit-box-content-text"><?php _e("TITLE", "newsletter") ?> </div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input title"/></div>
-            <div class="tnpc-edit-box-content-text">URL <span>(full address including http://)</span></div>
+            <div class="tnpc-edit-box-content-text"><?php _e("URL", "newsletter") ?> <span>(full address including http://)</span></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input url"/></div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-save">Save</div>
-            <div class="tnpc-edit-box-buttons-cancel">Cancel</div>
+            <div class="tnpc-edit-box-buttons-save"><?php _e("Save", "newsletter") ?></div>
+            <div class="tnpc-edit-box-buttons-cancel"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>
 
 <div class="tnpc-edit" id="tnpc-edit-button">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Button</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Button", "newsletter") ?></div>
 
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">TITLE </div>
+            <div class="tnpc-edit-box-content-text"><?php _e("TITLE", "newsletter") ?> </div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input title"/></div>
-            <div class="tnpc-edit-box-content-text">URL <span>(full address including http://)</span></div>
+            <div class="tnpc-edit-box-content-text"><?php _e("URL", "newsletter") ?> <span>(full address including http://)</span></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input url"/></div>
-            <div class="tnpc-edit-box-content-text">Text Color</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Text Color", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input fgcolor"/></div>
-            <div class="tnpc-edit-box-content-text">Background Color</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Background Color", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input bgcolor"/></div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-save">Save</div>
-            <div class="tnpc-edit-box-buttons-cancel">Cancel</div>
+            <div class="tnpc-edit-box-buttons-save"><?php _e("Save", "newsletter") ?></div>
+            <div class="tnpc-edit-box-buttons-cancel"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>
 
 <div class="tnpc-edit" id="tnpc-edit-title">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Title</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Title", "newsletter") ?></div>
 
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">Title</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Title", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input title"/></div>
-            <div class="tnpc-edit-box-content-text">Text Color</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Text Color", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input color"/></div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-save">Save</div>
-            <div class="tnpc-edit-box-buttons-cancel">Cancel</div>
+            <div class="tnpc-edit-box-buttons-save"><?php _e("Save", "newsletter") ?></div>
+            <div class="tnpc-edit-box-buttons-cancel"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>
@@ -103,15 +105,15 @@
 
 <div class="tnpc-edit" id="tnpc-edit-text">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Text</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Text", "newsletter") ?></div>
 
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">Text</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Text", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><textarea class="tnpc-edit-box-content-field-textarea text"></textarea></div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-save">Save</div>
-            <div class="tnpc-edit-box-buttons-cancel">Cancel</div>
+            <div class="tnpc-edit-box-buttons-save"><?php _e("Save", "newsletter") ?></div>
+            <div class="tnpc-edit-box-buttons-cancel"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>
@@ -119,10 +121,10 @@
 
 <div class="tnpc-edit" id="tnpc-edit-icon">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Icon</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Icon", "newsletter") ?></div>
 
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">Select Icon</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Select Icon", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-icons">
 
 
@@ -1377,19 +1379,19 @@
             </div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-cancel" style="margin-left:0px;">Cancel</div>
+            <div class="tnpc-edit-box-buttons-cancel" style="margin-left:0px;"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>
 
 <div class="tnpc-edit" id="tnpc-edit-block">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Block</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Block", "newsletter") ?></div>
 
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">Background Color</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("_Background Color", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input bgcolor"/></div>
-            <div class="tnpc-edit-box-content-text">Font Family</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Font Family", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field">
                 <select class="tnpc-edit-box-content-field-input font">
                     <optgroup label="Sans Serif Web Safe Fonts">
@@ -1412,20 +1414,20 @@
             </div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-save">Save</div>
-            <div class="tnpc-edit-box-buttons-cancel">Cancel</div>
+            <div class="tnpc-edit-box-buttons-save"><?php _e("Save", "newsletter") ?></div>
+            <div class="tnpc-edit-box-buttons-cancel"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>
 
 <div class="tnpc-edit" id="tnpc-edit-posts">
     <div class="tnpc-edit-box">
-        <div class="tnpc-edit-box-title">Edit Block</div>
+        <div class="tnpc-edit-box-title"><?php _e("Edit Block", "newsletter") ?></div>
 
         <div class="tnpc-edit-box-content">
-            <div class="tnpc-edit-box-content-text">Background Color</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Background Color", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input bgcolor"/></div>
-            <div class="tnpc-edit-box-content-text">Font Family</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Font Family", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field">
                 <select class="tnpc-edit-box-content-field-input font">
                     <optgroup label="Sans Serif Web Safe Fonts">
@@ -1448,19 +1450,20 @@
                     </optgroup>
                 </select>
             </div>
-            <div class="tnpc-edit-box-content-text">Number of Posts</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Number of posts", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="number" class="tnpc-edit-box-content-field-input number" value="3"/></div>
-            <div class="tnpc-edit-box-content-text">Categories</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Categories", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field">
 <!--                <input type="text" class="tnpc-edit-box-content-field-input categories"/>-->
                 <?php $controls->categories_group('theme_categories'); ?>
             </div>
-            <div class="tnpc-edit-box-content-text">Tags (comma separated)</div>
+            <div class="tnpc-edit-box-content-text"><?php _e("Tags (comma separated)", "newsletter") ?></div>
             <div class="tnpc-edit-box-content-field"><input type="text" class="tnpc-edit-box-content-field-input tags"/></div>
         </div>
         <div class="tnpc-edit-box-buttons">
-            <div class="tnpc-edit-box-buttons-save">Save</div>
-            <div class="tnpc-edit-box-buttons-cancel">Cancel</div>
+            <?php _e("Any prior changes to single posts will be lost when editing these settings.", "newsletter") ?>
+            <div class="tnpc-edit-box-buttons-save"><?php _e("Save", "newsletter") ?></div>
+            <div class="tnpc-edit-box-buttons-cancel"><?php _e("Cancel", "newsletter") ?></div>
         </div>
     </div>
 </div>

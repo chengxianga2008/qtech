@@ -7,53 +7,53 @@ $module = NewsletterUsers::instance();
 
 $lists = array('0' => 'All');
 for ($i = 1; $i <= NEWSLETTER_LIST_MAX; $i++) {
-    if (!isset($options_profile['list_' . $i]))
+    if (!isset($options_profile['list_' . $i])) {
         $options_profile['list_' . $i] = '';
+    }
     $lists['' . $i] = '(' . $i . ') ' . $options_profile['list_' . $i];
 }
 ?>
 
 <div class="wrap" id="tnp-wrap">
-    
+
     <?php include NEWSLETTER_DIR . '/tnp-header.php'; ?>
 
     <div id="tnp-heading">
-        
+
         <h2><?php _e('Export', 'newsletter') ?></h2>
         <p>
-            The import and export functions <strong>ARE NOT for backup</strong>. 
-            If you want to backup you should consider to backup the
-            wp_newsletter* tables.
+            The import and export functions <strong>ARE NOT</strong> for backup. 
+            If you want to backup you should consider to backup the <code><?php echo $wpdb->prefix ?>newsletter*</code> tables.
         </p>
 
     </div>
-        <div id="tnp-body">
-            
-    <form method="post" action="<?php echo plugins_url('newsletter'); ?>/users/csv.php">
-        <?php $controls->init(); ?>
-        <table class="form-table">
-             <tr>
-                 <th>Fields separator</th>
-                 <td>
-                    <?php $controls->select('separator', array(';' => 'Semicolon', ',' => 'Comma', 'tab' => 'Tabulation')); ?>
-                     <p class="description">Try to change the separator if Excel does not recognize the columns.</p>
-                 </td>
-             </tr>
-            <tr>
-                <th>Limit to</th>
-                <td>
-                    <?php $controls->select('list', $lists); ?>
-                    <p class="description">Limit to the user with that preference active</p>
-                </td>
-            </tr>
-        </table>
-        <p>
-            <?php $controls->button('export', 'Export'); ?>
-        </p>
-    </form>
+    <div id="tnp-body">
 
-</div>
-    
+        <form method="post" action="<?php echo admin_url('admin-ajax.php') ?>?action=newsletter_users_export">
+            <?php $controls->init(); ?>
+            <table class="form-table">
+                <tr>
+                    <th><?php _e('Field separator', 'newsletter') ?></th>
+
+                    <td>
+                        <?php $controls->select('separator', array(';' => 'Semicolon', ',' => 'Comma', 'tab' => 'Tabulation')); ?>
+                        <p class="description">Try to change the separator if Excel does not recognize the columns.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <th><?php _e('List', 'newsletter') ?></th>
+                    <td>
+                        <?php $controls->select('list', $lists); ?>
+                    </td>
+                </tr>
+            </table>
+            <p>
+                <?php $controls->button('export', __('Export', 'newsletter')); ?>
+            </p>
+        </form>
+
+    </div>
+
     <?php include NEWSLETTER_DIR . '/tnp-footer.php'; ?>
-    
+
 </div>
