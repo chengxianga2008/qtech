@@ -311,7 +311,7 @@ if ($controls->is_action('test')) {
                         
                         <input id="options-message" name="options[message]" type="hidden">
                         
-                        <div id="tnpc-html-editor"><?php echo htmlentities($email['message']) ?></div>
+                        <div id="tnpc-html-editor"><?php echo esc_html($email['message']) ?></div>
                         <script src="<?php echo plugins_url('newsletter') ?>/js/ace/ace.js" type="text/javascript" charset="utf-8"></script>
                         <script>
                             var editor = ace.edit("tnpc-html-editor");

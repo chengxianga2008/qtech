@@ -444,6 +444,7 @@
 .tnpc-subject input {
     padding: 12px 15px;
     margin-left: 20px;
+    width: 70%;
 }
 
 .tnpc-subject a {

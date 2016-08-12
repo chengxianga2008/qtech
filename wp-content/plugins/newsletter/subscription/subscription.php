@@ -1583,8 +1583,9 @@ class NewsletterSubscription extends NewsletterModule {
 
     function notify_admin($user, $subject) {
 
-        if ($this->options['notify'] != 1)
+        if ($this->options['notify'] != 1) {
             return;
+        }
 
         $message = "Subscriber details:\n\n" .
                 "email: " . $user->email . "\n" .
@@ -1593,29 +1594,33 @@ class NewsletterSubscription extends NewsletterModule {
                 "gender: " . $user->sex . "\n";
 
         $options_profile = get_option('newsletter_profile');
+        
+        for ($i = 0; $i < NEWSLETTER_LIST_MAX; $i++) {
+            if (empty($options_profile['list_' . $i])) {
+                continue;
+            }
+            $field = 'list_' . $i;
+            $message .= $options_profile['list_' . $i] . ': ' . (empty($user->$field)?"NO":"YES") . "\n";
+        }
 
         for ($i = 0; $i < NEWSLETTER_PROFILE_MAX; $i++) {
-            if ($options_profile['profile_' . $i] == '')
+            if (empty($options_profile['profile_' . $i])) {
                 continue;
+            }
             $field = 'profile_' . $i;
             $message .= $options_profile['profile_' . $i] . ': ' . $user->$field . "\n";
         }
 
-        for ($i = 0; $i < NEWSLETTER_LIST_MAX; $i++) {
-            if ($options_profile['list_' . $i] == '')
-                continue;
-            $field = 'list_' . $i;
-            $message .= $options_profile['list_' . $i] . ': ' . $user->$field . "\n";
-        }
+        
 
         $message .= "token: " . $user->token . "\n" .
                 "status: " . $user->status . "\n";
         $email = trim($this->options['notify_email']);
-        if (empty($email))
+        if (empty($email)) {
             $email = get_option('admin_email');
+        }
         $blogname = wp_specialchars_decode(get_option('blogname'), ENT_QUOTES);
         Newsletter::instance()->mail($email, '[' . $blogname . '] ' . $subject, array('text'=>$message));
-        //wp_mail($email, '[' . $blogname . '] ' . $subject, array('text'=>$message));
     }
 
 }

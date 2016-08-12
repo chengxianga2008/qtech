@@ -17,7 +17,28 @@ class NewsletterUsers extends NewsletterModule {
     }
 
     function __construct() {
-        parent::__construct('users', '1.0.5');
+        parent::__construct('users', '1.0.6');
+        add_action('init', array($this, 'hook_init'));
+    }
+
+    function hook_init() {
+        if (is_admin()) {
+            add_action('wp_ajax_newsletter_users_export', array($this, 'hook_wp_ajax_newsletter_users_export'));
+        }
+    }
+
+    function hook_wp_ajax_newsletter_users_export() {
+        require_once NEWSLETTER_INCLUDES_DIR . '/controls.php';
+        $controls = new NewsletterControls();
+        if (current_user_can('manage_options') || ($newsletter->options['editor'] == 1 && current_user_can('manage_categories'))) {
+            $controls = new NewsletterControls();
+
+            if ($controls->is_action('export')) {
+                NewsletterUsers::instance()->export($controls->data);
+            }
+        } else {
+            die('Not allowed.');
+        }
     }
 
     function upgrade() {
@@ -65,8 +86,8 @@ class NewsletterUsers extends NewsletterModule {
         // Old problems...
         $this->upgrade_query("alter table " . NEWSLETTER_USERS_TABLE . " convert to character set utf8");
 
-        $this->upgrade_query("update " . NEWSLETTER_USERS_TABLE . " set sex='n' where sex='' or sex=' '");     
-        
+        $this->upgrade_query("update " . NEWSLETTER_USERS_TABLE . " set sex='n' where sex='' or sex=' '");
+
         if ($this->old_version < '1.0.5') {
             $this->upgrade_query("alter table " . NEWSLETTER_USERS_TABLE . " add column unsub_email_id int not null default 0");
             $this->upgrade_query("alter table " . NEWSLETTER_USERS_TABLE . " add column unsub_time int not null default 0");
@@ -91,7 +112,7 @@ class NewsletterUsers extends NewsletterModule {
 
         // BOM
         echo "\xEF\xBB\xBF";
-        
+
         $sep = ';';
         if ($options) {
             $sep = $options['separator'];
@@ -99,7 +120,7 @@ class NewsletterUsers extends NewsletterModule {
         if ($sep == 'tab') {
             $sep = "\t";
         }
-        
+
         // CSV header
         echo '"Email"' . $sep . '"Name"' . $sep . '"Surname"' . $sep . '"Sex"' . $sep . '"Status"' . $sep . '"Date"' . $sep . '"Token"' . $sep;
 
@@ -121,7 +142,7 @@ class NewsletterUsers extends NewsletterModule {
         $page = 0;
         while (true) {
             $query = "select * from " . NEWSLETTER_USERS_TABLE . "";
-            $list = (int)$_POST['options']['list'];
+            $list = (int) $_POST['options']['list'];
             if (!empty($list)) {
                 $query .= " where list_" . $list . "=1";
             }
