@@ -615,10 +615,13 @@ function wpdm_new_download_notification($post_id, $post, $update){
 		update_post_meta($post_id, "_email_sent", "1");
 	}
 	
-	$today = getdate();
+	$today = date('d-M-Y');
+	$download_url = get_permalink($post_id);
 	$search_arr = array('[site_name]','[date]','[package_name]','[download_url]');
-	$replace_arr = array('QTech Technology', $today, $post->post_name, $post->post_name);
+	$replace_arr = array('QTech Technology', $today, $post->post_name, $download_url);
 	$message = str_replace($search_arr, $replace_arr, file_get_contents(wpdm_tpl_path('wpdm-email-lock-template.html',WPDM_BASE_DIR.'email-templates/')));
+	
+	error_log($message);
 	
 	//From: ' . $eml['fromname'] . ' <' . $eml['frommail'] . '>' . "\r\n
 	$headers = "Content-type: text/html\r\n";
@@ -626,9 +629,7 @@ function wpdm_new_download_notification($post_id, $post, $update){
 	$subscribers = get_users( 'role=subscriber' );
 	// Array of WP_User objects.
 	foreach ( $subscribers as $subscriber ) {
-		
-		error_log($subscriber->user_email);
-		//error_log($subscriber->display_name);
+
 		wp_mail($subscriber->user_email, "New File Download Available From QTech", stripcslashes($message), $headers);
 				
 	}
