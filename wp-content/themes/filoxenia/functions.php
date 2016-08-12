@@ -595,21 +595,21 @@ function wpdm_new_download_notification($post_id, $post, $update){
 // print_r($package);
 //to do: write your notification code here
 	
-// 	if($update){
-// 		return;
-// 	}
+	if($update){
+		return;
+	}
 	
-// 	if ( $post->post_type != "wpdmpro" ) {
-// 		return;
-// 	}
+	if ( $post->post_type != "wpdmpro" ) {
+		return;
+	}
 	
-// 	if ( $post->post_status != "publish" ){
-// 		return;
-// 	}
+	if ( $post->post_status != "publish" ){
+		return;
+	}
 	
-// 	if ( wp_is_post_revision( $post_id ) ){
-// 		return;
-// 	}
+	if ( wp_is_post_revision( $post_id ) ){
+		return;
+	}
 	
 	$today = getdate();
 	$search_arr = array('[site_name]','[date]','[package_name]','[download_url]');
