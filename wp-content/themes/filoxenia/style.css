@@ -19643,3 +19643,7 @@ div.whmcscontainer .align-right .btn{
 	width: 100%;
 	border-radius: 5px;
 }
+
+.support_bs button, .support_bs input, .support_bs optgroup, .support_bs select, .support_bs textarea{
+	color: #111;
+}
