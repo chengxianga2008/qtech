@@ -147,7 +147,9 @@ if(isset($params['jstable']) && $params['jstable']==1): ?>
                     </td>
                     <td class="hidden-sm hidden-xs"><?php echo $cats; ?></td>
                     <td class="hidden-xs"><?php echo get_the_date(); ?></td>
-                    <td class="hidden-sm hidden-xs"><?php echo json_encode($data); ?></td>
+                    <td class="hidden-sm hidden-xs"><?php 
+                    	$package_size = $data['package_size'];    	
+                    echo $package_size; ?></td>
                     <td><?php echo $download_link; ?></td>
                 </tr>
             <?php } endwhile; ?>

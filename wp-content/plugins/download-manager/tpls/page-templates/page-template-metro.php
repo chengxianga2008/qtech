@@ -11,7 +11,7 @@
 <img src="[thumb_url_600x450]">
 <table class="table table-bordered">
 <tbody>
-<tr><td>Version</td><td>[version]</td></tr>
+<tr><td>Version1</td><td>[version]</td></tr>
 <tr><td>Download</td><td>[download_count]</td></tr>
 <tr><td>Stock</td><td>[quota]</td></tr>
 <tr><td>Total Files</td><td>[file_count]</td></tr>
