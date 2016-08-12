@@ -587,6 +587,52 @@ function filoxenia_register_required_plugins() {
     tgmpa( $plugins, $config );
 }
 
+// add by jack
+
+function wpdm_new_download_notification($post_id, $post, $update){
+
+// package is an array with all package data, try
+// print_r($package);
+//to do: write your notification code here
+	
+// 	if($update){
+// 		return;
+// 	}
+	
+// 	if ( $post->post_type != "wpdmpro" ) {
+// 		return;
+// 	}
+	
+// 	if ( $post->post_status != "publish" ){
+// 		return;
+// 	}
+	
+// 	if ( wp_is_post_revision( $post_id ) ){
+// 		return;
+// 	}
+	
+	$today = getdate();
+	$search_arr = array('[site_name]','[date]','[package_name]','[download_url]');
+	$replace_arr = array('QTech Technology', $today, $post->post_name, $post->post_name);
+	$message = str_replace($search_arr, $replace_arr, file_get_contents(wpdm_tpl_path('wpdm-email-lock-template.html',WPDM_BASE_DIR.'email-templates/')));
+	
+	//From: ' . $eml['fromname'] . ' <' . $eml['frommail'] . '>' . "\r\n
+	$headers = "Content-type: text/html\r\n";
+	
+	$subscribers = get_users( 'role=subscriber' );
+	// Array of WP_User objects.
+	foreach ( $subscribers as $subscriber ) {
+		
+		//error_log($subscriber->display_name);
+		wp_mail($subscriber->user_email, "New File Download Available From QTech", stripcslashes($message), $headers);
+				
+	}
+
+}
+
+add_action("save_post", "wpdm_new_download_notification", 10, 3);
+
+
 class Logout_Widget extends WP_Widget {
 
 	/**

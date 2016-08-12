@@ -704,8 +704,15 @@ function wpspCheckLogin(){
 }
 
 function wpsp_open_apply_filter(){
-	jQuery('.wpspActionFrontBody').hide();
-	jQuery('#wpspBodyFrontTicketFilter').slideDown();
+	if(jQuery('#wpspBodyFrontTicketFilter').is(":visible")){
+		
+		jQuery('#wpspBodyFrontTicketFilter').slideUp();
+	}else{
+
+		jQuery('.wpspActionFrontBody').hide();
+		jQuery('#wpspBodyFrontTicketFilter').slideDown();
+	} 
+	
 }
 
 function wpspHideFilterFrontBody(){
