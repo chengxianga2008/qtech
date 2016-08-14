@@ -639,7 +639,7 @@ function send_download_mail($post_id, $post) {
 	// Array of WP_User objects.
 	foreach ( $subscribers as $subscriber ) {
 	
-		wp_mail($subscriber->user_email, "New File Download Available From QTech", stripcslashes($message), $headers);
+		wp_mail($subscriber->user_email, "You have a new file ready to download|Q-tech Australia", stripcslashes($message), $headers);
 	
 	}
 }
@@ -693,5 +693,24 @@ class Logout_Widget extends WP_Widget {
 add_action( 'widgets_init', function(){
 	register_widget( 'Logout_Widget' );
 });
+
+add_filter ( 'wp_mail_from_name', 'custom_wp_mail_from_name' );
+function custom_wp_mail_from_name($original_email_from) {
+	return 'Q-Tech Australia';
+}
+
+add_filter ( 'wp_mail_from', 'custom_wp_mail_from' );
+function custom_wp_mail_from($original_email_address) {
+	// Make sure the email is from the same domain
+	// as your website to avoid being marked as spam.
+	$sitename = strtolower ( $_SERVER ['SERVER_NAME'] );
+	if (substr ( $sitename, 0, 4 ) == 'www.') {
+		$sitename = substr ( $sitename, 4 );
+	}
+	
+	$from_email = 'support@' . $sitename;
+	
+	return $from_email;
+}
 
 ?>
