@@ -75,7 +75,8 @@
 
                 <nav class="top-bar" data-topbar role="navigation" data-options="back_text: <i class='fa fa-chevron-left'></i> Back; mobile_show_parent_link: false;">
 
-                    <ul class="title-area">
+                   
+ <ul class="title-area">
 
                         <li class="name">
 
@@ -148,8 +149,9 @@
                     </div>
 
 
-
                 </nav>
+
+
 
             </div>
 
@@ -157,7 +159,10 @@
 
     </div>
 
+<?php echo do_shortcode( "[hmenu id=1]" ); ?>
+
 </header>
+
 
 <div class="space"></div>
 

@@ -803,7 +803,7 @@ html, body {
 
 body {
 
-  background: #35383f;
+  background: #fff;
 
   color: #485166;
 
@@ -8797,8 +8797,6 @@ meta.foundation-mq-topbar {
 
   width: 100%;
 
-  background: #fff; 
-
   position: fixed;
 
   width: 100%;
@@ -16745,13 +16743,10 @@ ul[class*="block-grid"] li img {
 
 header {
 
-  background: #2e3138;
-
-  border-top: #f27950 2px solid;
-
-  border-bottom: #6796b6 1px solid;
-
-  padding: 1.125rem 0; }
+  border-top: #f27950 3px solid;
+  border-bottom: #6796b6 0px solid;
+  padding: 1px; 
+  margin-top: -47px; }
 
 
 
