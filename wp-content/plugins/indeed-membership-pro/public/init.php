@@ -69,7 +69,7 @@ function ihc_init(){
 	ihc_block_url($url, $current_user, $postid);//function available in public/functions.php
 	
 	//remove admin bar
-	if (!current_user_can('administrator')){
+	if (!current_user_can('administrator') && !current_user_can('editor')){
 		show_admin_bar(false);
 	}
 }
