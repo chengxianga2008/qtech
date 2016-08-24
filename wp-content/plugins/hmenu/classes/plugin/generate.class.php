@@ -3421,10 +3421,17 @@
 				foreach($obj as $i){
 					#NAV ITEM ROLES
 					$item_roles = explode(',', $i['roles']);
+					error_log(json_encode($i));
 					$show_item = false;
 					if(empty($item_roles[0]) || !empty($item_roles) && in_array($current_role, $item_roles)){
 						$show_item = true;
 					}
+					
+					// added by Jack
+					if($i['name'] == "Login" && is_user_logged_in()){
+						$show_item = false;
+					}
+					
 					#GET LINK
 					$the_url = '';
 					#CHECK ICON ACTIVE STATE

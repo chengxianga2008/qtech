@@ -19631,6 +19631,7 @@ div.whmcscontainer .align-right .btn{
 .ihc-logout-wrap.ihc-login-template-6{
 	width: 100%;
 	display: block;
+	margin: 0px;
 }
 
 .ihc-logout-wrap.ihc-login-template-6 a{
@@ -19650,3 +19651,32 @@ div.whmcscontainer .align-right .btn{
 	margin-left: 10px;
 	padding: 0 0.5rem;
 }
+
+#hmenu_load_1 #hmenu_holder_1 .menu_responsive_label{
+	display: none;
+}
+
+#hmenu_load_1 #hmenu_holder_1 .hmenu_toggle_holder{
+	right: 30px;
+}
+
+@media (max-width: 768px){
+	
+	#hmenu_load_1 #hmenu_holder_1 .hmenu_navigation_holder ul.hmenu_full_hover > li:hover{
+		background-color: #444;
+	}
+	
+	.vc_row p{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+}
+
+
+
+@media (min-width: 768px) and (max-width: 992px) {
+	#hmenu_load_1 #hmenu_holder_1 .hmenu_logo img{
+		width: 130px;
+	}
+}	
