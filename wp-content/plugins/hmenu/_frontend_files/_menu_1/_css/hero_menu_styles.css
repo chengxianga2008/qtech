@@ -8,7 +8,7 @@
 						Main holder for entire nav, regardless of width or height, this will wrap it all.
 					*/
 				.hmenu_wrapper_state_1{
-					height:80px;
+					height:84px;
 				}
 				#hmenu_load_1{
 					display:table; /* This used to have !important - removed to allow custom styles to take affect */
@@ -25,8 +25,8 @@
 					z-index:9999;
 				}
 				#hmenu_load_1 .hmenu_main_holder{
-					max-width:1200px; /* width of menu, can be 100% or fixed '1050px' */
-					height:80px;
+					max-width:5000px; /* width of menu, can be 100% or fixed '1050px' */
+					height:84px;
 					display:block;
 					z-index:9999;
 					margin:0 auto;
@@ -62,7 +62,7 @@
 				/*menu bg */
 				
 							#hmenu_load_1 .hmenu_main_holder{ 
-								background: rgba(255,255,255,1.0) ; 
+								background: rgba(255,255,255,0.9) ; 
 								filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=1 ) ;
 							}
 								
@@ -75,7 +75,7 @@
 				/* menu logo */
 				#hmenu_load_1 .hmenu_logo{  
 					height:inherit; 
-					line-height:80px; /* equal to the height of the menu */ 
+					line-height:84px; /* equal to the height of the menu */ 
 					float:left; 
 					text-align:center; 
 				}
@@ -97,14 +97,14 @@
 						Inner holder for all items, used for fixed width of the inner items
 					*/
 				#hmenu_load_1 .hmenu_inner_holder{
-					width:100%; 
+					width:1100px; 
 					height:inherit;
 					margin:0 auto;
 					position:relative;
 				}
 			
 				#hmenu_load_1 .hmenu_eyebrow .hmenu_eyebrow_inner{
-					width:100%; 
+					width:1100px; 
 					height:inherit;
 					margin:0 auto;
 					padding-left:10px;
@@ -226,7 +226,7 @@
 				#hmenu_load_1 .hmenu_navigation_holder > ul > li > a > .hmenu_wrap:before{
 					font-size:20px;
 					float:left;
-					padding-left:10px;
+					padding-left:7px;
 					margin:0;
 				}
 				
@@ -236,47 +236,47 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_1 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_1 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_6:before{
+						#hmenu_load_1 .hmenu_nav_uni_15:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_6 span{
-							padding-left:10px;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_15 span{
+							padding-left:7px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_6 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_15 span{
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_7:before{
+						#hmenu_load_1 .hmenu_nav_uni_16:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_7 span{
-							padding-left:10px;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_16 span{
+							padding-left:7px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_7 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_16 span{
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_8:before{
+						#hmenu_load_1 .hmenu_nav_uni_17:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_8 span{
-							padding-left:10px;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_17 span{
+							padding-left:7px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_8 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_17 span{
+							padding-right:7px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_2:before{
@@ -284,11 +284,23 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_2 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_2 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_18:before{
+							color:#97D7F2 !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_18 span{
+							padding-left:7px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_18 span{
+							padding-right:7px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_3:before{
@@ -296,27 +308,35 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_3 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_3 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_9:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
-							padding-left:10px;
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_nav_uni_4:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
-							padding-left:10px;
-						}
-					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_5:before{
@@ -324,11 +344,35 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_5 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_5 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_11:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_11 span{
+							padding-left:7px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_11 span{
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_12:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_12 span{
+							padding-left:7px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_12 span{
+							padding-right:7px !important;
 						}
 					
 				
@@ -412,7 +456,7 @@
 						width:200px;						
 					;
 					display:table;					
-					top:80px; /* this takes the height of the menu + 1margin */
+					top:84px; /* this takes the height of the menu + 1margin */
 					left:0;
 				}
 				
@@ -431,7 +475,7 @@
 				#hmenu_load_1 .hmenu_sub > ul > li > a > .hmenu_wrap{
 					display:block;
 					
-						padding:10px 5px 10px 5px ;						
+						padding:15px 5px 10px 15px ;						
 					;
 					margin:0;
 				}
@@ -571,24 +615,24 @@
 				
 					
 				
-						/* 80px */
+						/* 84px */
 						#hmenu_load_1 .hmenu_item_devider{
 							float:left;
 							height:30px; /* height opf nav */
 							width:0px;
 							border-left: 1px solid rgb(240,240,240, 0.8); border-left: 1px solid rgba(240,240,240, 0.8); -webkit-background-clip: padding-box; background-clip: padding-box;
-							margin-top:25px ;
+							margin-top:27px ;
 						}				
 					
 				
 				
-						/* 80px */
+						/* 84px */
 						#hmenu_load_1 .hmenu_grp_devider{
 							float:left;
 							height:30px; /* height opf nav */
 							width:0px;
 							border-left: 1px solid rgb(240,240,240, 0.8); border-left: 1px solid rgba(240,240,240, 0.8); -webkit-background-clip: padding-box; background-clip: padding-box;
-							margin-top:25px ;
+							margin-top:27px ;
 						}				
 									
 				
@@ -784,7 +828,7 @@
 				#hmenu_load_1 .hmenu_mega_sub{
 					width:100%;
 					position:absolute;
-					top:80px;
+					top:84px;
 					padding:0 0 0 0;
 					left:0;
 					z-index:9999;
@@ -1176,7 +1220,7 @@
 					padding-right: 0px
 				}
 				#hmenu_load_1 .logo_mobile{
-					padding-left: 10px
+					padding-left: 5px
 				}
 				#hmenu_load_1 .logo_sticky{
 					padding-left: 1px
@@ -1350,7 +1394,7 @@
 					/*menu bg */
 					
 							.hmenu_sticky_1 .hmenu_main_holder{ 
-								background: rgba(255,255,255,1.0)  !important; 
+								background: rgba(255,255,255,0.9)  !important; 
 								filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=1 )  !important;
 							}
 							
@@ -1685,43 +1729,43 @@
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_1 span{
-							padding-right:10px !important;
+							padding-right:20px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_6:before{
+						#hmenu_load_1 .hmenu_nav_uni_15:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_6 span{
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_15 span{
 							padding-left:10px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_6 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_15 span{
+							padding-right:20px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_7:before{
+						#hmenu_load_1 .hmenu_nav_uni_16:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_7 span{
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_16 span{
 							padding-left:10px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_7 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_16 span{
+							padding-right:20px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_8:before{
+						#hmenu_load_1 .hmenu_nav_uni_17:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_8 span{
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_17 span{
 							padding-left:10px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_8 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_17 span{
+							padding-right:20px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_2:before{
@@ -1733,7 +1777,19 @@
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_2 span{
-							padding-right:10px !important;
+							padding-right:20px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_18:before{
+							color:#97D7F2 !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_18 span{
+							padding-left:10px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_18 span{
+							padding-right:20px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_3:before{
@@ -1745,23 +1801,31 @@
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_3 span{
-							padding-right:10px !important;
+							padding-right:20px !important;
 						}
 					
+						#hmenu_load_1 .hmenu_nav_uni_9:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
 							padding-left:10px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
-							padding-right:10px !important;
+							padding-right:20px !important;
 						}
 					
+						#hmenu_load_1 .hmenu_nav_uni_4:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
 							padding-left:10px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
-							padding-right:10px !important;
+							padding-right:20px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_5:before{
@@ -1773,7 +1837,31 @@
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_5 span{
-							padding-right:10px !important;
+							padding-right:20px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_11:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_11 span{
+							padding-left:10px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_11 span{
+							padding-right:20px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_12:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_12 span{
+							padding-left:10px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_12 span{
+							padding-right:20px !important;
 						}
 					
 					
@@ -1826,47 +1914,47 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_1 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_1 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_6:before{
+						#hmenu_load_1 .hmenu_nav_uni_15:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_6 span{
-							padding-left:10px;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_15 span{
+							padding-left:7px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_6 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_15 span{
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_7:before{
+						#hmenu_load_1 .hmenu_nav_uni_16:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_7 span{
-							padding-left:10px;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_16 span{
+							padding-left:7px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_7 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_16 span{
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_nav_uni_8:before{
+						#hmenu_load_1 .hmenu_nav_uni_17:before{
 							color:#97D7F2 !important;
 							font-size:15px !important;
 						}
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_8 span{
-							padding-left:10px;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_17 span{
+							padding-left:7px;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_8 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_17 span{
+							padding-right:7px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_2:before{
@@ -1874,11 +1962,23 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_2 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_2 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_18:before{
+							color:#97D7F2 !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_18 span{
+							padding-left:7px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_18 span{
+							padding-right:7px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_3:before{
@@ -1886,27 +1986,35 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_3 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_3 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_9:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
-							padding-left:10px;
+							padding-right:7px !important;
 						}
 					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_9 span{
-							padding-right:10px !important;
+						#hmenu_load_1 .hmenu_nav_uni_4:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
-							padding-left:10px;
-						}
-					
-						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_4 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
 						}
 					
 						#hmenu_load_1 .hmenu_nav_uni_5:before{
@@ -1914,11 +2022,35 @@
 							font-size:15px !important;
 						}
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_5 span{
-							padding-left:10px;
+							padding-left:7px;
 						}
 					
 						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_5 span{
-							padding-right:10px !important;
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_11:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_11 span{
+							padding-left:7px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_11 span{
+							padding-right:7px !important;
+						}
+					
+						#hmenu_load_1 .hmenu_nav_uni_12:before{
+							color:#7FCCEE !important;
+							font-size:15px !important;
+						}
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_12 span{
+							padding-left:7px;
+						}
+					
+						#hmenu_load_1 .hmenu_navigation_holder > ul li a .hmenu_nav_uni_12 span{
+							padding-right:7px !important;
 						}
 					
 
