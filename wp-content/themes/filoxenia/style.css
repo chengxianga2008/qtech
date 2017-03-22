@@ -19680,3 +19680,34 @@ div.whmcscontainer .align-right .btn{
 		width: 130px;
 	}
 }	
+
+
+@media only screen and (min-width: 45.063em)
+footer .copyright {
+    text-align: left;
+
+@media only screen and (min-width: 64.063em)
+.column, .columns {
+    position: relative;
+    padding-left: 0.9375rem;
+    padding-right: 0.9375rem;
+    float: left;
+}
+
+@media only screen and (min-width: 45.063em)
+filoxenia.css:8427
+footer .social {
+    text-align: right;
+}
+
+@media only screen and (min-width: 64.063em)
+.column, .columns {
+    position: relative;
+    padding-left: 0.9375rem;
+    padding-right: 0.9375rem;
+    float: left;
+}
+@media only screen and (min-width: 45.063em)
+.medium-8 {
+    width: 66.66667%;
+}
